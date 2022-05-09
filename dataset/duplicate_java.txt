@@ -1,0 +1,2400 @@
+Does Java support tail recursion?
+3616483
+Scanner error with nextInt()
+49411170 65957796 26446599 60183435 48293852 13729294 32357134 60412911 60792016 57113204 65892375 64738265 63654780
+Initializing an array in Java using the 'advanced' for each loop
+6044640 52225092 36113509 11032235 43864846 12255728 45845680 25901554 15844443 26132511
+Replace HTML codes with equivalent characters in Java
+994331
+Java subtract two dates in this format
+453388 3526485 21941622
+How to check if date exceeds more than seven days
+1555262
+Duplicate local variable in switch statement
+10810768
+How to declare an ArrayList with values?
+1005073 40902806
+Why do we need to use the builder design pattern when we can do the same thing with setters?
+328496
+Can we have more than one @Path annotation for same REST method
+47347626 4784028 43184676
+How do I access the super-super class, in Java? [Mini-example inside]
+586363
+Get content and status code from HttpResponse
+14024625
+How to make key value like enum in java
+8389150
+Take string and compare to multiple enum types all at once
+604424
+Comparison method violates its general contract while comparing java.util.Date
+8327514
+Why can I throw null in Java?
+22378147 55535124 6591910
+Attempt to invoke interface method 'boolean java.util.List.add(java.lang.Object)' on a null object reference
+218384
+Ambiguous method in Java 8, why?
+28466925
+synchronize(this) vs synchronize(MyClass.class)
+2056243
+Why are protected instance members not visible inside a subclass within a different package, but protected class members are?
+18573016
+What is the purpose of marker interface?
+4540820 23517882 1023068 1995198
+Why I must specify whole string in Java regular expression?
+4450045
+Any Library For Populating Sample Data In Java Object
+7067734
+Code Object o = true ? new Integer(0) : new Long(1) returns Long with value 0. Why?
+2615498 8002603
+What is @Override for in Java?
+94361
+What's the most concise way to get the inverse of a Java boolean value?
+224311
+Is switch with strings more than just syntactic sugar?
+22110707
+how to calculate number of days between two dates excluding weekend java
+8171968 4600034 54100015
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+48295928 27521326 1393486
+How to find the total memory allocated by an object
+52353
+Static block vs. initializer block in Java?
+1355810 2420389 38350715 335311
+How to use split a string after a certain length?
+3760152
+When to use phantom references in Java?
+1599069
+What do these arrows mean in Eclipse Kepler?
+8356923
+AtomicInteger and volatile
+9749746
+HashSet contains method, strange behavior
+34908028 14504901
+Parsing the CN out of a certificate DN
+2914521
+Getting the filenames of all files in a folder
+1844688 5259872 16510546 61110291
+How to gracefuly shutdown a Spring Boot application by start-stop-daemon
+8585350
+Image changes color when saved with java
+9340569
+Dividing BigDecimals results in ArithmeticException
+2749375
+Why does Java let you cast to a collection?
+16186474
+Is there a right way to build a URL?
+883136
+Java 9, Set.of() and Map.of() varargs overloads
+41918934 31924249 3737882 43533835 47907342 50224031
+How does a for-each loop work?
+85190
+<h:inputSecret> becomes empty automatically even if i keep value in the back bean for it
+3776263
+Does Java have a "IN" operator or function like SQL?
+1128723
+Can't create custom query method in Spring Data Repository
+11880924
+Integer.toString()
+3335737
+Java 8 Streams Filter Intention of Lazy Evaluation
+24054773
+Date Conversion from String to sql Date in Java giving different output?
+8770726
+Java - How to find out whether a File name is valid?
+468789
+Java: How to check if a lock can be acquired?
+1779795 44888606
+Method parameters order in Java
+2201688
+java library for reading RSS and ATOM feeds
+113063
+Write file using BufferedWriter in Java
+13426142
+Synchronize on value, not object
+133988
+How to allow empty strings in String.split()?
+14602062
+Why does returning null (where a boolean is expected) as the result of a ternary operator compile?
+3882095
+How to calculate the running time of my program?
+180158
+remove all special characters in java
+1805518
+Java copy section of array
+11001720
+Java: Try/Catch Statements: While exception is caught, repeat try statements?
+13239972
+Why do java 8 lambdas allow access to non-final class variables?
+25055392 23580826
+Determine JRE architecture 32-bit vs 64-bit
+2062020
+Sorting a collection of objects
+42903137 28242533 14509321 1512366 1814095 18036144 34116046 20480723 27048309 35094072 10703769 30011930 17077631
+Multiple row insert in SQL Server from Java
+4355046
+Can we instantiate an abstract class directly?
+13670991
+Division of integers in Java
+37631490 47252738 51904515 28461317 30155535 3714066 33441555 25492246 44435481 47767844 29877030 37677611 19755821 17940528 39326512 40852017 34093109 34123319 33532728 38727736 40973372 48529724 49420356 32658759 35276105 58926409 46598487 9251166 37081950 25483872 26716771 41879917 30749551 45439865 60703865 57515644 10455677 36902784 37194625 8819842 28134787 34032515 35563140 34233224 39896712 4685450 3602827 46958483 7286681 33005210 366237 27496094 21077151 55169439 63307168 3144610 41017507 36887722 30632109 46291375 18554032 37795248 54111408 36296638 41325758 65342912 26833346 50338499 63982281 33831882 48468938 33374412 21950672 39757776 40753361 65068497 31890175 40386775 24198620 42523870 28258530 59479527 44522985 39939310 40774126 50785776 21938161 65134835 787700 24510712 31802874 33271549 37341439
+How to create ArrayList properly?
+2279030
+Volatile Vs Atomic
+9749746 31667159
+Sort an ArrayList based on an object field
+2535124 33788468 45366598 18078426 1814095
+Java swing setMaximumSize not working
+4061010
+Relationship between hashCode and equals method in Java
+25222406 27581 2265503
+Java null to int Conditional Operator issue
+8098953
+Definition of Functional Interface in Java 8
+14655913
+Updating property value in properties file without deleting other values
+7461901
+Remove Elements from a HashSet while Iterating
+33322109 223918
+Purpose of defining POSITIVE_INFINITY, NEGATIVE_INFINITY, NaN constants only for floating-point data types, but not for integral data types
+12954193
+calling another method from the main method in java
+59203465 2042813
+Parallel sort slower than serial sort
+23170832
+Java ArrayList removing elements recover wasted space?
+23831157
+Get the size of a 2D array
+4000169 47156233
+Removing accent marks (diacritics) from Latin characters for comparison
+1453171
+sorting arraylist of string in android
+5815423
+Why "implements Runnable" is Preferred over "extends Thread"?
+541487
+Intellij Java 2016 & Maven : how to embed dependencies in JAR?
+574594
+Try-catch-finally-return clarification
+44998370 2309964 18652420
+Why is the reduce combiner function not executed?
+29210176 24202473
+Can one initialise a Java String with a single repeated character to a specific length
+1235179
+Android: Add item to top of arraylist
+12949690
+Java - Create a new String instance with specified length and filled with specific character. Best solution?
+1235179
+Java AES encryption using 32 Byte key - Invalid Key Size
+3862800
+Programmatically calculate memory occupied by a Java Object including objects it references
+52353 2151445
+What is difference between public static and static public?
+16731240
+What's the difference between Printwriter and OutputStream
+5223760
+Undesired behavior of ArrayList remove() in Java
+4534146
+substring method in String class causes memory leak
+14161050
+Why does this generic code in java compile?
+34944059
+Reading an inputStream all at once
+309424
+java.util.Date(int,int,int) deprecated
+5677470
+Error: Registry key 'Software\JavaSoft\Java Runtime Environment'\CurrentVersion'?
+54099530 6362037
+Where to put @Transactional? In interface specification or implementation?
+3120143
+Java Long primitive type maximum limit
+42083953 3001836
+"+=" operator and int long usage
+8710619
+String intern puzzles
+7065337
+difference between printf and println in java?
+548249
+About collect (supplier, accumulator, combiner)
+24202473
+When should I use Boolean instead of boolean?
+3728616
+Fancy time-formatter displaying "5 min ago", "yesterday" etc
+3859288
+Error "Unable to process parts as no multi-part configuration has been provided" when uploading file
+2422468
+Obfuscation: hide hardcoded values in java
+4427238
+What causes this recursive function to crash compared to another nearly identical one?
+2371118
+Why isn't this code causing a ConcurrentModificationException?
+3517666 14994277 30865959 24980651 602636 57563408 27195826 57168307
+Exact difference between CharSequence and String in java
+5234147 45940644 1049228 8445311
+Why Iterator.next() throws ConcurrentModificationException
+602636
+Java unsupported major minor version 52.0
+42294273 34499789 10382929 59676019 22489398 31980412 49112095
+How to set a Java Date object's value to yesterday?
+11425236
+Why is the operator precedence not followed here?
+6800590 28219423
+What is the difference between using a volatile primitive over atomic variables?
+3786825
+Difference between a += 10 and a = a + 10 in java?
+26297041 17356792 23826698 8710619 19957085 9292383
+Which Java library provides base64 encoding/decoding?
+61480064 469695
+Android: rebuild now requires compiler compliance level 5.0 or 6.0. Found '1.7' instead. Why remove of @Override?
+7637144
+Most efficient way to convert InputStream into byte[]?
+1264709
+Why does the Java increment operator allow narrowing operations without explicit cast?
+8710619
+Eclipse gives “Java was started but returned exit code 13”
+11461607
+Value of static variable not changed even after initializing the child class in Java
+48989134
+How to pass list of values as a parameter to IN clause using jdbc template
+1327074
+Access modifiers for inner classes
+595179
+How to read a text-file resource into Java unit test?
+326390 3402735
+string "==" in java check the reference, why this code return true?
+4033625 4744953
+Why does =+ not cause a compile error?
+19236010 54997622
+ArrayList contains one or more entities from another ArrayList
+8708542
+RemoteException java.rmi.UnmarshalException: error unmarshalling return
+9531158
+Auto-generate Javadoc comments in intelliJ?
+1843072
+How to delete an array properly in Java
+5757552
+Why does Calendar.get(Calendar.MONTH) return 0?
+44518416 344380
+Log4j Warning while initializing?
+34647858 12532339 11318806
+How != and == operators work on Integers in Java?
+1148805 16872552 20784619 12205548 5117132 1700081 41817905 13931962 44354075 23925951
+How to modify the AST using Java 9+
+46773519
+Why does List.remove(int) throw java.lang.UnsupportedOperationException?
+7885573
+Calculate distance in meters when you know longitude and latitude in java
+120283
+Transform all elements of a list of strings to upper case
+2644637 36430727
+Re-throwing RuntimeExceptions after catching Checked Exceptions
+13016610
+Java string to math equation
+3422673 25341477
+Are there any advantages of using static import over import?
+420791
+how to replace ' \' with '/' in a java string
+5216272 5756748
+Java "? :" operator?
+30552649 798545
+How to get class of T from Vector<T> in java
+3437897 2390662
+splitting a large string into SET items
+3064423
+Java Unicode to hex string
+2220366
+what is the actual use of interface in java?
+34554886 2124951 1221512 21878127
+Java replaceAll with backreferences
+8604286
+How do I get only instantiable classes with reflections
+1072890
+Convert String Date to String date different format
+3469507 50149765 16871367 52299209 4772425 59707852 54330318 34846358 28177370 6637469 4713825 55046562 35428837 6262310 12503527 4496359 4216745 37481260 51894572 57653165 50513135 55239984 63756271 44848114 55374899 882420 55418808
+Is 'integer + ""' a good way to convert a integer to string in Java?
+4105331
+How to get all possible values of an enum in java? (not knowing the specific Enum)
+2269803
+Concatenation operator (+) vs. concat()
+47605
+Delete the last two characters of the String
+7438612
+In Java, how do I convert a byte array to a string of hex digits while keeping leading zeros?
+9655181 17587622
+10 clients requests for a Servlet.How many servlet instances are created
+2095418
+How to compare two strings are equal in value, what is the best method?
+513832
+Java Swing button colors
+18165160 10134072 4172940
+What is the time complexity of Collections#sort method in Java?
+25830497 4254122
+Check enumsets for same enum values
+2851938
+Java 8 Stream API : Filter on instance, and cast
+22511750
+Function within a function in Java
+7367714
+Trying to build Android Emulator with ionic fails.. "Class not found: javac1.8"
+20702626
+restart timer in java
+1041675
+diff implementation in Java
+132478
+Use of emptyIterator in java
+821536
+Overloading method calls with parameter null
+5229809 30333286 29339879
+How to compare two dates in String format?
+25963720 10609596
+Double brace initializer and array
+5387643
+Why can two variables have the same name?
+48383521 47625531
+parameters in method reference
+38697939 29835382
+Using the features in Java 8, what is the most concise way of transforming all the values of a list?
+40788832 19697932
+What kind of List<?> will automatically eliminate duplicates
+268672
+How to preserve insertion order in HashMap?
+31828069 59413223 64802219 40366957 7427758 27653615 61971469 60887985 41380274 52525554 19164699 54042269 683518 16863263
+How to return a temporary int array in Java
+5387643
+How to traverse Linked Hash Map in reverse?
+54110011 7170871
+Threads ends when run finish?
+3809611
+What are for-each expressions in Java translated to?
+31249482 85190
+What's the difference between Color.black and Color.BLACK?
+7281180
+Java: Putting items from List into HashMap efficiently
+20363719
+How is this code giving me 0 as value of i, instead of 20?
+33669037
+why is java math.round always rounding down?
+4685450
+Creating a nice "LOADING..." animation
+531831
+When to use StringBuilder in Java
+40365565 18467989 10875015 1532461
+Java string split with "." (dot)
+37774432 3387622 2755945 29532525 35176367 22886384 22811601 27181744 53201779 42873853 37933045 66354933 34180443 50372765
+java.lang.StackOverflowError with jackson json and spring and hibernate
+3325387
+How to hide some Eclipse autocomplete results
+2073913
+Is there an Immediately Invoked Anonymous Function for Java?
+38122121 52432899
+Cast via reflection and use of Class.cast()
+13948585 45270533 1555326
+Can we use "return" in finally block
+53665683 47015462 48088 2309964 60743119
+replace all occurrences of a character in a string in java?
+11457236
+Why we need default methods in Java?
+19998309
+@autowired is null in UsernamePasswordAuthenticationFilter Spring Boot
+19896870
+Final keyword in method signatures
+5380177
+pre-increment vs post-increment - for-loop speed
+4831748
+Cannot run Main class in Intellij
+17300318
+What are the uses of inner classes in Java? Are nested classes and inner classes the same?
+70324
+Spring @RequestParam Date Formatting
+15164864
+Splitting a Java String return empty array?
+64510688 3387622
+Why NullPointerException?
+15986475 3404301
+How to check if a key exists in Json Object and get its value
+17487205
+Calling Non-Static Method In Static Method In Java
+18732929 26020036 37200196 25275850 31982538 40606091 4969171 57013460 26051285 14584215 12973529 23120474 15049883 42148570 63588831 39714019 29352615 47492711 32936492 57236335 24603568 19084146 23944243 4848820 37126134 27670455 28088442 39843581
+Java Double Comparison
+6837007
+Is `1/0` a constant expression in Java?
+2934063
+Add String Array to ArrayList
+12853595 61996989
+Java 8 Streams: IntStream to String
+44408714 20266422
+List<E>.contains(Object), why?
+25956358 2994123 857420 4992047
+Java 8: Reference to [method] is ambiguous
+28466925
+cannot find symbol class IOException
+25706216
+Java variable scope in if statement
+48251812 11602533 33238437 47934955 9206618 13956191
+Can we execute a java program without a main() method?
+7591064 8605137
+what is Gang of Four design pattern
+1673841
+How to run Windows commands in JAVA and return the result text as a string
+2007425 4031390
+Return Optional as it is if the returned Optional has value, else call another function
+24599996
+Package private in C#?
+4964887
+Is it possible to enable debug for a Java process after it is started without debug
+376201
+Difference between stream().map() and stream.map({}) in java 8
+11145696 46309032 59414555 25192108
+Calculate size of Object in Java
+52353
+Converting string array to hashmap
+12418334
+What does the ++ operator do to an Integer?
+13280134
+converting a date string into milliseconds in java
+5351483 35743947
+Why null cast a parameter?
+38169185 5806163
+How to create empty folder in java?
+3024002
+Scenario of extending Thread class and implementing Runnable interface
+141284 30543929 541487
+Why Interface cannot have protected methods
+5376970
+How to determine programmatically the current active profile using Spring boot
+9267799
+Strange Java null behavior in Method Overloading
+18271136 17660164 18162281 18265994 19452938 16186252 18536563 19047862 22005110 1545501
+Why a non-static inner-class cannot have static members (fields and methods)?
+53726744 31956340 975134
+Why protected can be access in same Package without inheritance in java?
+215497 902922 27827071
+While debugging java app what information is shown for a variable in a stack frame
+52438987 2322903
+checked exception is invalid for this method
+3762047
+Why are strings immutable in many programming languages?
+19116097 93091 11383415 2365272 30541817 34603055
+Necessity of getter methods
+1568091
+Ignore self-signed ssl cert using Jersey Client
+9619030
+Does Java guarantee that the Class object returned by getClass() will always be the same instance?
+3738919
+How to set fixed size to PriorityQueue in Java?
+7878026
+Are Java Generics an All-or-Nothing Decision?
+662191
+Setting anonymous interface in Kotlin
+50855192
+Specifying order of execution in JUnit test case
+3693626
+Finding all objects that have a given property inside a collection
+122105
+Getting Integer object from ResultSet
+2920364
+try/finally without catch and return value
+65035
+java - what happens if hashCode is not overriden?
+2237720
+Why does this code print two negative numbers?
+8917233 31540421
+Java 8: Merge 2 String Lists into Map
+1839668
+No enclosing instance of type fbMain is accessible. Must qualify the allocation with an enclosing instance of type fbMain
+9560600
+What's the purpose of extending Java serializable class?
+7298782
+How to get all classes names in a package?
+520328
+Add an element to ArrayList when there is no space left
+33147339
+What is cascading in Hibernate?
+3667387 52030247
+What is the default implementation of `hashCode`?
+2237720
+Instruction reordering & happens-before relationship in java
+11970428
+Why should methods called from a class constructor be final?
+7477553
+How do you calculate the variance, median, and standard deviation in C++ or Java?
+1735870
+Array initializer is not allowed here
+64613715 1938101 3078441 57833257 61614717 57354991
+Difference between heap memory and string pool
+513832 58164088 10578984 57269595
+Can I name an array with a variable in java?
+6729605
+What is the maximum amount of data that a String can hold in java?
+1179983
+What is a difference between traditional loop and for-each loop?
+85190
+Do interfaces have toString method?
+62665792 13776018 29240898 19141622 6056124 19824941
+Why is "F" + "alse" not == "False"?
+513832
+javaw.exe cannot find path
+2162121
+Is there a way to enforce that you're switching over all defined values of an enum in Java?
+16797529
+Difference between null==object and object==null
+2398588
+How to use new line character within a ToolTip
+868651
+Where is JRE 11?
+57740608 53111921 52714672 60684312
+Why does Arrays.asList(null) throw a NullPointerException while Arrays.asList(someNullVariable) does not?
+4028059
+Java breaks strong typing! Who can explain it?
+2696812
+FileNotFoundException when file exists with all permissions
+19307622
+Why is the return type not considered when differentiating methods?
+2744511
+list.clear() vs list = new ArrayList<Integer>();
+25050210 10197988 37549285 3823398 11296103 3106537 6757868 46309165 45440891 18370780 10901020 16956702
+Java HashSet with a custom equality criteria?
+5204082
+Why Java inner classes require "final" outer instance variables?
+4732544 7703355 45632099 13775525 35511437 6246301 27020150 44036955 1299837
+How to upload an image and save it in database?
+30544024 2422468 42732340
+What's the best way to handle/format Javadoc and annotations in code?
+3109950
+Conversion in Java from PNG to JPG changes white color into red
+9340569
+JSF vs Facelets vs JSP
+2095397
+How to format a list of strings into
+4671240
+Peculiar behavior of split() of string class
+8157058 4964484 17655415 16216524
+How to convert HTML to PDF using iText
+633780
+what eclipse GUI builder plugin do you suggest
+29426
+How does Java's System.exit() work with try/catch/finally blocks?
+65035 13161835 15264076 33507790 14905006 29993144 33834396
+Why should we declare interface methods as public?
+5376970
+Natural sort order string comparison in Java - is one built in?
+44555880 16468362 18159825 36071506 25317877 104599 7348223
+LinkedList vs ArrayList on a specific android example
+322715
+Why String intern method?
+1855170
+Expanding an Array?
+1647260
+Converting a Date object to a calendar object
+15900289 2727698 19329750
+SimpleDateFormat parsing date with 'Z' literal
+52332995 48594916 2201925 38346406 34071182 39560786 41414613 32843486 45438911
+Getting JSONObject from JSONArray
+32624166 2591098 35370448 58593722 60451478 18977144 1568762
+Why does variables in lambdas have to be final or effectively final?
+4732544 25055392 47998733 54653311
+How to correctly create a date with a specific format?
+8745297 50485203 55346692 6262310 3504986
+How to determine if the interface is functional in Java?
+14655913
+What is a closure? Does java have closures?
+5443510 11860039
+ArrayList public constructor - "Constructs an empty list with an initial capacity of ten" - where?
+34250207
+How can I access the main class object from a function inside the class in Java?
+56974
+Spring boot application error with connect PostgreSQL database
+49110818 46493500
+using forEach to iterate over varArgs
+52365392 27888429
+What is different between method synchronized vs object synchronized ?
+574240
+How can I initialize a collection and add data on the same line?
+1005073
+Why does Java not allow foreach on iterators (only on iterables)?
+839178
+Why can the private member of an nested class be accessed by the methods of the enclosing class?
+1801718
+Detect internet Connection using Java
+1402005 12761798
+Why is the sum of bytes integer?
+2256864 9815970 51342121 18483470 81392 51973904 21317631
+Get yesterday's date using Date
+3006150 55394546 49040947 24198906 11965974 38955993 22458042
+Modifying private instance variables in Java
+312168
+Java 8 Collector that returns a value if there's only a single value
+22694884
+What is the different between getAbsolutePath and getCanonicalPath
+1099300
+Garbage Collector doesn't immediately collect finished thread
+7114661
+What's the difference between calling MyClass.class and MyClass.getClass()
+10947768 13367173
+Why Is Java Not Utilising All My CPU Cores Effectively
+1223072
+is the sun.misc package still available in java?
+13109588
+Android SDK manager throw Exception with Java 9
+47150410
+Same regex have different results in Java and JavaScript
+4450045
+Force method call on null variable to throw a NullPointerException
+3293353 11579953
+Java Guassian Distribution-Bell Curve
+703150
+Double.valueOf(s) vs. Double.parseDouble
+10577610
+Found reliance on default encoding in FileReader
+696626
+Is it possible to get "everything" from javax.naming.InitialContext?
+2324937
+After a string literal, all the + will be treated as string concatenation operator why?
+48268209 15340207
+What Java GUI library IDEA IntelliJ uses?
+12309569
+How to use ClassLoader.getResources() correctly?
+676097 1429172 54449425
+NullPointerException in method returning type Object
+3882095
+Java 8 way to repeat a block of code x times
+18532488
+Reading a column from CSV file using JAVA
+47601403 101100
+What is IndexOutOfBoundsException? How can I fix it?
+6716417 65543173 65141511 49634058 66311434 13517711 53472147 7438612 64834207 53698080 64735521 65752351 62770596 46461864 56989099 49783212 43678893 5554734 50369073 49854898 64950585 66083771 4396604 64910274 65397831 41024970 64502349 54425935 62692304 65486160 48990290 65386195 65447507 23353173 13102045 19670369 51348834 65010913 64012902 63889511 44293096 55407593 64398314 64740968 17690995 60607220 33923445 59041655 43258232 64344319
+How to for each the hashmap?
+30812072 46898
+Should JavaDoc go before or after a method-level annotation?
+3109950
+Sorting int array in descending order
+1354326 215271 2137755 42614254
+How can I get the count of line in a file in an efficient way?
+35970224 453018 61445389
+Java Adding string to a string array
+1647260
+Why doesn't Java allow to define two methods with the same signature except the generic type parameters?
+1998544
+How to clone a multidimensional array in java?
+1564832 28010603 23916936
+Java change áéőűú to aeouu
+23455681 1453171 26429412 3322152 331279
+Printing reference to an object
+29140402 27626276
+String.equals() with multiple conditions (and one action on result)
+61108321 60814498 20085287 8962700 51405782 45900248 10205437 36641886
+How can I make an exe in NetBeans?
+147181
+In case of Error, program shows unexpected behavior
+9146257
+Get relative path of two URIs in Java
+204784
+Unreported exception java.lang.Exception; must be caught or declared to be thrown
+908672 57497209 62113032 2839321
+Java 8 – Create Instant from LocalDateTime with TimeZone
+23944370
+Sorting Strings that contains number in Java
+40140754 203030 104599 38027463 39847597
+Spring bean with runtime constructor arguments
+22155832
+What am I doing wrong with conditional operators?
+16876698
+Break lines in g.drawString in Java SE
+4413132
+What is the difference between List and ArrayList?
+41298693 41797256 63863581 383947 14974749 33880942 2770321 50437172 2279030 6867484 44719869
+The @ symbol in java
+31822020
+How to pass a function as a parameter in Java?
+55170208 23367393 65630273 34904191 25186216 48902634 9488459 41698317 47482894 2186931 20871476 64669144 13604703
+How to create an 2D ArrayList in java?
+52877297 10768170 31711723
+Is it possible to swap two variables in Java?
+1363186 57923202
+What is the access level of variables in enums by default
+215497 49343497
+A quick and easy way to join array elements with a separator (the opposite of split) in Java
+22058376 1515437 44422236 39808465 56434226 29189974 29326327 29940504 599161 43163098 65025820 409784
+Alternative for multiple inheritance
+7493438
+Strange "for(;;)" infinite loop in Java, how is this useful?
+7081339
+Escape single quotes in a string
+1470768
+Arrays.asList(int[]) not working
+52278824 1467913 10335662 34249167 63096592 409784 37993753
+How to uninstall a plugin in eclipse?
+369889
+jersey multiparty returns NoClassDefFoundError: org/glassfish/jersey/internal/inject/ExtractorException
+43486463
+Sorting Priority Queue in Java
+59608220 59618333 2277430
+MySQL & Java - Get id of the last inserted value (JDBC)
+1915166
+When do I need to override equals and hashcode methods?
+24431748 27581
+Generic Interface takes self as Parameter. Recursive Generic?
+2382915 20812622 211143
+java: how to read a txt file to an Array of strings
+40335741 10257981
+Can you increase line thickness when using Java Graphics for an applet? I don't believe that BasicStroke works
+2839508
+Spring MVC - upload file is blocked by spring security
+24969759
+What does the "m" stand for in java code
+4237469
+Why are there wrapper classes in Java?
+29230425 20697868 2134798
+Getting first the first thing in HashMap?
+683518
+Get query from java.sql.PreparedStatement
+32497760 2382532 14722762 60090538 43940753 15552980 15601208
+Test case library for java.util.List implementations
+7068503
+int vs Integer comparison Java
+4428774 31573511
+Compile error: "'<>' cannot be used with anonymous classes"
+22200647
+Java Map did not accept "boolean"
+2721546
+Servlet get parameter from multipart form in tomcat 7
+2422468 53185271
+Adding and subtracting doubles are giving strange results
+59007168 19168642 177506 588004 21030282 322749
+Convert HTML-escaped strings to plain Unicode/ASCII
+994331
+ArrayList <? super Number> and Double
+2723397
+Replacing a string with the regular expression ".*" returns the replacement twice
+8604286
+How to round the double value to 2 decimal points?
+5710394 65162100
+Why String class has copy constructor?
+390703
+loop on list with remove
+223918
+What is the <K, V> thing in a hashmap, and how do I use it in my own class?
+450520 5809339
+java 8: difference between class.getName() and String literal
+3827393 62412179
+How to make Class.forName return array type?
+1679421
+How to check if a subclass is an instance of a class at runtime?
+36620277 4584541 46884853
+How to randomize enum elements?
+1972392
+Why String is immutable or final in Java
+2068804
+Remove duplicates ArrayList custom object
+122105
+setSize() v/s setPreferredSize() and pack()
+1783793
+To combine two catch clasuses in the same
+3495926
+How to use an arraylist as a prepared statement parameter
+3107044 55431590 33433727 57804617 178479
+Enum of directions with opposites
+1575146
+How can I compare files in a JUnit test case?
+466841
+What is the use of "System.out::println" in Java 8
+20001427
+Curly Brackets Formatting Netbeans
+2076262
+Nested Java enum definition - does declaring as static make a difference?
+663834
+GlassFish vs tomcat
+3821640
+Why is it considered bad practice in Java to call a method from within a constructor?
+3404301 59691007
+Arrays.asList also for maps?
+507602
+Checking for NaN and using it in an If
+1456566
+How to download a PDF from a given URL in Java?
+921262
+When should you explicitly use a StringBuilder?
+1532461 7817951
+How to get java Logger output to file by default
+3025691
+Java: For-Each loop and references
+36865457 513832 35960840 15844443
+What to pass to the Arrays instance method toArray(T[] a) method?
+174093
+How to write a simple Java program that finds the greatest common divisor between two numbers?
+4201860
+Java Change File Working Directory
+840190
+Java: Type safety : A generic array of A is created for a varargs parameter
+1445233
+Why swap with xor works fine in c++ but in java doesn't ? some puzzle
+3844934
+How to change JFrame icon
+15657569 21896503 16889145 14133868 37934814
+Why is method overloading and overriding needed in java?
+154577 38967498 50377562 24238077 47420778
+How to check if a string contains only digits in Java
+10575624 40166468 25025847
+Java 8 - Functional Interface vs Abstract class
+18198517
+Easy way to remove accents from a Unicode string?
+3322152 51021093
+Strange Java Math Result
+12758338
+javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+6353849
+Is there any benefit to use methods of Objects.java?
+28140193
+How do I create a new Joda DateTime truncated to the last hour?
+4133682
+What is the default access modifier in Java?
+23554576 3530065 32004964 54727318 31409176 44428456
+How to make a deep copy of Java ArrayList
+715650 54851349 53576590
+try-with-resources details
+45254384 26516020
+javabean vs servlet
+3295496
+Difference between 'yy' and 'YY' in Java Time Pattern
+59537538 57620110 8686331 34691582 66031867
+Why main() is declared public and static in java
+146576 20776413
+Efficient way to compare version strings in Java
+47842063 198431
+Integer class object
+3130311
+What is the difference between 'super' and 'extends' in Java Generics
+4343202 5495383 12794440 591004
+Generate All Possible Combinations - Java
+20935315
+Read special characters in java with BufferedReader
+4597749
+Why can static and default interface methods not be synchronized but can be strictfp?
+23453568
+Right way to implement equals contract
+27581
+Read text from InputStream
+309424
+for each loop cannot initialize objects in array
+2556419 1922677 37154502
+When to use "throws RuntimeException" Java
+499437
+Java list.contains returning false, should be true
+1467913
+Value does not update in while loop unless printed out
+25425130 22221742
+Can you compare chars with ==?
+7520432 55433545
+How to add an environment variable in Java?
+318239
+Convert classic nested for loop with Java 8 streams
+32631602
+Correct way of converting String to Long in Java
+7693324
+Scroll a JScrollPane to a specific row on a JTable
+853020
+Get Previous Day
+745443
+String.equals versus ==
+60463364 7072135 13336328 13288331 14817035 6819604 27494421 10246296 11072925 15765537 40104481 16132387 25343523 46786085 8676775 513832 35237930 7620779 15914795 13124143 11617843 12275251 10663350 19141944 3885753 19781306 1643067 27590716 27455293 15600830 15008454 18970058 11355471 32806991 14847316 26228445 11675486 13944799 12524005 19336575 6940521 25927275 48466284 12256238 29330670 13167088 14657649 15852790 14135545 62820991
+What does 'Unsupported major.minor version 52.0' mean, and how do I fix it?
+10382929
+Should I bit-shift to divide by 2 in Java?
+1168451 1514949 52778366
+Convert List<String> to delimited String
+1751844
+Convert Eclipse project type from general to Java
+179439
+Best Practices : What to use, wrapper classes or primitive data types?
+1570416
+Open a file with an external application on Java
+550329
+Value from last inserted row in DB
+241003
+What is serialization in Java?
+447898
+Is flatMap guaranteed to be lazy?
+29229373 48753206
+What is the best way of using Arrays.asList() to initialize a List
+16748030
+Epoch or Unix Time - Long.MAX_VALUE Human Readable Date
+1743985
+Is Java's default value for Boolean 'true'?
+6226290
+Is there a way to pass jvm args via command line to maven?
+2007192
+Best Practice: if(foo== false) or if(!foo)
+2409378
+How to read and understand the java stack trace?
+23089648 3988788
+Detect if user is admin
+4350356
+Process Builder and Process in Java - how to execute a process with a timeout :?
+1247390
+Java - How to store password used in application?
+11093092 12937641 64584317 442862
+What does the exported attribute in .classpath do?
+13960556
+Using wildcards in java classpath
+1237093
+IntelliJ IDEA cannot see Lombok generated code
+9424364
+Choosing between CharSequence and String for an API
+5234147 13234584 11323962 1049228
+Java independent block of code
+14181686 13699075 18139286
+How to measure time taken by Java code?
+504103
+Apparent type violation, but compiles
+29670018 39305730 36402646
+Is possible getMethods in order using reflections?
+3148274 5001172
+Is java's hashCode() deterministic?
+1516843
+How to generate a random string of 20 characters
+41107
+How can I generate Javadoc comments in Eclipse?
+29689
+Difference between <? super T> and <? extends T> in Java
+2827585 37796546 34830467 2723397 34105032 37560457 38931784 44081230 2776975 37807952 54639247 63655638 26576477 64010859 1910892 44445678 53428911 45324724 50801981 51102079
+Creating prepopulated set in Java
+2041778 53444454
+Exception in Java for null values in lambda expression while filtering
+963936
+Re-using a stream in Java 8
+28459498
+How to sum values from Java Hashmap
+29109152 46898 59233078
+Java Generics: Array containing generics
+8504045 3903196 529085
+How to skip a iteration/loop in while-loop
+11160952
+Instantiating a generic class in Java
+59733477 23867303 75175 16971948 9411566 18767151 299998 19039160 2434041 22340090 49501883 24013981 34078846 63159135
+The Meaning of @override in Android Studio
+94361 2950074
+Comparing two strings in Java
+767372
+How to join list of non-string objects using streams
+25624638
+Function which will give the names of all items in a folder
+1844688 5694385
+Breaking nested loop and main loop
+17045522 886955
+How to call a method stored in a HashMap? (Java)
+2752192 61749141 395816 58946013 9514351
+What do the 3 dots in Java generics mean?
+2367398
+Getter-Setter and private variables
+22317506 1568091 1461598
+Java: Static vs inner class
+16501331 70324 5805821
+android - Caused by: android.view.ViewRootImpl$CalledFromWrongThreadException
+10118301 14080447
+Mockito: Match any String except one
+26067096
+JAVA : Why does the following infinite loop terminate without any error / exception
+41972103
+Throwing exception from lambda
+18198176
+non static method cannot be referenced from a static context
+290884
+09 is not recognized where as 9 is recognized
+28367872 7218760 14567033 20047229
+Get Index while iterating list with stream
+62599168 18552005
+How to deal with 2 almost identical constructors
+285177
+is there a Java equivalent to null coalescing operator (??) in C#?
+37960674 33393075 2768054 38797110
+Getting FileNotFoundException even though file exists and is spelled correctly
+43289619 19307622
+Generating Alphanumeric random string in Java
+41107
+When sent to a constructor in Java, what does "null" value do?
+4021733
+How can I get parameters from URL in Android?
+17736681
+Java Generics casts strangely
+52458668
+What does "String... params" mean if passed as a parameter?
+37024209 2367398 34535343
+Splitting a string into n-length chunks in Java
+3760152
+How does this Java code snippet work? (String pool and reflection)
+20945049
+How to change the name of threads in an ExecutorService?
+6113746
+Cannot apply when mocking spring repository delete with Mockito
+2276271
+How to avoid checking for null values in method chaining?
+37960674 59233410 271526
+How to convert a List<Long> to Map<Long, Long>
+20363719
+Regex matching letter characters
+10894122
+Java Memory Limit -Xmx suffix: upper vs lower case m/M and g/G
+32855984
+Why does the local variable of an enhanced for loop have to be local?
+6136576
+How to use String.format() in Java?
+62201367 25706216 53147319 6431933 46996078
+JDK 1.7 onwards, throwing an exception object from catch block does not require a throws clause!!! Why is this so?
+19913834
+1000 * 60 * 60 * 24 * 30 results in a negative number
+56663337 12758338 23299070
+Passing lambda to a Timer instead of TimerTask
+34424410 22378422
+Sorted hashmap iteration
+7860822
+How to convert Double to int directly?
+9102318
+this.getClass().getFields().length; always returns 0
+5936768 30664773
+Hibernate/JPA - annotating bean methods vs fields
+43256489 2992788 594597
+How to Iterate through two ArrayLists Simultaneously?
+1365793 31963297 62244099 33498278 58937165 22933296 4459258
+Whats wrong with this while loop?
+14112515 38143705 39725050 30484921 40687068
+When using doubles, why isn't (x / (y * z)) the same as (x / y / z)?
+8253789 5257166
+Java, How do I get current index/key in "for each" loop
+24018715 35605148 31058301 477550
+Why can't an anonymous class access variables of its enclosing class?
+4732544
+Can you call the parent interface's default method from an interface that subclasses that interface?
+47042071 37197301 33195189 19976487 56810502 48624927
+Java get local IP
+9481865
+Closures in Java 7
+3157746 5443510
+What's the most secure way to embed a password inside Java code?
+12937641
+How to compare two JSON strings when the order of entries keep changing
+2253750
+Equivalent of LINQ in Java 8
+1217228
+Java Regex split string between delimiter and keep delimiter
+2206378
+Generating random date in a specific range in JAVA
+3985392
+compare two strings in java using command line arguments
+18093928
+Why does Java have both checked and unchecked exceptions?
+27578
+How for( ; ;) is infinite loop?
+7081339
+Spring @Qualifier isn't working without @Primary
+39173982
+When does HashSet 'add' method calls equals?
+21626823 22728124 5396939 16343804 27581 5505580
+Why can't I use "." as a delimiter in split() function?
+11457236
+How to search a string in another string?
+2940114 12652354 687577 52410667 36965868
+Order of static variable initialization, Java
+12448465 49543368 36715052 3499214 59517516
+Is it recommended to use hashcode to determine equality in Java?
+7417668
+Java Operators : |=	bitwise OR and assign example
+10308112 10713633 51852704 14295469
+How to avoid "ConcurrentModificationException" while removing elements from `ArrayList` while iterating it?
+59773698 52898115 54381443 63350664 602636 12736142 36719952 55296720 53727507 37367828 60693589 60029656 56399833 26040860 6866238 54460131 62223911 61331048 1196586 58062829 223918 45464880 57592568 3184883 23818228 1496180 5113016 63127160 43704766
+Passing null to the overridden method when the difference between methods is the parameter subtype
+1545501 14789478
+One plus plus two compiles unexpectedly
+24279192 59542099
+Java Intern function
+7370593
+How throw the custom checked exception with java8 lambda expression?
+19757300
+System.out is declared as static final and initialized with null?
+17131525 43606406 44261356 50984466 57941778 42571065 17989275
+Skipping Kerberos authentication prompts with JSch
+30306437 37919511 10881981 63069743
+What is a Question Mark "?" and Colon ":" Operator Used for?
+39978391 28156804 60174127 798545 28813972 63783863 28634841 23768443
+How to parse date string to Date?
+4713825 33029031 4216745 4772425 59707852 50513135 14999506 32911677 19246936 40130683 20657917
+Nice way to force user fill varargs parameter in Java
+12751746 57350043
+Why do we need requires static in java-9 module system?
+56185582 39900460 46537294
+Creating instance of inner class outside the outer class in java
+9560600 65467271
+How to avoid write code like "XXX!=null" or "XXX!=null || XXX.isEmpty"
+271526
+HowTo extract MimeType from a byte[]
+26426245 51438
+Differences between java.util.Date and Joda Time APIs
+589870
+Is it better use getter methods or to access private fields directly when overriding toString?
+1095034 50607095
+What is the difference between InputSource and InputStream?
+4253533
+Why does Java perform implicit type conversion from double to integer when using the "plus equals" operator?
+15733184 8710619 2696812
+How do I run a file using Java?
+6045384 19603450
+How get value from LinkedHashMap based on index not on key?
+10387290
+Base64 Java encode and decode a string
+13109588
+Is there C++ destructor equivalent in Java?
+171952
+Splitting words into letters in Java
+5235401 3481828 33724508
+org.apache.xmlbeans.impl.values.XmlValueDisconnectedException when write workbook twice
+8253653
+Why Java does not allow null while declaring primitive data types
+11047276
+diamond operator is not supported
+20480090 17637179
+Java object copy best option?
+869033
+Can Java 10 compiled classes run on 9?
+9170832 16143684 49492440 53320072
+Why does ArrayList use Object[] (instead of E[]) internally?
+13776576
+Java list's .remove method works only for second last object inside for each loop
+602636 223918
+Iterate over object attributes in java
+3333974
+Want my spring controller to return a string without a view
+7672858
+How can I convert String[] to ArrayList<String>
+13778248 3746639
+How do I create a unique ID in Java?
+34607427 16259797 27792329 2982748
+Java inheritance fields
+58644673 61003971 10594052 30414859 63369008 50193683 685300 57647576 10722110
+How to invoke parent private method from child?
+21016776
+Hibernate: org.hibernate.LazyInitializationException: could not initialize proxy - no Session
+21574236
+A very simple java do...while loop
+23720118
+Java how to replace backslash?
+5216272 13153697 21772775 5596458 16838299
+Java- Convert treeSet to List
+9322405
+Converting ArrayList to HashMap
+4138364
+How can I turn a Stream into an Iterable?
+31702989
+How to debug ConcurrentModificationException?
+19346140 602636
+What are Dependency Injection & Spring Framework about?
+130794 1061717 20570358
+Error: Could not find or load main class
+26543266 14663300 16579109 43183461 18093928 19716969 61123185 40180215 31270872 46290042 33925627 49945567
+Java Static Initialization Order
+2007666 59983626 25607390
+How to add " " quotes around printed String?
+3844595 46228839
+Static Final Long serialVersionUID = 1L
+5335768 285793
+Difference between using Map and HashMap as declared type
+2279030
+Base64 String to byte[] in java
+28584080
+What does a variable being "effectively final" mean?
+53176932 34865383 52983407 20938095
+Get the next higher integer value in java
+17944 7446710
+adding 2 BigDecimal values
+1846900
+Does it make sense to define a final String in Java?
+874978
+How to build a list of LocalDate from a given range?
+38220543
+how to make my java app get global time from some online clock
+2817475
+Collection throws or doesn't throw ConcurrentModificationException based on the contents of the Collection
+41060458 24980651 602636 37202636 46992622 34966167
+Java Subtracting LocalDateTime foo from LocalDateTime Bar
+25747499
+Multiple overloaded methods: Does null equal NullPointerException?
+28473785 15969061 1545501
+Why I am not getting NullPointerException?
+11579953 36009227
+Replace this lambda with a method reference
+27885121 21873829
+@deprecated vs @Deprecated
+9031832
+How to create a generic array?
+42878691 62515596 19347214 21436847 20135471 18585425 19282545 22199641 372250 529085
+Java: Foreach loop not working as expected on int array?
+2556419 52225092 36113509 61582730 15844443 11032235
+Why does ('1'+'1') output 98 in Java?
+8688668
+Are memory leaks totally absent in Java applications?
+6470651
+Java percent of number
+4685450
+ConcurrentModificationException even with using Collections.sychronizedMap on a LinkedHashMap
+1655362 602636 223918
+how to transfer a file through SFTP in java?
+14617
+When Jenkins Building a maven project gave Error: Could not find or load main class org.apache.maven.surefire.booter.ForkedBooter Jenkins
+53010200
+What does public<T> void run (T object ) { } means?
+11377248
+Java: Calculations returning wrong answer?
+4937402 322749 13753438
+Java: Float Formatting depends on Locale
+5236056 56330057 5182451
+Is there a way to use something similar to c# 's at quoting (@" ") in java
+2018556
+Java 11 package javax.xml.soap does not exist
+48204141
+Convert an array into an ArrayList
+157944
+Optional.ofNullable(i).ifPresent... vs if (i != null)
+23454952
+What does the @ sign means in java?
+44766554 31822020
+Putting hypertext link to external internet site inside javadoc
+1082050
+OutOfMemoryError: Java heap space when trying to read 5 ints into an array
+17326969
+Finding the interval between two java.util.date
+1555262
+For-Each and Pointers in Java
+15844443
+First char to upper case
+22260495 4052840 1149855
+Is there a Java equivalent for LINQ?
+1217228
+Is there a direct equivalent in Java for Python's str.join?
+1751844 63150
+Is string interning done at compile time in Java?
+3451145
+Throw exception on numeric overflow
+3001836 38812863
+Static method in Java can be accessed using object instance
+11243809 7884004 610458 54320203
+java Compare two dates
+2592501
+Java and inherited static members
+9898097 53962095
+Java : loop on all the classes in the classpath
+520328
+Java constant variable, naming convention
+7259687
+Split String when character changes. Possible Regex solution?
+13596454
+Can we call a python method from java?
+8898765
+Does the preparedStatement avoid SQL injection?
+1582161
+JUnit Testing private variables?
+34571
+Convert Java to C# with a tool, or manually?
+443010
+How can I see a full log of exceptions in JAVA?
+1043378
+What is the difference between ojdbc6.jar and ojdbc14.jar?
+3209647
+Mouse Hover on WebElement using Selenium 2 in Java
+6232390
+Is this valid Java code? My teacher claims it is, but I'm really not so sure
+5865069
+Why class Node in LinkedList defined as static but not normal class
+70324
+Beans in java programming
+3295496
+java.net.SocketException: Software caused connection abort: recv failed
+56678603 12466471 2126607
+How do I import a pre-existing Java project into Eclipse and get up and running?
+11983088 43645468
+How to delete file after REST response
+10142409
+Returning generated keys in MySql with JDBC PreparedStatement
+1915166
+How can I wait for 10 second without locking application UI in android
+4111905
+How to convert Date represented as a String to milliseconds?
+6510724
+Why do Guava classes provide so many factory methods instead of just one that takes varargs?
+21555040 3737882 21586431
+How to obtain test case name in JUnit 4 at runtime?
+473401
+Get the name of the current method being executed
+442747
+Creating String representation of lambda expression
+47218243 20629068
+How can I suppress java compiler warnings about Sun proprietary API
+13855700
+C-sharp's "#region" & "#endregion" in Java?
+2344524
+Shorter method for getting the name of the current method dynamically
+442747 15352637
+Hashcode and Equals for Hashset
+14504901 2265503 44392520 47640445 50785807
+Why is my `unmodifiableList` modifiable?
+56526496 36053705 3650701
+Should I close the servlet outputstream?
+1159168
+How to send a list of files over a socket in Java
+10367698
+How to prevent integer overflow in Java code?
+1657834 64723349
+How to check for key in a Map irrespective of the case?
+212562
+Which programming languages can be used to develop in Android?
+9657698 3949980 1994703
+Is it possible to use HashMap<T> in a multi-threaded app?
+2688629
+Get files in a directory sorted by last modified?
+24925524 203030
+Not able to resolve JSObject in a java applet project
+13308495
+XML Date Binding to Java Object Date
+2519432
+Is System.out.println thread-safe by default?
+9459657
+How does string interning work in Java 7+?
+22473154 10578984 54124187 23252767
+How to filter list using Predicate
+122105
+Does NetBeans have any "collapse all" shortcut for open directories in the navigator view?
+2965200
+Difference between the default access specifier and protected access specifier in java
+215497
+Is there any advantage to using protected variables over getters and setters?
+47542161 29576685 2279662
+AssertEquals when list content is unordered
+22807328
+Is it OK to call abstract method from constructor in Java?
+3404301
+Are default parameter values supported by Java?
+53061078 997482 65348139 1038383 23093327
+How to collect list from lambda expression
+25147094
+Efficiency when checking multiple conditions with Java
+6352139
+How to iterate through enum in java
+1104975
+Can a Java varargs be null?
+4028059
+Incorrect Multiplication Result
+17221254
+Java: Why String.compareIgnoreCase() uses both Character.toUpperCase() and Character.toLowerCase()?
+31696168
+No suitable driver found when including the needed drivers with maven-assembly-plugin
+40112984 5130254
+Difference between System.getenv() & System.getProperty()
+2863674
+Call static method on null object
+11579953
+Why does a recursive function stop on random numbers?
+20658264 13995885 35517934
+why are there Primitive datatype in Java?
+2063556
+How to remove HTML tag in Java
+240546 1732348 14124207
+Java stopped erroring on non-final variables in inner classes (java 8)
+20938095
+How is the Java priority Queue supposed to work?
+27806315
+Why does a wildcard on a generic parameter require an explicit cast?
+18144556
+running Android Studio on Windows 7 fails, no Android SDK found
+16574189
+How do I pass a method to an annotation using Java 8?
+1458535
+Retrieving list of employees with lowest salary using stream
+29334404 63786933 19338686
+Convert Collection to List
+580160
+Tomcat Issue: Unsupported major.minor version 52.0
+10382929
+How many array dimensions are supported in Java like a[1][1][1][1]....[1]?
+4060538
+How to sort HashMap keys
+7860822
+How to cause an exception on integer overflow?
+29987422
+list all files in the folder and also sub folders
+2534632 66181513
+java.lang.UnsupportedClassVersionError: Unsupported major.minor version 51.0 (unable to load class frontend.listener.StartupListener)
+10382929
+When would I use package-private in Java?
+36360442 6470556
+add string to String array
+2843366
+java.lang.UnsupportedClassVersionError in eclipse
+10382929
+Java: Why do you need to specify an 'f' in a float literal?
+9748160 33263716 37572142 41500432 19810484 45547671 16369726
+Strange Java behaviour with static and final qualifiers
+28148096 52828057
+Check if table exists
+48002625 16585589 24846983 18032075 927807
+How Comparator Interface in Java 8 become a @FunctionalInterface
+23721759
+Find occurrences of characters in a Java String
+275944
+What's the difference between boolean and Boolean in Java?
+3728616
+This 'if' evaluation in Java with three simultaneous expressions
+15970639
+Print out all permutations of an Array
+2920315
+Java get next Enum value or start from first
+17006239
+Why static fields (not final) is restricted in inner class in java
+1953530
+How to split String without regex
+6374050
+When is it preferable to use volatile boolean in Java rather than AtomicBoolean?
+23544968 3786825 32878331
+Why java switch statement can't handle null, since it has a "default" clause?
+18263489
+Questions about Java's String pool
+51537024 15761283 14189829 24479815 25622793 30543700 12692605 50480343 32589976 3052442 9552218 10045147 17525210 10536670 35428703 23252767 9946535 513832 26141488 14675186 29058930 18950583 42012857 17967802 28700733 8914878
+Does numeric promotion apply to constants in Java?
+43026241 13100019 477750 30346587
+TreeMap or HashMap?
+2889777 2444359
+Integer.valueOf() vs. Integer.parseInt()
+508665 59359077 17518221
+'Effective Java' conundrum: Why is volatile required in this concurrent code?
+7855700
+How to collect the elements of a Stream into a Queue?
+21522341
+Parsing a java Date back from toString()
+4713825 6154772 46285384 55515966
+Java - Most Efficent way to traverse a String
+196830
+Is there an eval() function in Java?
+4405568 1057796 47672012 3422673 26249809 12484371 21893781 47403414 36683352 40439513 36223706 47318943 53060641 41052135 15982313 29560298 7258538 41654765 2226863 30520120 43093491 13720565 1981750 8666935 15084984 14142459
+Convert a POJO to a <K,V> map
+739689
+Programming with Core JAVA - Reflection API
+37628
+ArrayList vs the List returned by Arrays.asList()
+4658867 51522077
+java Boolean value not changing in called method
+20647969
+I need to round a float to two decimal places in Java
+153724
+Timeout set in the web.xml is not working in java
+3118968
+UnmodifiableMap (Java Collections) vs ImmutableMap (Google)
+8892350
+Java: cast collection type to subtype
+933447
+What does the "assert" keyword do?
+2758224 3572528 13218496 8460426
+Try-with-resources: Must I throw or catch the close() method's exceptions?
+6889697 32849066
+Can anybody explain how java design HashMap's hash() function?
+2414117
+Java Enum Type Coding Convention
+3069743
+Java - search a string in string array
+1128723
+Import XXX cannot be resolved for Java SE standard classes
+50432384 42033544 4322893
+Technically what is the main difference between Oracle JDK and OpenJDK?
+31727273 22358071
+How to sort List<Integer>?
+16252269
+How to check if an object implements an interface?
+12145185
+How to iterate over a TreeMap?
+46898
+Compare strings ignoring accented characters
+2373213
+how to do hibernate mapping for table or view without a primary key
+767277
+Break in nested for loops
+13073300
+C# vs Java generics
+4167841 12989825 22567917 31693
+When an Thread.interrupt() is called on some thread, what happens?
+3590000
+How do I change the rate or period of a repeating task using ScheduledExecutorService?
+1519091
+Java : inherits a generic type
+2000478
+Why ternary operation gives nullpointer while its ifelse counterpart doesn't?
+55342531 12763983 48409983 62288665 29751118 3882095
+How to initialize array of custom class objects?
+5364278
+Are Java method references stable?
+24095875 29674645 42146360 27524445 16827262
+Is there possibility that a finally block might not execute?
+65035
+Use JAR file in c++/c
+992836
+#if in java, like in c preprocessors
+8293124
+What is the point of getters and setters?
+45050480 1568091 14124683
+LDAP over SSL with Java
+26461736 21076179
+Can a method figure out its own name using reflection in Java
+442747
+What's the difference between the implements & extends keywords in Java
+10839131
+android - generate random numbers with no repeat
+4040001
+Check if an object belongs to a class in Java
+54041120 61808754 541749 7313559 18147211
+Right way to close CloseableHttpResponse/CloseableHttpClient
+21574478
+order of constructor calls in multilevel inheritance in java
+60212640 37319010 19407187 23899863 488727 525548
+split() function for '$' not working
+3481828 399078
+Get rid of "The value for annotation attribute must be a constant expression" message
+2065937 55452209 41122998 63701623 1458535
+Workaround for "null primitives" in JDBC PreparedStatement?
+34318476 48068868 14514589
+Initializing a final variable in a method called from class constructor
+11758440
+InstantiationException for newInstance()
+3574065
+Java concurrency - why doesn't synchronizing a setter (but not a getter) make a class thread-safe?
+3602493
+Call "Optional#isPresent()" before accessing the value
+38725445
+convert ByteArrayOutputStream to FileInputStream
+5778658
+Why is the result of conditional operator opposite of expected?
+25230171
+can't understand String.replaceAll non-greedy behavior
+8604286
+Comparing date strings in Java
+32330661 25963720 25506064 52670961 2592501 44430169 63105438
+How do I perform a JAVA callback between classes?
+443708
+Why is String class final?
+2068804
+How can I use Google GSON to deserialize a JSON array into a a Collection of a generic type?
+20773850
+Java 8 Streams - Grouping into Single value
+20363719
+To use a string value as a variable name
+34517730 6729605 13298823 65057514 31703115
+Use of the String(String) constructor in Java
+51057402 390703
+Regular expression ^\\Q & \\E
+11927452
+How do I create an int array with randomly shuffled numbers in a given range
+3316674 60587554 49260721 1519736 6064089 65139101 60068799
+Loop through a counting String value
+5402925
+What is the design rational for "variable may not have been initialized"?
+1560685
+Is Class.forName() mechanism needed?
+28220724
+Get Week Number of LocalDate (Java 8)
+25912455
+Find if a String is present in an array
+1128723 48361547 49283131 22461470
+Is the Access Time Complexity of a Map Created by Map.ofEntries() the Same as HashMap which is o(1)?
+9043254
+Loading of the native code library for start0() native method in Thread class
+2292629
+Calling a synchronized method from of a synchronized method, both of the same object
+5798637
+Create PDF with Java
+3986105
+Convert Epoch time to date and Date to Epoch time in Android
+46487403
+Why did Java 8 introduce *Integer.sum(int a, int b)*
+28140193
+Determine if a String is an Integer in Java
+11875424 17005371 237159 1102891 44699822 18078643 54489428 12487734 19925047 8286678 18906267
+Is null typed in Java
+5229809
+How to use a tablename variable for a java prepared statement insert
+50245089 11312737 35355364 56165162 33852459 16930443 44083883 51684622 59249169 1208442 42789535
+Understanding java.util.Calendar WEEK_OF_YEAR
+36875586 34608116 4608470 65303383 36888943
+what is a abstract method on a interface in java
+641536
+Removing items from a list
+5113016 64636400
+Sleep function in android program
+3072173
+JAVA How to remove trailing zeros from a double
+703396
+Why does a HTTP URL in Java compile?
+43469634 37202469 19836549
+What does static succeeded only by two curly brackets means?
+335311
+what's the difference between canonicalpath and absolutepath?
+1099300
+NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.equalsIgnoreCase(java.lang.String)' on a null object reference
+218384
+Coding standard for null checking
+2369226 4030766
+I need to convert an int variable to double
+3144610
+Is java PermGen space part of the total VM memory?
+4084280
+Strings in Java : equals vs ==
+1833538 6946136 513832 6178585 12519086
+If Java has garbage collection, then why does OutOfMemoryError occur?
+12298725
+build maven project with propriatery libraries included
+4955635
+Why Java Calendar set(int year, int month, int date) not returning correct date?
+57319520 57283585 48055606 344380 48032477
+How to change embebed-tomcat default port using spring boot?
+21083170
+Unable to locate tools.jar
+20578592 5730815
+Java split string to array
+14602062
+Detecting a symlink in Java
+813710
+Logical operator OR without short circuit
+9264897
+get enum name from enum value
+609860
+Why does a class implements Serializable interface?
+4548816 8455146
+Is += more efficient than concat?
+47605
+Java: boolean in println (boolean ? "print true":"print false")
+23315369 798545 29167091
+When catch doesn't actually catch anything
+8327514
+How exactly do static fields work internally?
+2142192 54105028 38612009 62990175
+Why use finally instead of code after catch
+47289920 39119869 3421486
+Meaning of new Class(...){{...}} initialization idiom
+29968082 924285 11758285 1958636 5543437
+in what order are static blocks and static variables in a class executed?
+25590357 62662293 13554507 33865036 3499214
+Is there any limit for string size in a Java program?
+816142
+how to achieve transfer file between client and server using java socket
+17365856 10367698 61594704
+ConcurrentModificationException in unmodifiable collection
+602636
+Any difference between class imports and package imports in Java?
+147454
+LocalDate to java.util.Date and vice versa simplest conversion?
+5050170 58589483 22929237
+Get Location Permissions from User in Android Application
+40142331
+'Friends' equivalent for Java?
+182278 2999351
+Does finally always get called?
+65035
+Most efficient way to check if an array contains a value in Java?
+1128723
+Natural Language Processing Solution in Java?
+870460
+Java inheritance vs polymorphism
+44357960 6308178
+When to catch RuntimeExceptions in code?
+1982533
+Scan the classpath for classes with custom annotation
+259140
+Can we have an inner class inside a method?
+2428186
+Why instance variable in Servlet is not thread-safe
+3106452
+Use of ellipsis(...) in Java?
+2367398
+Printing out all the objects in array list
+29140402
+how can I pass a variable into a new Runnable declaration?
+877096
+How do I ignore case when using startsWith and endsWith in Java?
+19154117
+Selecting parameters in String.format()
+41813227 3754597 33458695
+Method overloading with generics
+1998544
+What is the logical xor operator in java?
+726652
+How to compare dates in Java?
+23381632 15925509 43337357 41295761 36535575 35598235 32920091 6637469 45299998 20964860 1439779 13033384 4216745 45746732 29555890 19851700 2309558 40428472 26910522 10609596 52603068 49893952 56016192 19109960 14451659 36641101 9123414 494180 12789095 21880700 63468522 48938224 2811121 13579632 10072820 428918 61339260
+Javadoc closing tags
+5260368
+Difference between "final" and "const"?
+4971286
+Eclipse : Failed to connect to remote VM. Connection refused.
+975384
+How to display a default message in JTextField java
+1805486 1738966
+How Do I Safely Scan for Integer Input?
+3572160 2912817
+How to copy properties from a bean to another bean in different class?
+5937567
+Java ArrayList in C++
+3971049
+Why does this not produce an ambiguity?
+22590914 19366332
+Reference method with array constructor
+29447561
+How do I call a non static method from a main method?
+60166721 7379915
+Java was started but returned exit code=13 eclipse
+18349517 11461607
+Why is ant looking for tools.jar in the wrong dir?
+5730815
+how can I create a temporary folder in java 6?
+617414
+Is there a java setting for disabling certificate validation?
+9619030
+Why don't strings compare as equal?
+7128775
+AndroidDebugKey Keystore was tampered with, or password was incorrect
+4262773
+How to merge two ArrayLists without duplicates?
+9917787 63989109 189559
+Identical strings comparison gives me false
+513832
+case-statement or if-statement efficiency perspective
+2086529 767821
+Why is 09 "too large" of an integer number?
+565634 33053865 29326954 30148699 25694204 17675551
+How to get value type of a map in Java?
+1942644
+Difference between <plugins> and <pluginManagement> tag in Maven `pom.xml`
+37068724 37071739 10483180
+Hexadecimal Floating-point literals
+4546532 15282791
+How to print values of an object in Java when you do not have the source code for the class?
+1526826
+In Java, when should I create a checked exception, and when should it be a runtime exception?
+4233793 29184905 27578 8758619
+java.concurrent.ReentrantLock - why we want to acquire the same lock multiple times
+11821801
+Lists in MyBatis 'IN' clause
+8754814
+Show the default value chosen for XX:ParallelGCThreads
+5231393 52931964
+Format a double to omit unnecessary ".0" and never round off
+703396
+Can you tell me why I get "Can't use query methods that take a query string on a PreparedStatement."?
+7776779
+Does Java have a default copy constructor (like in C++)?
+827785
+How to modify a Collection while iterating using for-each loop without ConcurrentModificationException?
+11177348 40836474 24300733 223918
+Why this difference of handling method ambiguity in Java & c#?
+7188133
+writing an initialized static hashtable elegantly
+9625297
+java's printStackTrace() equivalent in python
+9555133
+How to use VisualVM to get the time each function costs
+1892038
+Multiple Inheritance in Java since All classes extend from Object class?
+31151696 44581017 24378375
+Getting the current time zone in android application
+7672597
+What gets called when you initialize a class without a constructor?
+13773710
+Static Variables : Good or Bad?
+7026507
+What does SwingUtilities.invokeLater do?
+32104418 49990179 22145515 3551542 18428471 7196889 12077245
+How to correctly make a thread safe Singleton Factory in Java?
+70689
+Which is more effective: if (null == variable) or if (variable == null)?
+15420865 18937560 8584858 2398588 18956526
+See if file is empty
+7190618
+Implementation of Friend concept in Java
+182278
+why equals() method when we have == operator?
+14265553 26432353 32422806 513832 13232667
+Cleanest way to create a Guava Multimap from a Java 8 stream
+23003754
+Convert string number to integer number
+5585779
+Why is my URI not hierarchical?
+10144210 37409459 60914466
+Unwanted NullPointerException in ternary operator - Why?
+49436368 59171978 41331912
+Replace the last occurrence of a string in another string
+1660034
+Difference between %n and \n for printing a new line in Java
+1883345
+HttpClient is deprecated (android studio, Target=api 22)
+15336477
+Using Split in Java and substring the result
+3481828
+Which design pattern to use when multiple inheritance is needed in java
+21824402
+Does JVM terminate itself after OutOfMemoryError
+3058198
+Java 8 lambda expression with an abstract class having only one method
+34424410
+Java get generic type of collection
+1942644
+Difference between running and starting a thread
+24367218 52062435 8579657 35992106
+Difference between Class<?> and Class<Object> in Java
+678822
+Checking for null - what order?
+11015296 10849667 32515940 2369226 17366284 2938476 26791344 17570802 23425330 12838237
+ClassNotFoundException com.mysql.jdbc.Driver
+51579584 47421893 11716486 27913993 8745872 6203858 49371352 2839321 57898620
+How to use Pipe Symbol through exec in Java
+5928225 12600545 20642415
+Non-Static method cannot be referenced from a static context with methods and variables
+290884 16429365
+How can I append to an existing java.io.ObjectStream?
+1194656
+"Do nothing" using ternary operator
+20053257
+Passing single runnable object to multiple thread constructors
+9562505 16624763
+How to check if a double value has no decimal part
+9898512
+Java method overload choice
+1572322
+Regular Expression for separating strings enclosed in parentheses
+17759004
+Fastest way to get number of digits on a number?
+1306727
+How can we create object of interface in java?
+3947708
+Is NashornScriptEngine thread-safe?
+30140103
+Why does this method call on a null object run without a NullPointerException?
+8932929
+How to create a generic typesafe HashMap by class type?
+416540
+Change JavaFX TableView font size
+6998551
+Why is java.util.Map.get(...) not generic?
+857420 22496735
+A better way to compare Strings which could be null
+65719200 10016081 11271554 513832 1402030
+Implementing auto complete in Java - am I doing it right?
+14186955
+Difference between throw and throws in Java?
+51801408 3940213 55385336 45112541
+Java 8 find max
+37229977 22561614
+Java: Random long value in an interval
+2546078
+UnsupportedClassVersionError unsupported major.minor version 51.0 unable to load class
+7237536 23857803
+How to disable security in Spring-Boot 2?
+49258766
+Why does the count of calls of a recursive method causing a StackOverflowError vary between program runs?
+54759815 13995885 50012205 27043922 63981810 56123894 20658264 55108159
+Problem with illegal forward reference in Java
+46967759
+How to send HTTP request in java?
+13586917 4185320 12888780 18933209 66275182 16254480 38706969 38123417 12337531 14264828 2793150 26127551
+How do I test local inner class methods in java?
+34571
+It does not throw exception ConcurrentModificationException
+39921250 24980651 602636
+Best way to Format a Double value to 2 Decimal places
+1113408 33515908 57015366 33249735 54287623 7220681 59513483 8148684 61020236 24456211 27466389 2379221 2808535 51476118 7286681 43792185 62356124 23878493 66082978 57898084 47582056 44522985 40470582 37524471 37634489 153724
+Brackets in Bracket in Java
+1958636
+Difference between arraylist and linkedList
+322715 393556
+Why do abstract classes in Java have constructors?
+20537089 53334954 22470765 3394445 3164270 260666 19722847
+what does "this" keyword mean in the initializer block?
+6547310 10921167
+Get values of a property from array of objects
+43260752
+How to mock the HttpServletRequest?
+6455359
+How can I compare BigDecimals to make my tests pass?
+6787142
+Conditional if-else statement in java
+8002603
+Spring MVC: difference between <context:component-scan> and <annotation-driven /> tags?
+41577234
+ConcurrentModificationException thrown by sublist
+58165665 43058150 602636 6866238
+More convenient way to find the max of 2+ numbers?
+9303890
+How to Maintain order of insertion
+24207264 43941911 19164699 683518
+What is Serializable in Java?
+3429921
+How to quickly and conveniently create a one element arraylist
+1005073
+Can someone explain the difference between Strong, Soft, Weak and Phantom references and the usage of it?
+299659
+Android: Constructor is ambiguous when I pass Null, but not when I pass a variable assigned to Null
+5229809
+How to call Java function from string stored in a Variable
+2882948
+Hints for java.lang.String.replace problem?
+12734721 12803828 17071229 6219263
+deleting folder from java
+779519
+What is difference between int.class and Integer.TYPE in java?
+10195424 22470985
+Pass object by reference in Java
+5614562
+403 error while getting the google result using jsoup
+13670692
+concrete methods in interfaces Java1.8
+7857832 9025230
+Java compile error: cannot find symbol
+25706216 47615428
+Why is it not allowed add toString() to interface as default method?
+24016962
+Best way to convert Milliseconds to number of years, months and days
+625433
+How do I convert a JSONObject to a byte array and then convert this byte array to get back the original JSONObject?
+7947871
+Why does formatting a date using DateTimeFormatter with a YYYY pattern give the wrong year?
+31605411 46847245
+How do exit two nested loops?
+886955
+How do you declare an object array in Java?
+1200621
+What is session in Java?
+3106452
+Is there a Java equivalent of JavaScript var a = b || c
+5223044
+How do I break from the main/outer loop in a double/nested loop?
+4332345 886955
+Why doesn't this for-each loop work?
+15844443
+Why do java if statement fail when it ends in semicolon
+40207217 14112515 33394523 54168286 63478011
+How to check if a date is greater than another in Java?
+65662042 20964860 2592501
+Java collection not have Map as part of collection framework
+2651819
+how to check if string contains '+' character
+506105
+Add an object to an Array of a custom class
+2843366
+java.io.IOException: Server returned HTTP response code: 403 for URL
+13670692
+JDBC connection error : unrecognized timezone
+53149009 7605953 51530342
+Maven -- maven installation error: Exception in thread "main" java.lang.UnsupportedClassVersionError
+10382929
+How to concatenate a string with the new 1.8 stream API
+24882927
+Which type safety would have lost, had Generics supported the sub-typing?
+2745265
+Using an instance of an object as a key in hashmap, and then access it with exactly new object?
+27210096 62099574 45616794 27581
+How can I use adb to uninstall an APK from multiple connected devices?
+8610733
+Get MAC Address of System in Java
+6164167
+In Java, should the hashCode of an object ever change?
+27581
+How to implement the same interface multiple times, but with different generics?
+61175546 1297972
+Java:Why should we use BigDecimal instead of Double in the real world?
+3413448 18082399
+Are enum types declared in a class implicitly static?
+663834
+Java: String split(): I want it to include the empty strings at the end
+35309587 38957028 14602062
+Java: Convert Primitive Class
+1704634
+Java reverse foreach
+1098117
+Java "ConcurrentModificationException" runtime error when iterating .next()
+18934715 223918
+How to use :: operator as this reference
+28222784
+Why no static methods in Interfaces, but static fields and inner classes OK? [pre-Java8]
+14292881 5932499 17410648 512877
+How do I break multiple foreach loops?
+46355328 886955
+Spring scope references as enums?
+13165806
+Why is there no primitive type for String?
+15801322 2099171
+Java auto boxing/unboxing wierdness
+1821510 3882095
+application.properties outside jar file how to
+8775303
+Download file from HTTPS server using Java
+29562406 921262
+Removing an element from an Array (Java)
+54239780 61019686 54892903 15895400 6681704 5098540 47082672 49597552 218384 12812307 53328983 112503 21207067
+Java - Coding Style : What are the cons and pros of "ABC".equals("SOMESTRING") style string comparison?
+12486977
+How to convert JSON string to custom object?
+1395551
+What does the "declare a static final serialVersionUID" warning mean and how to fix?
+2288937
+How can an Exception be created/thrown with no stack trace?
+1076191 46820565 2411487
+How to declare a method that cannot change the class members in Java?
+5886439
+CAPTCHA in java
+810493
+Why can't I use protected constructors outside the package?
+215497
+why we use system.out.flush()?
+7166328
+Sum of int from list of object
+23110853
+Why does a static variable initialized by a method call that returns another static variable remains null?
+2547713 37439450 43436794 27859435 36919007
+How do I measure time elapsed in Java?
+40250112 238920 40782989 48681488 64900818 60756501 48950296 56155993 625433 17972380 504103 16948799 9027317 55666043 180158 1970239
+ConcurrentModificationException when adding inside a foreach loop in ArrayList
+18995038 33112985 37944905 27651498 23674666 6866238
+Why is the exception stack trace not logged in?
+1149703
+In Java, how to append a string more efficiently?
+355089
+Java 8 update 151 or 152?
+33260616
+Is it a good practice to use Optional as an attribute in a class?
+23454952 63946667 24227182
+Should I use the "final" modifier when creating Date objects?
+154314
+Primitive type and Wrapper type for Arrays.asList
+27522741
+Proper use of RuntimeException?
+499437
+Where is information about methods of Java objects kept?
+8204595
+Illegal character in path at index 16
+749709
+Green threads and Native threads in java
+5713142
+How to find method name from within that method in Java?
+442747
+lambda expressions are not supported in -source 1.7
+32923586
+Java. Sax parser. How to manually break parsing?
+1345293
+How to connect Android with MySQL using Mysql JDBC driver
+26470117
+What is the use of text with colon operator (eg: Test:) in java
+3821827
+Why is the loop variable effectively final when using for-each?
+54340101
+What is a "Java Bean"?
+3295496
+Java 8: Get default value from HashMap and update underlying map
+8334061
+Format floating point number with leading zeros
+34598720 3212275
+Spring Data JPA repository throws null pointer
+19896870
+Java "cannot cast to Comparable" when using TreeMap
+29792976 1440006
+How to run JFrame maximized in JAVA?
+15682182 5258207
+Difference between null and empty string
+4802015
+Java Abstract Methods
+6020649
+Create Thread within a thread - good practice?
+7224670
+How to use Math.cos() & Math.sin()?
+56094339 12975924
+Why we can not define a variable twice in switch?
+10932997
+What causes "Non-terminating decimal expansion" exception from BigDecimal.divide?
+4591206
+Embed browser in Java based desktop application
+48249
+How Do I Split A String By Line Break?
+35339843 454908
+Why isn't the static block of Child class executed when Child.name is accessed?
+19561332 10698516
+what is the difference between doGet() and doPost() in term of the flow?
+2349633
+Java expression compilation error
+18643939
+repaint() in Java
+369823
+call method on server startup
+158336
+What does it mean: The serializable class does not declare a static final serialVersionUID field?
+285793 5632065 4569108 19454070
+Meaning of :: in Java syntax
+20001427
+How to edit an array from another class in Java
+290884
+How to get all objects having the same max value with Java streams?
+62435088 29334404 42060294 18299087
+How to check the input is an integer or not in Java?
+5439529
+How can I add new item to the String array?
+2843366
+Java Optional and orElse
+33170109 44261253
+Map.clear() vs new Map : Which one will be better?
+10197988 21454406 18528875 6961356 11740013 18370780 7977117
+How does @autowired annotation works for a private field?
+3536674 37628
+Anonymous code block in anonymous class Java
+1958636
+Spring Boot fails due to a Hibernate error after migrating to JDK 11
+51427248
+how to get float value from integer in java
+4377842
+Null is of reference type, is it a String reference or Object reference?
+28470540
+Why in Enum hashCode() refers to the Object hashCode() implementaion, instead of ordinal() function?
+4885095
+what is the meanining of 3 dots in function parameters?
+3158730
+Java : ConcurrentModificationException while iterating over list
+602636 223918
+while(i != i) { } - is it possible to have an assignment that is always true
+19416644
+When to use post increment and pre increment in Java
+2750216 49305574 2371118
+Java: Using "this" as an argument/parameter name of an instance method?
+24291091 47335599
+try{} finally{} construct with return values
+65035 4185340
+java == for Integer
+5117132 1148805
+Java, most efficient way to pass String array as Method Parameter
+1017486
+JDK 8 - "The type java.util.Map$Entry cannot be resolved"
+26102115 29519772
+log4j:WARN No appenders could be found for logger (running jar file, not web app)
+7685510
+Understanding of final variable
+13772827
+Android @Override usage
+94361 4736212 27437663
+JDBC PreparedStatement always returns 1 as auto generated key
+1376218
+Is it possible to convert ArrayList<Integer> into ArrayList<Long>?
+18524
+how resolve java.io.InvalidClassException: local class incompatible: stream classdesc serialVersionUID
+8335813
+I am getting resource not on the buildpath of the project
+9464998
+Java, Calculate the number of days between two dates
+30610299 60687806 27005861 28979880 3796841 53159149 64267439 52293042 28745205 46877240 27242137 53942427 1555262
+How does the @Index annotation work in JPA 2.1?
+17620405
+Setting java.system.class.loader programmatically
+2822004
+IllegalMonitorStateException notify() and wait()
+7126550
+Reuse Nashorn ScriptEngine in Servlet
+30140103
+How should I set the JAVA_HOME environment variable on macOS?
+1348842
+Heroku cannot deploy Java 11 Spring Boot App
+54337999
+Convert ArrayList<Byte> into a byte[]
+58360432 718554 32459683
+Abnormal behaviour of java.util.List based on number of elements in it
+602636
+How to safely convert from a Collection of generic types to an array?
+7810074 529085
+Custom Exception class - extends from Exception or Thowable?
+25398452 2755972
+What does the modcount variable when debugging the collection
+1668901
+Java split string on comma(,) except when between parenthesis ()
+9030036
+BASE64Encoder is internal API and may be removed in future release
+21904682 13109588
+Java Double Multiplication explanation?
+4937402
+Volatile guarantees and out-of-order execution
+30246007
+Today is nth day of year
+43743014 3005577 18980939 66027357 49703325
+Volatile keyword in Java - Clarification
+3519664 37159228
+How to link javadoc to private field?
+3101339
+How do I calculate the elapsed time of an event in java?
+1770010 180158
+Inserting a Java string in another string without concatenation?
+6431933 8866839
+Which would make a Class file bigger? import java.awt.*, or a bunch or single import statements?
+147454
+Why class need to implement serializable marker interface for serialization?
+441196
+javac optimization flags
+5981460
+Get a PrivateKey from a RSA .pem file
+35276820
+Does JUnit 3 have something analogous to @BeforeClass?
+1646586
+Named parameters in JDBC
+38461942 17012711 19978391 33463835 39597678 1097855
+Run java classes larger than 64k in an effort to solve a non linear system of equations
+2407912
+Creating exe for my java Application in eclipse?
+147181
+Java - Convention for using javadoc along with a method annotation?
+3109950
+How to convert time in YYYY-MM-DDTHH:mm:ss.SSSZ format to default timezone?
+2201925
+Why can't I throw an exception in a Java 8 lambda expression?
+25643348 29838774 51227880 56217402 64511531
+How to Convert an int to a String?
+5071040 29593618 4105331 50544087 22238458
+if statement comparing strings in java android
+767372 50923991
+In laymans terms, what does 'static' mean in Java?
+290884 38508678 2671496 39890377 413898 11664522 47493901 60589902 39033554 35497299 62964884 49452118 38576282 47664285 40248548 50695141 8082469 42274538 44847084 49251567 19843506
+JPA: Override Auto generated ID
+3194721
+The import cannot be resolved in eclipse
+4322893
+Java - NoSuchMethodError not caught by Exception
+912334
+Passing primitive data by reference in Java
+4319537
+All elements of An ArrayList change when a new one is added?
+19843506
+Array vs ArrayList in performance
+716597
+java toString for any object
+443730
+What is the difference between the JRE and JVM?
+11547458 21218430
+Why we can't do List<Parent> mylist = ArrayList<child>();
+29266304 32010336 30851245 2745265 11621489 25884724 30951383 29266650 42087963
+Is it possible to find the present index in an enhanced for loop?
+45437729 477550
+Is it bad practice to use Reflection in Unit testing?
+34571
+What causes "object is not an instance of declaring class"?
+7202988
+What's the best practice to round a float to 2 decimals?
+153724 20190302 23928775
+Why use the `transient` keyword in java?
+910374
+Command line terminal executing on process and input interaction from this process
+12376925
+Calling outer class function from inner class
+33025377 36244114 9024882 37364600 1816458
+When to use Optional.orElse() rather than Optional.orElseGet()
+33170109
+Infinite loop breaks method signature without compilation error
+16789832 25444882
+iterating over and removing from a map
+6092642 22663078 60173063 62794568 65316902 223918 27350034 50176085 30952598 17771607
+Testing main method by junit
+1119385 31016037
+What conditions cause object instantiation to return null?
+11103444
+How does multithreading work for a java Servlet?
+3106452
+How to solve the warnings in log4j???Continuable parsing error...The content of element type "log4j:configuration" must match
+12321943
+Convert String to Enum?
+604424
+How to take a screenshot in Java?
+58305 26419093
+Problems with Autowired and Spring Injection
+19896870
+Appending data to properties file, comments disappear & order of data changed
+565932
+How to include named capture groups in java regex?
+415580
+In java can i store a method in a variable?
+4280727
+Validating XML against XSD
+13988992 32009179 15732
+Java cannot overload any operators. Why?
+77718
+Format float to show decimal places if is not zero java
+703396
+What is the runtime of array.length?
+17998386
+What is the difference between <T> and <T extends Object> in java?
+8055389
+Android: Non-static method cannot be referenced from static context. Confused?
+60544385 290884 50620758 2559527
+how to check the string array is empty or null android?
+3598770 22162231
+Why do we need to use iterator on ArrayList in Java?
+15827703
+Method overloading not working with different parameters
+1998544
+Java threads and garbage collector
+2423284
+How to convert hashmap to Array of entries
+529085
+Why primitive datatypes are not allowed in java.util.ArrayList?
+2504959
+Is it really necessary to nullify objects in JUnit teardown methods?
+3653589
+How to create native binaries for your Java app?
+147181
+Why there is no error when a final int is assigned to a byte
+13100019
+Creating a random string with A-Z and 0-9 in Java
+41107
+setting a UTF-8 in java and csv file
+4389005
+Java way to check if a string is palindrome
+28438897 4138827 28419014
+3 / 2 = 1.0? really?
+3144610
+How to create a custom exception type in Java?
+48849977 45939732 1070590
+Easiest way to cause memory leak in Java?
+6470651
+Deployment issue with Maven Plugin
+27153024 27501957
+How to generate executable of java project in eclipse
+147181 516399
+where the memory allocated when we declare static?
+3849634
+Static Initializers vs Instance Initializers vs Constructors
+804589
+Format double to 2 decimal places with leading 0s
+2808535
+Keyword for the outer class from an anonymous inner class
+32127685 6565000 1816458 15588074 66361005 35389326 39308720 30865749 61801237 40984311 13254043 15343711
+does java have something similar to C# properties?
+34045820 2701077
+Java Array Char And String Difference In Array
+31218498
+In Java, why can a protected member be accessed from outside the class within the same package?
+902922
+Java: int[] array vs int array[]
+129178 1200621 53899130
+Console based progress in Java
+852665
+Unsafe publication concurrency java
+1621435
+How do I call a Java method named the same as a Scala keyword?
+1793984 6576594 51547685 29239389
+JAVA Object/String method overload
+24483130 16186252 9361639
+Compile Java code without dependencies
+6435953
+Optional in orElse-Branch throws Exception
+31657306 38698211
+Collection that will maintain insertion order and no duplicates
+8712469
+Java convert a string to list of enums
+604424
+Method overloading with variable arguments (varargs)
+54118123 31627236
+java.net.SocketException: Software caused connection abort: socket write error
+2126607
+Convert from String to a Java enum with large amount of values
+604424
+Spring throwing HttpMediaTypeNotAcceptableException: Could not find acceptable representation due to dot in url path
+32351142
+What is a serial version UID used for?
+285793
+Java 8 forEach with index
+53418066 18552005 35482710

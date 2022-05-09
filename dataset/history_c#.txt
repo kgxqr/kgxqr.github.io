@@ -1,0 +1,4000 @@
+how to limit a decimal number
+3212491
+C#: Don't highlight newline characters when selecting with TextPointers
+40708767
+Whose on First? Dictionary<>.First() that is.
+436954
+MonoDevelop-Unity (Mac) - Change default column width?
+21720388
+C# - XML string to XML document
+6402596
+https request works but fails in .net web app
+48969650
+Remove invalid (disallowed, bad) characters from FileName (or Directory, Folder, File) using C# .NET
+2230826
+How would I return an object from PowerShell to executing C# code
+10106217
+C#/.NET: Is there a way to force all referenced assemblies to be loaded into the app domain?
+2384592
+Pass a method a s a parameter in c#
+4015451
+need help with asp.net mvc route
+276766
+Is there a C#/pwf way to follow the end of a text in a textbox with no NoWrap
+53989719
+How can I convert string value to object property name in C#?
+19276475
+is there an equivalent to C# indexer in java
+13403881
+How to pass a value to razor variable from jquery variable?
+28317182
+C# does String.Replace() create a new string if there's nothing to replace?
+27052695
+Why exceptions can httpClient throw?
+40677708
+Is float slower than double? Is 64 bit programm runs faster than 32 bit programm
+5738448
+CodeFirst automatic class causes CA2214: Do not call overridable methods in constructors
+24908186
+Return one of two possible objects of different types
+17491062
+Displaying icons (thumbnails) 128x128 pixels or larger in a grid, in .NET ListView or other control?
+1101149
+InvalidOperationException in release since .Net 4.0
+14495757
+2 doesn't equal 2 ???  Why not?
+1268573
+Skin C# Windows Forms (Windows 7 style)
+6466282
+Identifying active network interface in .NET
+359596
+What Use implicitly typed Local variable
+3582500
+C# GetName for enum with duplicate values
+9754604
+Interface and delegate
+5994661
+Datapicker ASP.NET c# mvc4
+25325445
+Get number of digits before decimal point in c#
+21546793
+What production software have you written in F# in the past year or so that you would previously have written in C#?
+2785029
+Is it possible to "preload" Resharper with frequently used dlls to provide intellisense?
+12849834
+How does HashSet differ from Set?
+1023697
+C#: Monitoring Print Spool Without Using Interop/Unmanaged Code
+9022882
+Array of dynamic with a compressed initialize syntax
+4805765
+c# 'System.OutOfMemoryException' was thrown when there is still plenty of memory free
+1153702
+load a form in windows service
+5211258
+How to get the type of a property using switch-case in c#?
+7542793
+Getting Serial Port Information and Sorting the Results in C#
+2837985
+C# coding style - use of line continuations
+2151836
+How do I make a WPF window movable by dragging the extended glass frame?
+5493149
+How to upload a file in a Sharepoint libray subfolder using c#?
+25707649
+ArrayAccess vs. ArrayIndex in LINQ Expression
+14973813
+HttpContext.Current.User.Identity.Name returns blank?
+21117617
+Array.Count() much more slower than List.Count()
+16208951
+C# Dictionaty - inherited classes
+52905419
+How to read a large (1GB) txt file in .Net ?
+4273699
+NPOI : How To Read File using NPOI
+5855813
+how can I make a new color in C#
+13670274
+VS2013 very strange behaviour
+24099199
+Will multiple BeginInvoke/Invoke calls execute in order?
+1880870
+Is it possible to get the optinal parameter values from a constructor using reflection?
+14009359
+MongoDb C# Driver - Dictionary Serialization Issue
+12075686
+fasing issue inserting session user value into database table in .net
+17312558
+C# - GetEnumerator and System.Collections.IEnumerable.GetEnumerator()?
+20710912
+C# - why can a base class event call a private method?
+20305771
+C# Check if two strings share the same pattern of repeated characters
+13258315
+C#: A non-blocking socket operation could not be completed immediately on send
+9844263
+Draw a rectangle using c#
+2529567
+How to update all the values in a c# Dictionary <string,bool >
+6724174
+Most Efficient way to test large number of strings against a large string<list>
+6652881
+FindLast on IEnumarable
+435729
+Unity - www.getbytes Overflow Exception 2Gb
+50689859
+Comparing dates uf unspecified/UTC kind formats
+17661734
+C# LINQ to calculate a moving average of a SortedList<dateTime,double>
+5166716
+If/Else vs. Swtich
+395618
+Can a static method be overriden in C#?
+14828271
+what is FastFail
+564581
+windows form application (C#): set textbox to overwrite mode
+1428047
+C# Template Functions
+15586085
+Best practises for dealing with monetary amounts in C#
+599083
+How can i create dynamic button click event on dynamic button (C sharp ASP.NET)?
+6187944
+GET COMPLETE PORT NAME Programatically
+9370859
+Why does integer zero does not equal long zero?
+9420288
+How are random nubers generated.?
+909983
+Record Screen using .NET technologies
+397754
+dividing integers
+661028
+C#: How to implement interface in derived class or through partial classes?
+8910795
+Convert Datetimes from english to spanish
+6837000
+Does c#/.net x.x have an implementation of a doubly linked list?
+2136766
+Is there a builting C#/.Net System API for HSV to RGB?
+1335426
+FluentValiator modify error message in Must function
+38454374
+Cannot Assign because it's in a method group C#?
+19772519
+Argument Exception "Item with Same Key has already been added" Dictionaries C#
+26516825
+Round up in C# 4.0
+8844674
+C#: why is text in textbox highlighted (selected) when form is displayed?
+3421453
+c# enum and performance
+3256713
+creating grafhic and save it as Bitmap
+2880840
+Get current date only in c#
+6817266
+how to pass parameters to batch file using c#
+20627545
+Why is python slower than java/C#?
+672857
+Discover new MEF parts dinamically
+6944380
+Weird behaviour with fi statement containing exception
+27551032
+What is the purpose of using CommandType.Tabledirect in C#
+14191278
+How can i easily convert DataReader to List<T> ?
+1464883
+What is the purpose of : public static DateTime ToDateTime(DateTime value) in .NET Framework?
+52851652
+.NET xUnit unit testing for .NET Standard 1.6
+41350323
+C#, will Inverting IFs give better performance (even slightly)
+1891259
+What's that extra curly bracket doing in C#?
+7895083
+Column aligment in WPF datagrid
+720732
+use elmah to manually log errors?
+7441062
+TreeView in Winforms. How to deselect selected node?
+11824443
+.net 4.0 project referencing 4.5
+26973133
+In Java what does the Array inherit from? can i do this?
+1868182
+why this short circuit in lambda isn't working
+1079556
+C#/XAML Photo capture on Windows Store App for Windows Phone
+23605967
+Implementation and usage of logger wrapper
+32342310
+Can't add member to the Class programmaticaly
+21704148
+C# comparing two string[]
+17212254
+How virtual methods work in C#
+3311012
+Entity framework uses a lot of memory..
+6010244
+Can structs contain refernces to reference types in C#
+945664
+Can't add member to the Class programmaticaly
+21704148
+Call F# function with name ``XXX YY`` from C#
+19327506
+MVC 4 : Unit Testing error "Object reference not set to an instance of an object."
+18273667
+Realtime IMAP update
+748079
+what is type-safe in  visual studio.net?
+2437469
+[C#] Does try/catch hurts performances when exceptions are not thrown?
+1308432
+C#: find minimum and maximum number from array, minimum is always 0
+20019990
+Facebook C# SDK and
+5171309
+How to check exists culture in dotNET
+13723790
+c# Command.Writeline() not working
+1240867
+How does one figure out what process locked a file?
+860656
+Does CLR reference counting mean it's safe to throw circular object references around?
+2191565
+best way to check for null or zero in c#
+633286
+How do I apply Json.NET CamelCasePropertyNamesContractResolver on a class level
+44805490
+How to set the default ResponseFormat for a WCF ServiceContract?
+11786281
+C#: Reasons for why a label does not want to be transparent?
+605920
+Ignore a property only during serialization not during deserialization
+18242320
+EF Migration object already exist error
+38128534
+Failing simple test for ExpandoObject(). Can anybody explain why?
+4913687
+Csharp file download issue with api controller
+31887729
+How does the completion handler does looks like in C# when trying to animate?
+25908711
+How to fix Microsoft.NETCore.App', version '1.1.2' was not found?
+47349608
+AutoMapper - Map only changed properties?
+5781099
+Configure the XML parser to disable external entity resolution in c#
+32203024
+Best way to compare lareg lists
+2060058
+C# : changing listbox row colour?
+2554609
+Preventing decompilation of C# application
+1276237
+Why not using custom class instead of inheriting from EventArgs class
+6816848
+Bulk Updation in C#
+20635796
+In what situation would a reference point to an object that was queued for garbage collection?
+9490088
+Why HttpContext.Current be null?
+19509672
+Convert a string to title case?
+38360688
+How to use sha1 in C# ( SHA1 better or Md5 )
+1756188
+MVC4 - User.Identity.IsAuthenticated vs WebSecurity.IsAuthenticated
+15853237
+Code Coverage for C#/.net
+276829
+In .NET, what are the differences between .ContextMenu and .ContextMenuStrip?
+8442292
+C# Textbox Padding
+4903083
+How can I determine the most possibly assignment `path` between types?
+14472103
+Crystal Report in ClickOnce deployment
+16471492
+Allow only numbers and negetive values
+13158226
+Can ReactiveFramework be used across machine boundaries?
+3202545
+.NET: is \n equivalent to Environment.NewLine?
+6239797
+Decoding base64 Stream to image C#
+12901705
+I can use .net standard 2.0 in production applications?
+45648948
+deserialize array of enum c# json.net
+23366364
+Using Reflection to get static method with its parameters - C#
+11117372
+ConfuserEx: System.TypeInitializationException on Linux/Mono
+39249423
+Calling a Function implicitly after every function call
+33075283
+C# How to create extension methods with lambada expressions
+852916
+Standart delegates in C#
+729912
+I Have List of Objects How Update Only Single Item using LINQ in C#; Wich Has Property Text "ALL"
+14729239
+Is it possible for asp.net MVC "Action Method" to receive JSON without declaring its specific type on the parameter?
+8687110
+Why testing IRepository makes sense for TDD?
+1501375
+[C#, ASP.NET] how to do localization without resource file?
+5799463
+Why doesn't delegate contravariance work in this case?
+4096299
+How to set-up starting form in Visual Studio 2010
+6981045
+To "new" or not to "new"- C#
+768922
+Why can't I use a compatible type when implementing an interface
+15490633
+Creating an AutoFixture speciman builder for a type
+16322697
+Mouse Click or Pen Click?
+758782
+PropertyGrid - Custom property names?
+1440884
+EF entity is saving properties but not references to other ef models
+43148676
+.NET proxy authentication towards Apache CXF Web Service
+11263640
+All combinations of a list
+15150147
+How do I obtain the latency between server and client in C#
+770978
+How do I make a WPF window movable by dragging the extended glass frame?
+5493149
+Jump to WPF for Business Application instead of using Winforms
+9627901
+What is the best way to iterate over a Dictionary in C#?
+141088
+how can i convert a list of objects to csv
+2306667
+Generate XML with LINQ
+6075782
+WebMethod Returning a Datatable, What should i parse the dt as?
+10415563
+C# calling a string from another method
+9301197
+dynamic, How to test if a property is available
+2998954
+C#: ILIST vs LIST ? Missing methods
+5194293
+Do you write your own specific Exceptions?
+21652
+Automatic update win application & c#
+4769615
+How to Invoke the settings charm programmaticaly?
+12044875
+List<int> test = {1, 2, 3} (is it a feature or a bug?)
+4899297
+Get a List using it's ID
+3354082
+C# - How to create an Observable sequence that will resend HTTP requests after a timeout
+27400896
+Regular Expression for password validation.
+5859632
+string.replace vs stringbuilder.replace
+6524528
+single call tertiary operator
+4902868
+Is an interface and an abstract method with just virtual abstract methods the same thing?
+7041356
+Summing Values from Two Dictionaries in C#
+2812545
+Why does trying to access a property of null cause an exception in so many languages?
+6984241
+Exception at initialization of DateTime in C#
+22912021
+The DateTime represented by the string is not supported in calendar System.Globalization.GregorianCalendar.
+23287304
+Make a phone call in Windows Phone 8.1 (Universal App/C#)
+23555640
+How to get application version using c#?
+36351866
+Get DatagridviewComboBoxCell's Selected Index c#
+30157239
+C# - What's the difference between DragDropEffects.Copy and DragDropEffects.Move?
+10789027
+C# type inference on nested generic functions
+15696520
+C# optional properties
+1699772
+Why does the following "dynamic" code fail?
+7797207
+Preventing circular dependencies when using dependency injection and the decorator pattern
+36048646
+What is the diffrence between region activation and region RequestNavigate?
+21850368
+Log 4 Net with ASP.NET MVC...nothing happens...
+4558836
+Bestpractices: Ways of keeping configuration code out of logic code using Dependency Injection
+7288859
+Teesting Remove method without a call to Add method
+24362425
+c#: whats the easiest way to subtract time?
+3993226
+Windows API Codepack - TaskDialog on Window XP
+2823541
+Why is there a large difference in quality between the C# and JavaScript standards?
+2748757
+C# Decimal Data Type
+977484
+WebDriver + C# + Select a value from drop down
+5471515
+Best way to cast from IDictionary to a generic IDictionary
+2962011
+Why Database.SqlQuery execute procedure with exec sp_executesql N'EXEC SPName'?
+40606978
+System.Exception.Data Property and its use
+5843285
+Tell if a var is a perfect number in the binary sequence?
+9259952
+asp.net core - get User at Service Layer
+51687042
+WPF - Creating Images from an Embedded Resource
+7346282
+Persist if checkbox is clicked thorugh postback
+7795157
+"Cannot create an instance of the abstract class or interface" C#
+4949242
+Injecting depdencies into ASP.NET MVC 3 action filters. What's wrong with this approach?
+7192543
+C#: How to speed up Invalidate()?
+957573
+How to concatenate two System.Collections.Generic.IEnumerable<T> into a new System.Collections.Generic.IEnumerable<T>?
+14164974
+C#: Make answer class a struct?
+21214815
+Unity3D singleton manager classes
+13730112
+How to see CSC.EXE(or VBC.EXE parameters when building from Visual Studio
+25507040
+Prevent HTMLAgilityPack to connect words when using InnerText
+11860197
+code to check page has finish loading (asp.net c#)
+8587555
+C# Built In Data Types
+31894032
+Calculate PI using sum of inverse squares in C#
+26084868
+Linq - group by and then flatten the items
+13307569
+How to prevent an instatiation of an object in c#
+21296846
+ASP.NET CORE, Web AP:I No route matches the supplied values
+39459348
+Reflection in C#: How do I get the calling method name and type?
+3095696
+How to get the Type that descibes an array of a base type?
+13695379
+I was reading about the Garbage Collector in C#. But what is meant by Generations of Garbage Collector?
+12393176
+Action<T> delegate
+4161662
+Align Center the header text of a TemplateField
+47112356
+c# - Any practical example of long weak reference?
+15120942
+MS Visual Studio: How to exclude certain Project Folders from publishing ?
+6104818
+How to avoid code-reuse
+4343995
+MVC3: CompareAttribute for case insensitive comparison
+12822417
+EF Code First - Globally set varchar mapping over nvharchar
+5109170
+How to uninstall widows application using its Product Code in c#
+17523974
+Why is some ordering inforced in generic parameter constraints?
+8522332
+Sql Server 2005 multiple insert with c#
+2972974
+Download file from webservice - C#
+2239623
+How to get picture of a .Net control
+266116
+DateTime.TryParse() but want to check format too
+16767917
+Check Dll is registered or not
+689072
+Wait to Get Info From a Poppup Form
+12007541
+Convert minuts to full time C#
+8819197
+Can I serialize an ExapandoObject in .NET 4?
+4853574
+How to show address bar in webbrowser control in a C# winform?
+1923740
+Public accessors vs pulic properties of a class
+7517413
+C# - When to use properties instead of functions
+1374273
+the best to join in Linq
+6628576
+sending an string like JSON from C# to javascript
+11625917
+c#, 'Froms' does not exist in the namespace system.windows
+6639468
+How to gain real world programing skills when you don't work for a software company
+1076336
+Merging 2 Collection<T>
+56078
+Convert mongodb shell query to C# query
+32995762
+Which is the better syntax for NAND (not both true) in C#?
+18036981
+How to set values in x axis MSChart CSharp
+6624066
+Debugging a dll.
+349918
+what is technical deference between SubmitChange in Linq VS SaveChange in entity framework?
+10980619
+Why aren't code regions allowed within methods in C#/VB.NET?
+3151722
+Hide columns in Kendo grid
+26112233
+how to declare local variable in asp.net mvc 3 razor
+6601715
+PDFSharp - Bold certain text in a paragraph
+12415083
+How to install a Font programatically (C#)
+21986744
+C#: Can I have a method return IEnumerator<T> and use it in a foreach loop?
+3315
+C# - how can i open a url in web browser (such as IE) and pass credentials
+6042829
+WPF Binding Fails. Why?
+1447055
+How do I keep a Connection open on Multiple Queries?
+682855
+asp.net core restful api search model binding
+42929376
+what is the difference between declarative and imperative programming
+1784664
+C# openxml removal of paragraph stops foreach iterating
+9875835
+Changing text color in C# Console Application
+7937256
+How to programmatically scroll TreeView?
+5119995
+Using HttpClient to Send Dates in URL
+18067712
+Multi-threaded network server library for .net 
+2248699
+How to display file upload progress in a progress bar while uploading to Amazon S3 bucket
+32790689
+C# HMACSHA256 Problem - Matching Facebook Signed Request Implementation 
+3385593
+C# type inference on nested generic functions
+15696520
+Does C# has int8 and uint8
+24947123
+Why am I seeing duplicate packets when using sockets to receive UDP on Windows7 but not XP?
+8497186
+How to change DataTable colums order
+3757997
+How can I test programaticly if a path/file is a shortcut?
+310595
+Problem with WPF validation(IDataErrorInfo) and tab focusing.
+2355661
+Does Thread.Sleep hinder other threads (C#)
+6195672
+What's wrong with this reflection code? GetFields() is returning an empty array.
+1040803
+Using Func with intance method
+3095316
+What's the best string concatenation method using C#?
+21078
+How to add a Web Service to an ASP.NET MVC project?
+28906833
+Dictionary
+530539
+Class Constructor vs get;set;
+45359682
+Csharp clear Console last Item and replace new? Console Animation
+5027301
+How can I call the BMCreateButton NVP Paypal API?
+9939960
+Take a string comprised of email address and date, encrypt it in c# and decrypt it in Delphi
+6219203
+Why dictionary is O(1)
+37348446
+How to add a datepicker in WPF
+18680083
+Inverting a colour (or color for our trans-atlantic cousins)? (c#)
+1165107
+c# Combobox:How do i set the height of combobox
+3158004
+How to spoof ip address using c# socket?
+12963881
+How to read XML from ASP.NET Web API
+18607381
+C# struct initialization
+4420094
+Return Json on a bad request.
+44291834
+Is the JavaScriptSerializer-Class some sort of deprecated?
+40302416
+Regex: Named Capturing Groups in C#
+906493
+How to perform an efficient write operations directly into the page cloud blob?
+36714362
+Canvas and context menu?
+871617
+MVC 3 render partial view to a string to return with JSON
+15588488
+Split a List<int> by consecutive number
+48387544
+Dependency Infection
+10848560
+where can i find tag lib sharp examples
+4361587
+Build event parameters
+10834663
+Why aren't code regions allowed within methods in C#/VB.NET?
+3151722
+A reproducable example of volatile usage
+6164466
+how to dynamically call a function in c#
+3254817
+How to fire timer.Elapsed event immediatly
+6924072
+Disabling column menu for specific column in Kendo UI
+13605362
+Why does the call of an extension methods within own class need a cast?
+9772148
+How to Load assembly to AppDomain with all references recursively?
+658498
+Is C# List<xyz> passed by reference or as a copy
+23490802
+how  to force my C# program to run as administrator on Windows 7
+2818179
+c# parse byte array to json with Json.Net
+20765204
+IIdentity, IPrincipal or IUser
+31477485
+Stream - Seek(0, SeekOrigin.Begin) or Position = 0
+7238929
+C# Read from .DBF files
+22361457
+What would I lose by abandoning the standard EventHandler pattern in .NET? (and some stuff about event contravariance in .NET 4.0)
+1120506
+How to create a bitmap programmatically in C#
+1720160
+C# SortedDictionary Reverse Order of Keys
+13323267
+c# generics List last element in array
+5807947
+How to reference the child of a game object via script
+40752083
+Problem with windows 7, office 2007 and DCOM 
+1491123
+New LINQ feature
+4057359
+Comparison of a generic type with it's default value, without a generic class constraint, gives a compile time error.
+3636203
+ASP.NET - Text of TextBox does not change in code behind
+21261850
+Multible files in one MemoryStream, possible?
+8312579
+Bitwise flags and Swith statement.
+3846979
+What strategies and tools are useful for tackling memory leaks in .net?
+134086
+using streamreader to check if there there contains a string
+6183809
+How to Handle Primary Key EntityFramework 5 Code First
+17712416
+C# Returning pointers from unmanaged to managed code
+2338146
+What is the point of "static new" modifer for a function?
+661246
+Why aren't collection initializers on re-assignments not allowed?
+8621250
+Hoe to Convert Image In Byte Array
+3801275
+Worms style destructible terrain
+2083390
+What's the correct way to await multiple parallel tasks in an asp.net process?
+27987713
+Windows 8 app C# - execute codes when TextBox is tapped or clicked?
+12932188
+Problem with TCPListener
+1831744
+What in Linq.Max implementation is the bottleneck
+31540393
+Windows 7 phone -- need Hashtable() and Arraylist() -- what am I missing?
+5011149
+How to change backGround colr in Xamarin forms NavigationPage
+28631362
+question about array in C#
+628427
+Problem of Inheritance of classes
+3199956
+Can I force descendants to have an empty constructor?
+8637844
+C# split string into List<int> ignore none int valus
+23137798
+C# Need to delete objects: implement Dispose or create objects in a function?
+15015631
+How to make custom inspector add object reference UNITY 3D
+27875132
+MVC-ControllerTypeCache.xml
+12056777
+Visual C# Configuration system failed to initialize when accessing settings.settings
+1314362
+Managed C#: How to assign a Character using ASCII data?
+2016463
+Convert String[] arrary to RedisKey[] array
+28414184
+Casting DataSource to List<T> in C#
+14279977
+C# Winform Question
+3852410
+Insert cell comments in excel programmaticaly.
+222760
+Why is there need for an explicit Dispose() method in asp.net MVC Controllers? Can anyone explain its intricacies?
+10134406
+How to know whether there is any intersection in a collection of periods using LINQ
+5522088
+break out of a loop that contains a switch statement (C#)
+1987379
+time out a method caling in c#
+18501316
+How to return multiple values from a webservice
+12038900
+How To Make A TextBox Accept Only Alphabets?
+8321871
+Is there a situation in which Dispose won't be called for a Using block
+7595372
+How to get the last part of a string? C#
+3387222
+Why array of classes consumes ~20% more memory than array of structs?
+11975687
+How to bind a "standard" command to a MVVM ViewModel?
+36183366
+Why partial methods can not return anything?
+6954572
+C# - Sending Email Through Microsoft Exchange Server
+19723801
+Live Visual Tree / Live Properties
+28762512
+VSTO, Word 2007, Remove spacing after paragraph
+2272749
+Allocate memory with 16 byte alignment
+13413323
+Is it possible to write a unix system in WPF?
+4798483
+c# Set the Parent of a form
+2217716
+hot to get clicked cell column name in Devepress.XtraGrid.GridControl
+12422680
+Determite when and which a character added or deleted to/from a Text Box.
+2574942
+WPF How to create Masked TextBox like windows IP address fields
+35324285
+FluentAssertions: combining collection and property assertions
+9006820
+bug in Timer c#
+1624789
+Launching email on Linkbutton click event
+2804384
+use latest version of ie in webbrowser control
+17922308
+c# when parent thread sleep does sub threads also sleep ? WPF - TPL - C# 4.0
+7860009
+C# Check for missing number in sequence
+2475795
+How to call a c# method using quartz.net on scheduled time?
+3245975
+C# 4.0 - A question about static members inside non-static classes and garbage collection
+3887532
+Differentiating between single and double clicks in .Net
+218555
+ASP.NET MVC Master Page Menu Based on User Role
+2203320
+confusion with clone method.
+2289420
+XSLT question, how to transform xml when I have xslt file stored, but object in mem?
+2548613
+Why is instantiating a collection of new generic objects in a generic method slow?
+1128073
+What is point of await on the async call?
+21267307
+boxing unboxing and generics
+4403055
+C# naming conventions
+2109171
+C# SentanceCase
+3141426
+Why is ASP.NET skipping a custom middleware after the initial call?
+52612494
+interview qestion on C# implicit typing. 
+3457849
+C#: Using as bool? instead of object something = ViewState["hi"]
+2675537
+How can I compare two collections and have EF6 update the database for objects with changes only?
+21289340
+Unrecognized escape sequence for string containing backslashes - in C#
+1302864
+Is there a .Net equivilent to Apache Hadoop?
+339344
+On C# RFC-1867 upload methot how to set attributes ?
+6224454
+Compiling Native, Mixed, and Safe C++/CLI with C# results in Head Corruption
+4928763
+Use google analytics API to show informations in c#
+10306872
+How is the best way to convert Action<T> to Func<T,Tres>?
+943941
+How to clean user input using ASP.NET MVC
+249066
+Substituion number confusing
+38680414
+Declare Lambda Expression as a class field
+19198037
+C# - Inherit form internal class via reflection
+8497255
+How to check when an item in MemoryCache will expire
+33693912
+Formatting Large Numbers 
+1555397
+Understand linq syntax using asp.net 4.0
+10846488
+How to set ARPPRODUCTICON property in WinForms app
+16204889
+c# Instanciating Internal class with private constructor
+2023193
+Chart by code again
+10622674
+C# Convert Words(string) to Int
+11278081
+is the following exactly same
+4282031
+WPF: Two-way binding?
+2180221
+Possible to itterate backwards through a foreach? C#
+1211608
+How run mongo cammand "rs.status" from c# driver
+20297049
+C#: delegate keyword vs. lambda notation
+299703
+How do I get Visual Studio to include Nuget dependencies in my build output?
+45464271
+How do I determine the .NET framwork version in a partial/medium trust environment?
+2468256
+How to check if COM component(exe/dll) is registered or not [using .NET]?
+1491909
+PDFSharp - imbricated tables?
+36303719
+C# design reason behind statement of the form (j++); giving compile error?
+34422168
+Why does the .Net Dictionary looks like it is sorted?
+9822987
+C# Unit Test , how to test Greater than
+4138132
+LINQPad - Dump extension method - I want one!
+2699466
+C# timer (Slowing done a loop)
+3486672
+What is a NullReferenceException in .NET?
+4660142
+Simple Threading, why does this happens? (C# winforms)
+3775546
+Calling stored procedure from C#.net?
+3940587
+Returning disposable object from method
+20432682
+C#: Casting a generic element type downwards
+4923936
+C# - How to get Program Files (x86) on Vista x64
+194157
+Is there a way to detect if a debugger is attached to a process from c#
+2188201
+How do I calculate someone's age in c#?
+9
+Why does (UInt32)1 << 33 == 2?
+644708
+Windows Forms Error: "A strongly-named assebly is required"
+290980
+Dynamically update data from a get requests through Unity HoloLens app using coroutines
+38365749
+How to make Visual studio debugger stop when handled-exception occurs C#
+5327270
+C#: How do you detect the main hard drive letter such as C: drive?
+588990
+Why C# don't support the return of refferences?
+6339602
+Why use yield in C#?
+14057788
+DateTime.ToLcalTime() in winter/summer time
+7979677
+Log4Net: Log in 2 byte languages (japanese, chinese etc.)
+6953424
+Will Dijkstra's algorithm work when there are more than 1 direct connections in an undirected graph
+14184191
+Add property to anonymous object after creation
+233711
+XDocument.Validate does not fail
+17232575
+Making Console Application like Windows Application 
+3390286
+JSON and MVC
+101162
+managed C++ <=> C#
+3147744
+Save As when Returning FileStreamResult from MVC Controller
+27151992
+How to Make AutoComplete TextBox in asp.net
+3854358
+How can I emulate Autofac Module with SimpleInjector
+8983843
+C# Configuration Manager
+3873695
+Draw a single sprite at random positions 10 times xna
+12394520
+Is CSharp Constructor thread safe?
+23789106
+append values to query string C#
+14517798
+difference between even and delegate 
+563549
+"using" statement in SqlDataReader?
+14755687
+C#: Something similar to "using" that will create an object and call a method on it when done, but let me do what I want in between
+32418206
+Preserve spaces when deserializing XML to object
+33152837
+How do I change a page in ASP?
+2882817
+MVC Application Load
+19267130
+c# sql database - how to save image in sql db
+3548401
+EF 7 set initial seed value
+32049742
+Cant get icon from a file location in c# WPF
+34361260
+Supress member is never assigned to warning is C#
+14768436
+Why doesn't Anders Hejlsberg infer my generic types?
+8511066
+Whats better interface or abstract class ?
+3167185
+Entity Framework, Fluent API, what is the proper useage of HasColumnType and Database generated
+24224442
+WPF Binding objects defined in codebehind
+1705322
+ImmutableDictionary has no constructors defined
+24033629
+very basic linq to sql query for a real beginner
+8000031
+Can I give default value to parameters in C# functions?
+3914858
+What is the equivalent to "System.Windows.Forms.Application.X" for obtaining startup path, app data path, etc.?
+3603385
+.net : stack vs. heap
+1561296
+c# howto check if 2 files are equal
+2361674
+C# const array of strings
+14063203
+what is unit of work pattren in EF?
+10776121
+Deserialiing Elasticsearch Results via JSON.NET
+53857097
+Docker: applications works find via docker-compose up, but how to run it via Visual Studio and debug?
+46949192
+Creating Thousands of Threads Quickly and Executing Them Simultaneously
+3919135
+How to serialize a Dictionary in CSharp
+3671259
+ApplicationInsights TelemetryClient long first time load in Debug
+48824901
+What is IAppbuilder.UseWebApi do?
+38308905
+Disable certification validation on client site of wcf
+29389785
+Partial View is not working
+38501116
+Entity class to Datatable c# 4.0
+13606343
+The type initializer for 'MyClass' threw an exception.
+4398334
+c# - Credit Card encryption
+6996969
+C# WinForms Bindinglist<T> DataGridView with Button control
+33543430
+Catch (all) Throw, any nuance I should be aware of before removing?
+6517699
+Linq to Entities does not recognize neither string.Format nor concatenation '+'
+19147589
+Load image from resources C#
+13592150
+Import all subclasses
+14060379
+Best practice for passing object in C#
+9684213
+XML serializing with XmlWriter via StringBuilderis utf-8 while via stream is utf-16?
+5975020
+RESTful Web Service in .Net
+8312874
+Howto create a System.Linq.Expressions.Expression for Like
+956743
+c# LInq intersect query
+2381049
+C# - using decimal in switch impossible?
+2937154
+C# - Proper Use of yield return
+410026
+can one convert a dynamic object to an exandoobject (c#)
+36557845
+c# how to retrieve the calling method from within a method
+615940
+How to directly exectute SQL query in C# Have example batch
+21709305
+Why most DataContract's DataMember I read from many coding websites is not written with automatic property?
+3450532
+How to get notified with MonoTouch about my application being closed/sent to background
+7389323
+"Element not found" exception when using the Windows.Web.Http.HttpClient#GetAsync method
+24361588
+C# Regular Expression Replace
+16117043
+How to execute a function in oracle package with entity framework (code-first)?
+21965605
+EntityFramework DbSet<> - Lambda Expressions and the || operator
+16597166
+How to count without a counter in a foreach?
+31459837
+Combining Func<bool> exrepssions in C#
+13531395
+WPF : How to remove all Click event handler?
+9434817
+How to view the last 10 DataPoints in a chart that's updating each seccond?
+7096098
+Why do RealyCommands typically use lazy initialization?
+3769918
+How to create a List with a dynamic object type C#
+6600810
+Enum Question C#
+1165402
+C# How to trigger an Control.Resize event?
+515346
+Converting Java code in C# for uint
+14939257
+Metadata file System.EnterpriseServices.Wrapper.dll could not be opened -- 'Error importing module 'System.EnterpriseServices.Wrapper.dll'
+26809498
+Within the Containing Class, Use Property or Variable?
+10366904
+Object rotating according the long way to face another object
+7846775
+C# DateTime AddDays Inaccurate / Unexpected Offset
+31056646
+.Net C#: support differnt Office versions
+6431348
+Visual Studio 2013 EditorPackage did not load correctly constantly
+29694329
+C# TcpClient.GetStream().DataAvailable is false when it should not be
+4261365
+Run windows 8 camera api from c#
+18898293
+EF - The context cannot be used while the model is being created
+9750115
+C# Covariance error in generically constrained class
+50935140
+Difference between "void" and "var"
+27728875
+CRC16 ISO 13239 Implementation in C#
+18594963
+c# .net download function failing with big file sizes
+9469625
+C# assign values of array to separate variables in one line
+1422155
+CSharp to replace strings of text in a docx
+3375811
+Send data over internet through Socket
+726115
+readind data from xml into an array c#
+14353775
+how to solve circular reference problem
+6928387
+C# polymorphism in templates
+4154899
+C# - How to encrypt a .zip file?
+4851083
+Why this simple Generic list seems to be slower than an ArrayList?
+9563654
+Elvis Operator and Other Niceties on the Way
+27493541
+C# How to make a List<string> {get;set;} per thread,
+10059591
+Which LINQ syntax do you prefer? Fluent or Query Expression
+214500
+Complex models and partial views - model binding issue in MVC3
+5197038
+write string to text file and ensure always overwriting
+1225857
+ObjectListView - Default Column Value
+12629417
+Mature BDD framework for .net and c#
+4622541
+Use of .Net Remoting
+19252777
+C# show a winform over the systemtray
+3644315
+The specified LINQ expression contains references to queries that are associated with different contexts
+7332920
+c# error handling
+11596045
+How to TDD method with using statement?
+1953644
+C#: Whether to use select or AsEnumerable().Where()
+20897266
+Detecting process crash in C#
+2309836
+Build the model for a WebApi OData service dynamically
+23403542
+Basic C# "Hello World!" Program, Malwarebytes gives Trojan warning
+22926360
+How to create duplicate allowed attribute
+553540
+Why best practices vary for Static classes in C# and Java?
+25617276
+c# Search active directory for computer name(s) using user input
+12153133
+What is Action<> ?
+2834094
+Redirect in controller
+40386554
+String.Format - how it works and can I implement custom additional formats
+10512349
+Enum Flags Attribute
+8447
+How to delete Cookies from windows.form Webbrowser control C#
+912741
+Connecting to FTP with SSL using C#, causing error
+42130826
+Is it OK to use dictionaries when I don't need to quickly access it's values?
+24851130
+C# .Net 4.0 Duplicate Keys in Dictionary when using PhysicalAddress as the key
+16273324
+Native function to fill char array: should I pass StringBuilder or use unsafe code?
+1687558
+How can i find root node in treeview
+8276879
+C#: How to check if variable is of type of a type thats stored within a variable
+10415276
+How to submit disabled input MVC?
+2700696
+string repalce single code to double code in C#
+5189269
+c# vs f# speed difference
+42074379
+what is the @ in the anonymous type block in csharp?
+284545
+Redesign my code to get both typed and untyped from these interface(s)
+5247245
+How to handle nullable string parameter in a c# function
+41257029
+Problem with ExecuteScalar with Npgsql insert
+5583517
+Why am I not getting wrong result?
+5421158
+C# Keyboard Input (Beginner Help)
+3068168
+How to convert bool? to bool in C#?
+6075726
+how to use paramters in entity framework in a "in" clause?
+16085812
+How can i set CilentCredentials in WCF?
+12509992
+How to get the innerText from currently selected option in webBrowser1
+20602961
+Does GZIP Automatically Decompressed by Browser?
+32172704
+What is the best full text search open source project (.NET prefered) ?
+4124284
+How to check if a string is a valid Windows directory/folder path?
+3137097
+How do I fix a .Net windows app crashing at startup with Exception code: 0xe0434352?
+6244939
+How do you web-scrap?
+2425043
+Bind TextBox to Nulleable Double?
+21481123
+Does entity framework check Remote validation attributes when saving
+43426175
+Linq: how to select only the records with the highest date
+470440
+Displayed value in a combobox not updating when changing the source bound data
+3567897
+ApplicationSignInManager class is null during authentication process asp.net mvc5
+27186310
+How can I implement JQuery DataTables.Net plugin using C#, ASP.NET, SQL Server side processing?
+12596400
+C# Timespan milliseconds
+9565740
+Increase Connection Timeout in entity framework 4.1
+11747368
+Parallel.For Batching
+4613156
+Delete remote files in c#
+5337280
+Get application all tcp connections
+7145361
+Duplicate button
+6055038
+How to solve COM Exception?
+1496214
+How to enforce lowercase routing in ASP5 / MVC6
+36358751
+Store Class name into string variable and create its object
+15449800
+what does "var" means in C#?
+4307467
+List all browsers installed on a machine
+9841515
+C#: what means this syntax in the declaration of an abstract class?
+22301448
+C# TimeSpan.FromTicks() innacurate?
+7809517
+C# - a code example illustrating the difference between the paradigms of async/await and Reactive (Rx) extension?
+15876957
+Why is field referencing not allowed (or is this a compiler bug?)
+19669127
+User login not being authenticated
+38456619
+How does .Net process get the Culture information
+1745439
+c# multi threaded file processing
+2807654
+Create WindowsIdentiy using just a domain and username
+5933643
+How to specify .NET version for .NET 4 csharp compiler from microsoft?
+6393133
+Help with excel automation addin
+1998824
+Do I have to register bindings to Unity's IOC container?
+37802782
+Omitting namespace when serializing an object?
+625927
+Adding all of the dates between two dates MVC/C#
+36788857
+appllication level event `Application_End`
+13217704
+How to change Top portion of the Form in Csharp Winform?
+11862315
+How do i exit a List<string>.ForEach loop using when using an anonymous delgate?
+557159
+get the maximum value of particual length
+9915673
+C# Passing Arrays by Value and by Reference
+10325323
+C# - Putting the current thread to sleep
+7651020
+C# pivoting multi level data over multiple columns
+43991726
+C# - Replace one line in a text file
+13015177
+How to change DateTime
+26707526
+Visual studios 2017, cannot debug or run the application
+45690548
+The message received from the server could not be parsed. Common causes for this error are when the response is modified by calls to Response.Write(), response filters, HttpModules, or server trace is enabled.
+1554728
+When I add an iterator block, I can't step into a method whilst debugging
+1024080
+cycle in the struct layout that dosn't exist
+9296251
+howt o change time in datetime
+1859248
+Xamarin.Forms GestureRecognizers does not work inside a ListView
+49842211
+Force type to allow addition/subtraction operations (+/-) in C#.
+5516459
+Interfaces as paramaters
+3166532
+How to update gui from another thread in c#
+661561
+how to disable hooking to my proccess?
+8547572
+Insert an element to a List and specify the slot index number C#
+34437227
+do not understand the reason for ThreadAbortException rethrowing itself
+24329670
+a way to convert string to Color in C#
+3391462
+working with bytes and binary in c#
+3581674
+Error when asign big number to BigInteger
+14180880
+Converting a byte array to PNG/JPG C#
+8946846
+What does the "Prefer 32-bit" compiler flag mean for Visual Studio 11 managed apps (C#, VB)?
+7508965
+How does default path resolution work in .NET?
+266433
+Using SimpleInject with Umbraco Controller
+36665526
+read / write cookie in c# mvc asp.net
+51577811
+c# isn't a Int64 equal to a long?
+5260314
+Add response headers to aspnet5 vnext middleware
+37395227
+C# log4net: getting the logfile name through code?
+1479865
+Explaination of the XOR result
+43799248
+yield get called alway
+9017033
+How to show that the double-checked-lock pattern with Dictionary's TryGetValue is not threadsafe in C# (.net)
+2624301
+C sharp Ambiguous invocation match confusion
+16576323
+Resize image with aspect ratio and Max Height,Max Width
+6501797
+How do I tell which tab you are moving from/to in a .NET tab control?
+1323470
+How do I force calculations in a PDF when filling other fields using iTextSharp?
+470707
+Is it possible to Observable.Buffer on something other then time
+9567832
+Ambiguity in Microsoft.Office.excel  Method call.. How to resolve
+3324885
+How does Enum.IsDefined return true for both name and value?
+23321852
+Cannot set my connection string for NLog
+43852104
+MongoDB, c#: Case insensitive search
+4458950
+How to detect if the mouse is inside the whole form and child controls in C#?
+986529
+Adding table header to Listview with DataTemplate in XAML
+31002461
+Is it possible to declare a partial class in to project
+8384084
+Should i force exeptions to test them ?
+1481806
+Microsoft Message Queue - priority flag or a seperate queue?
+688050
+Detect when a directory changes
+3215619
+C# StringBuilder, add Tab between Values
+9191756
+C# WTF? Can anyone explain the strange behaviour?
+2508945
+How does Task<int> become a int?
+13159080
+Self-Balaning Binary tree
+6805735
+Why doesn't IntPtr need unsafe keyword?
+15022637
+WPF StringFormat changing the default thousand and decimal separators
+15000191
+How to make my core run on multiple core?
+123792
+What is MVC Futures Library ?
+614224
+convert sql to linq please
+10444530
+Schould I agree to ban using statement form my c# projects?
+214825
+Web Api 2 - How do i return an image (MemoryStream from Azure Storage) from a HTTPGET without saving to disk ?
+24985536
+WPF - how to made a header for LisBoxItem?
+18781411
+C# How to create a local group
+3156551
+Why is is implemented as as?
+2251310
+How to download OpenXML generated Excel Sheet in ASP.Net?
+32520276
+Guarenteed semaphore order?
+2553982
+ASP.NET Query with parameters
+1535994
+How to load a generic type with only it's name when the generics arguments comes from different assemblies 
+2276384
+.NET C#: Deciding which properties are serialized at runtime
+9271962
+C#: Creating a new file to a directory that you have a DirectoryInfo to
+1078116
+.Net reflection Summary
+15602606
+How do I format a double to currency rounded to the nearst dollar?
+890100
+in C# , How can i read a connection string stored in my web.config file connection string
+1737393
+What's up with this wierd C# using statement?
+1035073
+ModelState get key for item in a list in a model
+11090445
+How to use replace method in entity framework?
+20979020
+How do I translate this C# code (with generic type constraints) to F#?
+4173283
+C# Overflow not working?
+4878548
+Object initializer throws null reference exception
+30620808
+Getting the current user's exchange email address in C#
+7357123
+c# is it possible to trigger a click event from another form?
+4110755
+C# - Connect to remote SQL server securely ?
+35381144
+Put breakpoint in Unity IEnumerator Coroutine (Currently Getting "Breakpoint Will Not Be Hit")
+46720671
+Display default image if image not found
+717734
+Direcory.Move doesn't work (file already exist)
+2553008
+c# join two Lists of different length by linq
+53169146
+How to merge two icons together?
+2599778
+Formating a decimal number as octal
+4123613
+multicolot textbox c#
+10587715
+C# compiler bug? Why doesn't this compile?
+1208796
+Xamarin.Forms ListView OutOfMemeoryError on Android
+25807196
+Best way to desearalize a nested list in a json - C#
+47877524
+.NET String to byte Array
+472906
+check if one array contains any aitem from another.
+2266012
+How to abeyance Not Responding message
+11025829
+How to use win froms progress bar?
+12126889
+C# - Possible to set monthCalendar to show current month and previous 2 months?
+3007771
+How to read read Process Instruction from an XML File using C# 3.5
+3100345
+run a python script from c#
+11779143
+How to use Dependency Injection in Asp.Net core 2.0 Console Application
+48369845
+Windows Phone 8.1 phone call task error: The type or namespace name 'Phone' does not exist in the namespace 'Microsoft'
+23797559
+how i can convert our int value to minus in c# 
+2896901
+MVC6 Multiple Connectionstrings
+41525856
+C# difference between `==` and .Equals()
+814878
+how to install the windows service using DOS Prompt(not Visual Studio command prompt)
+8164859
+C# DynamicMethod is mch slower than compiled IL function
+13431573
+error at System.IO.IOException ; unable to read data from the transport connection : An existing connection was forcibly closed by the remote host
+5420656
+where is localdb v11 0 located
+25633691
+How can I compare value from c#(viewbag) in javascript?
+12213732
+How to check if file exists in Metro?
+8626018
+Unpublish sitecore item programatically
+38219970
+C#: What is the fastest way to count newlines in a string?
+2557002
+Ambiguity between method 'Microsoft.Office.Interop.Word._Document.Close'
+8640594
+Getting all unique Items in a C# list
+1388361
+Image in datagridview is not displayed
+34707802
+How to getNames of DLLs used by appliaction  (C#)
+1305005
+Windows 7 Tasbar Icons Background color
+6361014
+My InputBox does not work?
+21212194
+C# Console application running without program.cs file
+20190856
+Entity to json error - C# mvc4 - A circular reference was detected
+26206288
+c# lock in lock
+9172934
+How to get Checked rows values of ListView in WPF
+12986543
+C# Run as Administrator vs. Admininstator group
+13711425
+How should the ViewModel refer to its Models propertys?
+31427292
+how to append datetime value to formdata and receive it in controller or how to append whole set of model to formdata and obtain it in MVC
+29287311
+Converting a string to its BigInter equivalent
+30119174
+FlowLayoutPanel AutoSize dont Work with FlowBrake
+15624160
+Calling a method on a static class given it's type name and method names as strings.
+1418209
+C# streams, passing streams between objects, best practices
+1041267
+Difference in usage and implimentation of ManualResetEvent(Slim), Semaphore(Slim) and ReaderWriterLock(Slim)
+6764864
+c# Scanning images for finding rectangles
+46757121
+Asp.Net Core - How to get registered service by its concrete type instead of its interface type?
+50628105
+C# hwndChildAfter second parameter in FindWindowEx function
+5673099
+c# fun with interfaces!!
+4188013
+Thread safe collections in C#
+2980283
+C# get file extention with a file that has multiple periods
+21692444
+Multiple Inheritence C#?
+9306700
+Deserializing an unnamed array using JSON.net (Newtonsoft/C#)
+39816903
+How to set filter for FileSystemWatcher for different file types?
+6965184
+What is the best way of automating Windows Service(Created using C# in Visual Studio 2010) Deployment using TFS?
+15823138
+Why C# 4.0 tolerates trailing coma in anonymous objects initialization code?
+8253413
+c# xdocument save preserve white space inside tags
+8600402
+C#: How to Avoid Firing ObservableCollection.CollectionChanged Multiple Times When Replacing All Elements Or Adding a Collection of Elements
+13302933
+C#: How to get the number of items in a combobox
+768513
+How can I test my secured aspnetcore api using swagger and identityserver4?
+45787711
+How to set Button inner properties in code behind
+51321243
+read last 3 characters from string
+15564944
+C# Custom attribute with variable value as a parameter
+13125046
+M$ SQL - C# - Why disconnect from a database ?
+6549428
+C# net display real image dimension into picturebox
+42574437
+Message pump in C# Windows service
+2443867
+calling method on every x minutes
+13019433
+C#: Generics and Implementing IComparable
+9094232
+TryGetValue - pass unititialized value ok?
+26040247
+C# Reflection - get attributes values from a simple class
+7649324
+DateTimeOffset Error: UTC offset of loca dateTime does not match the offset argument
+36255821
+How to do timezones? In asp.net mvc 
+1320048
+Problem in applying style on WPF UserControl
+7470621
+c# Extract thumbnail for any file
+21751747
+How to provide warning-like or confirmation validation in ASP.NET MVC?
+13319648
+When creating a new IIS web site, how can I add it to an existing application pool?
+2434438
+Fixing "The breakpoint will not currently be hit. No symbols have been loaded for this document."
+2155930
+Methods to convert C# code to a PowerShell Script?
+2143460
+C# 4.5 Method Overriding and Optional Parameters
+13825113
+Accessing javascript array from C#
+10903750
+C# - The performance cost to using ref instead of returning same types?
+8110981
+C# Multi-key dictionary
+14282807
+C#, why am i getting, "No overload method for Add takes 1 augment" Dictionary to list
+25090240
+Item in IEnumerable does not equals with item in List
+41266178
+Saving simple user preferences
+6264567
+he connection was not closed. The connection's current state is connecting
+41217906
+Why R# prefer consts over readonly?
+3398399
+Cannot resolve ILogger<T> Simple injector AspNetCore 2.0
+49300594
+How do you add a generic item to a ComboBox bound ot a collection in WPF
+2151710
+how to bind dataset to datagridview in c#
+19114635
+Dapper - Output parameter is always null with multi.Read
+13047896
+how can i convert a filecontentresult into an attachment
+3294620
+How to handle disposable objects we don't have a reference of?
+1539503
+How to switch between debug/release in Visual c# 2010 express
+2812423
+Programmaticaly get C# Stack Trace
+6624326
+How display a Model form in a position relative to the a control in the parent window (opener)
+3540135
+Is c# supports getting currenttime in seconds based on unix timestamp?
+5918832
+Create Zip file from stream and download it
+2266204
+Baffled by differences between WPF BitmapEncoders
+3041935
+How Debugging in Design Time ?
+6464716
+C# default(nullable(type)) vs default(type)
+7734096
+Attributed interception with Autofac or SimpleInjector
+28953684
+C# Get the name of a method using an expression
+8225302
+Best practice for dependency injection MVC4 C#
+14138118
+hoiw do I disable a dropdownlist item based on a user selection on another drop down in ASP .NET?
+17114667
+C# Protobuf "Google.Protobuf.InvalidProtocolBufferException" Protocol message contained an invalid tag (zero)
+47193954
+Acess Host object from T4 class
+10373766
+order by random linq mvc c#
+9449452
+Timeout when I call a store procedure in SQL Server 2008
+4033565
+Taking Multiple files(arguments) from windows shell context Menu on C#
+1878145
+Setup async Task callback in Moq Framework
+21253523
+How to Convert Bitmap to Image<Bgr,Byte>
+16241004
+C# Insert integer to Arabic String it Start
+25979638
+C# error : An object reference is required for the non-static field, method, or property
+10264308
+Dynamically create a class in C#
+3862226
+C# wpf databinding ObservableCollection property changed
+15396786
+Dependency Injection - System.InvalidOperationException: Unable to resolve service for type
+40265541
+the name 'default authenticationtypes' does not exist in the current context
+40304516
+C#: For loop or Linq expression
+9274364
+.NET console app not parsing correctly args with white spaces in WS 2008
+10548777
+C# How to use Separate .cs files
+572314
+howt o change time in datetime
+1859248
+C# / Strongly-typed method interface using yield return
+3542129
+How do you Read SharePoint Lists Programatically?
+490968
+Don't monkey with the loop index
+457036
+how to center parent a non-modal form (C#)
+8566582
+Calculate Free Space on Different OS, .NET Core
+51390486
+MongoDB add to set C#
+21703998
+Equivalent of Java triple shift operators (>>> and <<<) in C#?
+1880172
+How to cast double to string without the power to 10 representation (E-05) 
+1319191
+Assigning anonymous method to delegate
+10221543
+Get Method Details using reflection and decorated attribute
+3467765
+Problem with ScriptManager.RegisterStartupScript in WebControl nested in UpdatePanel
+802506
+Inserting a List<> in SQL Table
+10680910
+How do I show console output/window in a forms application?
+4362111
+Nunit project throwing System.IO.FileNotFoundException for dependency of referenced project
+46205758
+how to get around the command line length limit
+2916865
+DataAnnotations Support for Windows Applications
+32015348
+What does this statement means in C#?
+2051430
+Spliting string into words length-based lists c#
+11378338
+Dependency injection of multiple instances of same type
+46476112
+Impossibility to use generics dinamically?
+234008
+C# newbie: what's between "bool" and "bool?" ?
+1181491
+How to tell wether a point is right or left of a line
+1560492
+Read-only list of string
+1089232
+When using source control, what files should actually be commited?
+4542993
+MondoDB C# Driver and Thread Safety
+17131639
+Can't start chromedriver in headless mode
+45130993
+Why diffrenets algorithms of summing doesn't match
+32825299
+C# BitConverter GetBytes source unsafe
+32024178
+Removing elements from a generic list while iterating around it
+1582285
+C#: How do you pass an object in a function paramater?
+276253
+how execute a pl/sql function on c#
+13662497
+C#: forms not responding to KeyDown events
+3172731
+C# - Count the spaces at start of a string
+20411812
+Datagridview + DatagridviewTextboxColumn + Winfrom + C#
+7615050
+Naudio wave stream didn't stop automatically
+11272872
+Hhow to load HTML Table in MVC using ViewData?
+19941354
+C# interfaces and async methods
+13573516
+Password Must be 8Characters Including 1Uppercase letter,1Special Character, Alphanumeric Characters
+9477906
+Bind event to ViewModel - WPF
+7929611
+What id difference between Task.Run() and await Task.Run()?
+37360905
+Sql Server CE - Temporary disable auto increment on a specific collum
+2684294
+why does this even compile?
+5629388
+MimeKit: How to access embedded attachments?
+31423809
+exporting from dataset to tab limited file
+4465016
+Set VerticalAlignment in DrawText in WPF C#
+22780217
+F# extensions in C#
+702256
+Does visual studio 2010's Silverlight support ArrayList if yes then how to use it, if not then Why?
+4181800
+Why function call take so much time time in C#?
+37632161
+.NET 4.5 async and await
+14455293
+How to secure access with GUID and PIN Number
+7676992
+Could not find a base address that matches scheme http for the endpoint with binding WSHttpBinding...
+6846038
+How extension methods hook up.
+4478918
+Why there's no AddRange method in IDbSet interface in Entity 6?
+31539750
+c# webapi - Post frombody causes serializable error
+52069694
+C# simplest way to check for basic latin letter (A-Z)
+9082825
+Why put brackets on TestMethod in UnitTest
+21279006
+Same substrings in string c#
+16858552
+Best way to WebAPI.Core Model Validation in every method
+50481226
+C#: creating files, recursively creating directories
+10941657
+what's the difference B/w Events and Methods In C#
+9126892
+C#: Why is this TryParseExact failing?
+2016206
+How could i Drag and Drop DataGridView Rows under each other ?
+1620947
+How to check if an userControl is in front of others in C#?
+3299283
+Distinct Values in C# Dictionary
+1155410
+c# - which objects does the garbage collector not clean up?
+4261041
+Initialize data on Assembly load
+459560
+C# generics - without wildcards by design?
+1993494
+Migrating Handles from VB.NET to C#
+794332
+Ho to add a custom code analyzer to a project without nuget or VSIX?
+40780157
+Calling a webservice from C# with HTTP POST
+3900371
+WPF merge grid columns
+23789647
+C# convert RTF string to XAML string
+26123907
+How do you convert 3 bytes into a 24bit number in C#?
+3345553
+How to read Excel OpenXML (C#)
+12897082
+C# File.Create , can't delete file afterwards...
+1477740
+Why can't I use LINQ on ListView.SelectedItems
+1189728
+C# Convert a 64Base byte[] -> byte[]
+6733845
+Draw a Fill Rectangle
+7580145
+Differnce between define dictionary
+17939856
+Will bad things happen to me if I name my arrays, collections, lists, enumerables, etc. just the plural of what it contains?
+1359384
+c# app.cofig file
+5631618
+.NET Windows Service - Cannot write to Registry Key - UnauthroizedAccessException
+4463706
+C# Why does this code cause Excel to not close properly?
+4964663
+Convert.ToInt32 rounds to the nearest even number?
+11431793
+A Question about .net Rfc2898DeriveBytes class?
+2659214
+What is the simplest way to write the contents of a StringBuilder to a text file on in .NET 1.1?
+15443739
+c# does Timer.stop timer.start restart the interval countdown?
+15617068
+string interning in .Net
+34729430
+Lasy loading without locks in multithread application
+26021197
+Why do i use volatile get the diffrent result?
+13815028
+Suspending event not raising on Windows Phone 8.1 using WinRT
+24103101
+How merge two Task results in a third task?
+10294302
+Bitmap operations in C# using a mask
+3230830
+Remove file extension from a string of a file?
+7356205
+Tool generating code explanation from the given code
+5332084
+ASP.NET / C#: Web service not serializing abstract base class
+1262246
+Difference between an Exchange Server and a SMTP server?
+5260682
+WPF: First underscore in a DataGridColumnHeader gets removed
+9403782
+check and uncheck the checkbox in repeater control using javascript
+8832589
+find all strings starts with @@ and ends with @@ in long string
+17940315
+How to make DateTime independet from the current culture?
+5893937
+storing temporay data for application
+1293273
+c# Console.WriteLine problems.
+2332053
+in c#, when we are writing a method which gets for example 6 parameter and we want to break the parameters in 3 lines, how could we break the lines? 
+1118811
+Simple C#: why assigning null in ternary operator fails: no implicit conversion between null and int?
+4290203
+ASP.NET MVC 3 Redirect From Action Filter Attribute
+5453338
+C# explicitly implementing an interface with an abstract method 
+4044796
+C# Use of unassigned local variable
+5710485
+Stringbuilder vs String.Concat
+4191079
+Covariance and Contravariance - simple explanation?
+19262845
+How do I solve this StackOverflowException?
+15405180
+Why cant I write if (object is HashSet<>) but its okay if I write (object.GetType() == typeof(HashSet<>))
+23372045
+C# Net.Mail causing exchange server issues
+14692376
+how do I add attribute comments for a method in c#
+8256996
+C# Correct paramName for ArgumentException in Property Setter
+681459
+What does "OperationContext.Current.GetCallbackChannel" actually do? - WCF, C#.NET
+3171405
+WPF ListView Grouping does not update when bound property is changed
+10878500
+System.Net.Http.HttpClient vs Windows.Web.Http.HttpClient
+31291008
+Reading from RavenDb immediatly after writing to it returns inconsistant data
+7970276
+About chaging datatype of the field in the sql programatically
+5125373
+language specific dlls copied to bin directory
+31289043
+Why do you need a private setter in a property?
+12014872
+Difference between IQuerable, ICollection ,IList & IDictionary interface
+4455428
+Using IoC and Dependency Injection, how do I wrap an existing implementation with a new layer of implementation without changing existing code so as not to violate the Open-Closed principle?
+2483604
+Sharing logger between different .NET fameworks
+49411520
+How to loop through the all the files in a directory in c # .net?
+4254339
+install an assebly to GAC uisng c#
+12382831
+How to check all properties of an object whether null or empty in C#?
+22683040
+new keyword will be used to hide the method.how?
+38139838
+C# - How to conditionally deserialize JSON object based on another JSON property?
+38357864
+Self referencing loop detected - Getting back data from WebApi to the browser with Entity Framework 5
+17313632
+In c#, is foreach purely a “syntactic sugar”? Or is there anything deeper about it?
+5816776
+How can I specify < 0 [ zero ] in switch case(C#)
+1554689
+C# Ambiguity in Word Interop code
+12946073
+Best Practices for ArgumentException vs. ArgumentNullException?
+8459755
+Decimal.TryParse don't parse my decimal values
+11311570
+Insert Data into database in C#
+8389803
+add timer to windows form
+1142828
+Decare a variable using a Type variable
+4800446
+(C#)The foreach identifier and closures
+512166
+What is the difference betwenn Dispatcher.BeginInvoke and Tast.Factory.StartNew
+9953132
+Unable to debug managed code using visual studio 2013 (please note 2012 works)
+21152630
+where Generic list for value type is stored on heap or stack?
+3702418
+C# Nullables propagation parenthesis needed
+38205606
+C# - What should an async method do if a Task is conditionally executed?
+36499297
+How does DateTime.Now.Tick exactly work?
+4554136
+C#/.NET: How to determine whether an exception is being handled?
+1815492
+DateTime Subtract in C#
+2867470
+Portable class library:recommended replacement for [Serializable]
+12903262
+Dotnetopenauth realm issue
+12831332
+How I can avoid repeating code with model is valid in asp mvc using action filters?
+21654669
+Should I define `Id` property in addition to the corresponding `navigation property`?
+47086472
+Minimal Footprint ASP.NET Core WebAPI
+44356052
+List all Files and Folders from Google Drive using .net sdk v3
+42621948
+LINQ Select from a datarow with apostrophe conflict C#
+18663605
+one main try catch in method calling methods that dont implement a try-catch
+3914443
+events in c# memory leak
+3662842
+Reverse iterating through a SortedDistionary in C#
+931891
+Ternary ? operator in c# vs the conventional If-else operator
+11643137
+how to First load form then show
+1918158
+How to import a class from another project in visual studio 2013 utlimate
+26189558
+Best way to copy between two Stream instances - C#
+230128
+Really Really stuck on getting data from a deeply nested json object
+16079116
+C# design reason behind statement of the form (j++); giving compile error?
+34422168
+C# dynamic keyword with builder pattern hides extension method
+38768492
+unmodifiablelist in .NET 4.0
+984042
+How to convert a Datetime in CurrentCulture format to English DateTime?
+15964136
+How to check 3G,wifi,Edge,Cellular Networks in windows phone 7??
+5325627
+Get the ammount of days between two different DateTime objects.
+4754316
+Find highest inetger in a Generic List using C#?
+1034282
+How to avaoid screen flickering on showing form with user drawn controls?
+220360
+Where in memory are stored nullable types?
+2865604
+How do I clean SqlDependency from SqlServer memory?
+8511806
+static variable in web applications
+5219431
+C# Reflection - get attributes values from a simple class
+7649324
+How to update datetable in c#
+6081170
+Capturing the Console Output
+186822
+C#: How do you wait for input on the same Console.WriteLine() code line?
+316582
+C# Programatically Check an Item in Checkboxlist where text is equal to what i want
+9185770
+c#.net how to create auto implemented properties when implementing an interface into a class?
+10372274
+Does anyone know how to write an Apple Push Notification Provider in C#?
+1020762
+How to get html output in Postal
+32615772
+IL why is br.s used in this case
+26323373
+Read all the cell values from a given range in excel 
+2627343
+Which Dependency Injection framework is best suited for WPF/MVVM
+25366291
+search int on the bases of a string
+48013284
+How to Sort Number in  Alphanumeric with C#? I have to Sort only Vehicle no in the Parking Area NOT PREFIX and SUFIX  Letter
+2619617
+C# out parameter value passing..
+3003960
+jQuery to call C# method
+30133132
+Why did Marshal.SizeOf() lie to me?
+17879787
+how to change heder text in DatagridView - in code C# ?
+2486482
+Cant find reference to System.Diagnostics.Stopwatch
+18534669
+EntityFrameworkCore "The entity type 'XXX' requires a primary key to be defined."
+44666042
+Reset Identify column to zero in MS-SQL ?
+4484699
+iTextSharp - Add Signature Image on PDF without Digitally sign it
+20660839
+C# -Generics -Open and closed constructed Types
+1735035
+Сrossover operation in Genetic algorithm for TSP
+1544055
+Converting 32 bit bmp to 24 bit in .NET (C#)
+12572352
+async method in TransactionScope with Microsoft.Bcl.Async in .Net 4.0
+24593070
+Add session to fake httpContext
+4194754
+list consist of another list c#
+34575317
+Reading and writing to app.config file in C#
+2682936
+TDD, DDD and the No-getters principle
+1145634
+How do you click a button in a webbrowser control in C#?
+11271737
+Entity Framework 6 - Setting unique Constraint with fluent API?
+21573550
+List is null on POST using Razor
+25159796
+Writing a Visual Studio plugin to change text color
+9697876
+Schould I agree to ban using statement form my c# projects?
+214825
+C#: How to determine whether two references refer to the same variable, even if null?
+50831091
+What is the equivalant of a 'friend' keyword in C Sharp?
+445490
+Why do these asynchronous concatenation tasks not use the local variable immediately?
+11049302
+Adding a reference to xml schema 
+4609462
+Get a Maximum Date value from 3 tables in DataSet c#
+53942882
+c# - What is a "static" class?
+695056
+Unity 5.2.2 changing Visual Studio back to the Mono Develop
+34476734
+.NET Core Identity Server 4 Authentication VS Storing User's table and returning Custom IPrinciple
+42121854
+C#": Application.DoEvents()
+5181777
+Console.Write("") gets stuck
+45275480
+unauthorized only from postman, but browser works
+43577557
+Asp.Net custom validator: how to get the 'controlToValidate' property on ClientValidationFunction?
+3636228
+how to set flowlayout button to center of form
+38824530
+Submit by pressing enter in a windows form in c#
+625173
+Excclude file from StyleCop analysis - "auto-generated" tag is ignored
+5027889
+What's wrong with my implementaion of the KMP algorithm?
+5955112
+OpenGL - poor perfomance with high scale values
+18890391
+To Use or NOt To Use the 'this' qualifuer in C#
+5885249
+Entity Framework 6. How to use transactions for different contexts?
+28824053
+Maximum capacity of C# Collection<T> different than expected for x86
+22817181
+How to create extension method for toString?
+4982479
+how do I fix  The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Too many parameters were provided in this RPC request. The maximum is 2100. ?
+1028547
+BackgroundWorkers never stop beoing busy
+2183520
+sgen.exe fails
+6623
+C# CAML query to a SharePoint list, order by a lookup field.
+4923209
+CS1685 Warning causes  a CS0433 error when targeting 3.5 in VS2010
+2806332
+Entity Framework Table per Heirarchy Inheritance
+7272571
+Updating an ObservableCollection in separate thread
+2104614
+Process.Start("OUTLOOK") in installer opens outlook in profile creation assistant
+14773220
+C# : Dictionary with lock or Concurency Dictionary?
+9868219
+C#: Splitting on “,” but not “\,”
+26301349
+Is it more appropriate to cast double as decimal or construct decimal from double?
+8248662
+Why can't the C# constructor be generic?
+3570167
+c# split strings into many strings by newline?
+21514387
+Debug and Trace Write/WriteLine not outputing to output in Visual Studio 2010 C# Express
+10237342
+why is the addition of an int and a string not complaining at compile time
+30267293
+Best practice: Enum start with 0 or 1?
+7257409
+How to inject CacheItemPolicy using SimpleInjector
+19803555
+C#: Why isn't Guid.ToString("n") the same as a hex string generated from a byte array of the same guid?
+3320501
+Xamarin.Android: Ambiguous reference intellisense error from Resource.Designer.cs VS2017
+50593906
+Is it bad to use reflection to simplify constructors, comparisons, etc?
+1341334
+How are claims persisted accross requests?
+25292137
+c# Why does Crossthreading work this way?
+15429873
+How i disable an item in listview control (c#, vb.net, vs 2008)
+5472172
+Socket.IOControl
+9440130
+Running a test category from the visaul studio UI
+25382430
+How to post an array of complex objects with JSON, JQuery to ASP.NET MVC Controller
+320291
+ASP.NET Identity 2.0 - Impersonate a user
+24161782
+Finding text using reahsrper
+22683920
+there is a way to get all files from a blob of azure in c#
+12902060
+SignalR: The user identity cannot change during an active SignalR connection
+46161597
+A proved pattern to maintain open Redis connection using BookSleeve
+8645953
+.NET RegEx get group syntax from RegEx object
+30042013
+What's mean long-running tasks
+25833054
+DefaultIfEmpty() doesn't work..
+7084183
+Order of Form Load , Form Shown and Form Activated Events
+3070163
+Get middle point of an ArcSegment in WPF
+7778922
+Is it correct if i am using await + ToListAsync() over IQuerable which is not define as a task RSS
+32759967
+Why cant DateTime.Parse parse UTC date
+1756639
+C# - Difference between typeof(AClass) and is AClass
+7765372
+c#: How to get Color from Hash Code?
+2109756
+EF LINQ call to DB failing with null parameter
+16309866
+Find a Ninject And Singleton Better Approach
+21706436
+C# Insert integer to Arabic String it Start
+25979638
+Why is there no error, when overridden get-only property gets set in base class constructor?
+53556028
+An efficient way to calculate the digit products of consecutive numbers
+17587532
+Not a legal OleAut date
+310700
+How do i build a solution programatically in C#?
+6511380
+Seperating concerns with Linq To SQL and DTO's
+51176
+In c# how can I create an in memory sqlite database?
+9173485
+Anyone have examples of the Blackboard Pattern?
+1204667
+C# Rounding to nearest whole
+15154457
+How to remove or hide particular column datatable in C+#
+13416761
+Accessing UI Control from BackgroundWorker Thread - C#
+4428817
+Wpf: Stop Datagrid selecting first row by default
+3519061
+LINQ select question
+3575083
+Regex allow minus (-) sign only
+20236366
+nhibernate will not cascade delete childs 
+2387725
+How to enable caching in ASP.NET Web API requests with AngularJS $http
+17287144
+C# Excel import data from CSV
+1587325
+Chack an appliction is idle for a time period and lock it.
+1541981
+WPF Data Binging to changing object
+839147
+What should we use for global variables on csharp? And when? Or why not
+10129680
+split a comma-separated string with both quoted and unquoted strings.
+3776458
+.NET Core 2.1 - where is the identity view?
+51016785
+Best way to really grok Java for a C# guy
+90578
+Howto format a date as localized Short MonthDay string
+2787235
+Should I throw out a exception that happen in Application_Error handler in global.asax?
+15018190
+Multiple Model in a Single View (# MVC3)
+5763631
+C# Custom Error Handling Web.Config / Global.asax not handling non-existing directory
+5664689
+Why Do I should provide explicitly Generic Parameters Type, while the compiler should Infer type
+4477636
+How to check if method has a attribute
+8817031
+Formatting TimeSpan in different cultures
+12699273
+C# different ways of casting
+6400925
+How is List<Type> is implemented in C#?
+2540050
+How to I convert a string[] to a char[]?
+16844986
+how to randomly remove a bit from an integer?
+2001597
+Json.NET: How to pass arguments to a non-default constructor?
+8254503
+can C# apps run without .NET framework?
+4306997
+asp.net c# - try catch finally question
+3304308
+Odd behaviour replacing "\" in C#
+12940313
+A Generic error occured in GDI+ in Bitmap.Save method
+15862810
+C#: Making a bitmap partially transparent
+1236473
+How do I search for a list of files using wildcard and C#
+1584711
+Understanding .AsEnumerable() in Linq
+3311244
+Why am I getting the following error when compiling this C# assembly?
+30723053
+Calc utf-8 string length?
+9761805
+Is it possible to format a date column of a datatable in c#?
+3209829
+C# Wait for SendKeys to finish sending before execturing next line of code?
+31507055
+invocation of polymorphic like event
+3939903
+What code optimization is?
+540305
+C#.Net Restart an application by itself
+9603926
+Can somebody please explain async / await in C# like I'm 5
+14177891
+The .Net Equals() returns different results, though we are comparing the same values. Can someone explain me why that is the case?
+32127722
+C# Update ref parameter inside anonymous method
+23630765
+Generating an array of letters in the alphabet in C#
+314466
+C#: forms not responding to KeyDown events
+3172731
+Why my csharp compiler crashes with this line ? Is it a bug of Csharp Compiler?
+20707137
+i need a function in c# for get n occurrences of char "t"  in string 
+2571716
+find exception type
+1802597
+Visual Studio won't build to exe
+50167541
+WPF / C#: Transforming coordinates from an image control to the image source
+1679073
+How do I use Visual Studio Code to develop Unity3D projects on Ubuntu 18.04
+52807397
+Flatten 2D array in C#
+32588070
+How can I customize a ListView to make it look like the header of an iOS settings page?
+45666086
+Remove all latin caracters using regex
+5330714
+anonymous classes and linq Select query ( c#)
+32450582
+How to make a an ajax call in MVC4
+14228849
+Generate Guid in application for sql azure
+29740756
+C# Inheritance:How to invoke the base class constructor when i call the derived class constructor
+4444735
+C# WCF: WCF stops responding aftar about 10 or so calls (throttling)
+739312
+Why I can't run the Snipping Tool from a WPF (C#)?
+11745608
+Getting domain group users in Sharepoint
+4314767
+BeforefieldInit behavior in .NET 4
+6729841
+C# NewtonSoft Deserialize JSON object property to string
+29980580
+C# Convert GameObject Back To Generic Type <T>
+48051501
+How do I find the time difference between two datetime objects in Asp.net. 
+2821040
+special symbols in .net and IndexOf, maybe bug in .net?
+17573147
+When to use the Continue keyword | C#
+7973115
+What is slicing in c++?
+536267
+linq to objects - set object property to null if it equals "folder"
+1422936
+Curly braces auto complete in Visual Studio 2012
+12177963
+How to remove BOM from byte array C#
+15476113
+BigInteger Problem in C#
+10850250
+generic version vs interface version of a method in C#
+14436942
+C# Force derived class to implement base class contructor with parameter(s)
+6559662
+C# wierdness: Array loses type sign information when cast to object
+1178973
+Google geolocation API - Use longitude and latitude to get address?
+3151450
+Diferences between 'DateTime' and 'DateTimeOffset'
+9073149
+Reverse Breath First Search in C#
+2578932
+DataTable.DefaultView.Sort Question
+1208548
+C# List<> OrderBy Alphabetical Order
+188141
+to call python code(.py file) using c#?
+5591557
+Luanching a Application (.EXE) from C#?
+240171
+HTTP POST Returns The Error: 417 "Expectation Failed." (C#)
+566437
+Resharper keeps complaining that a namespace doesn't correspond to file location even though it does correspond
+16294901
+Easy one - how do I log at verbose level using `System.Diags...Trace`
+28838757
+Do threads create their own scope when executing static methods?
+7187943
+How to make a ReadOnlyCollection from a HashSet?
+36923025
+Convert int 2 string in C#
+3081916
+C# pivoting multi level data over multiple columns
+43991726
+AutoMapper - map a property to a collection item
+4733410
+How to Count Duplicates in List and Sort by amount of Duplicates with LINQ
+454601
+How are denormalized floats handled in C# apps?
+22915543
+WPF: Changing background being tabs for TabControl when tabItems are centered
+19864054
+How to catch exception that was caught in C#
+33893220
+Linq to get a closet number that is fewer or bigger than a certain number.
+6436246
+Keep table in one pice MigraDoc
+1104227
+How to get Current User who's accesing ASP.net app?
+5417125
+Using data in a HTML.ActionLink inside a WebGrid.column...not possible?
+6167903
+C# call async method without await
+19786441
+C# EnumWindows but only with a specified title
+19867402
+WPF Set Image as Button Background through XAML
+7347415
+C3 pass by value/ref?
+436986
+C#: Tuple.create() vs new Tuple
+27455581
+LINQ to Entities does not recognize the method 'System.String ToString()' method, and this method cannot be translated into a store expression
+12045176
+Why the internal implementation of dependency injection appears to be a Hack?
+24623724
+Assembly.GetTypes() failing throwing an exception
+11915389
+Howto implement drag&drop in Blazor
+52425677
+Unable to Parse Json retruend from Rest Serivice in C#
+21938920
+Visual Studio 2012 does not show folder has created
+19639163
+Best way to access a C# from a aspx file in .NET
+1089239
+C# - assign datetime value to today's date with specific time
+7967926
+C# file write permission issue under "Program Files" folder
+1191941
+Windows Universal App Serial Ports won't open, `SerialDevice.FromIdAsync` always null
+34160376
+C# | I need a portable Database for Csharp
+7420668
+why use strong named assemblies
+2354129
+WCF XmlDictionaryReaderQuotas isnt exsist
+10766545
+C# covariance - where can I find thee?
+17231577
+ASP.NET 5 - Non-Azure Deployment through VS 2015 RC
+29787379
+Repository integration tests
+3537972
+C# - check if string exists in a file
+20309269
+Using ClosedXML how to adjust row heght to content?
+23648469
+SimpleInjector calling commands from within another command Handle() method
+10950644
+Best way to deploy VS Application that can run without installing
+16946173
+set session timeout in web.config
+1205828
+How can I access Bot Framework ConversationData outside of a dialog?
+46085614
+Checking if Windows Application is running
+4722198
+How to set internationalization to a Droptimepicker or calendar control in .Net
+241964
+C# - How do you get total amount of RAM the computer has?
+105031
+convert sql query into linq when sql query column come from subquery
+15810699
+Set array key as string not int??
+3231318
+Is F# a good choice for writing math functions for a C# program?
+431444
+Type inference in C#
+5333489
+How to show the message box with Details in winform?
+8653430
+Add WHERE to SQL
+11329823
+execure stored procedures in parallel
+42395422
+C# Compare xml fragments, return differences
+10482514
+How is local function in C#7.0 different from a foreach or a loop for that matter?
+47326782
+Help parsing GML data using C# Linq to XML
+1818147
+Is a switch statment ok for 30 or so conditions? (c#)
+2640529
+Binding WPF ComboBox to a Custom List
+561166
+Winform Checkedboxlist Check/uncheck by code
+13062064
+EF 6 rc1 Include on Many-to-Many property fails
+18909901
+DbProviderFactory and data providers
+52007836
+How to create a custom validation attribute?
+11959431
+Static method hides instance method ! Anybody, please throw light!
+756917
+How to SELECT a dropdown list item by value programatically
+1249394
+ICollection Not Covariant?
+16996626
+С++, C#, Java and PHP - not equal results
+25323202
+Join tables in LINQ and xamarin
+27260905
+null id in "MyEntityType" entry (don't flush the Session after an exception occurs) when trying to Sesison.GetAll  after an GenericADOException was catched
+2332410
+c# converting hex to char
+8400050
+How to write a code to design Windwos 8 style Progress Ring?
+22486987
+StructureMap:  How to set lifecylce on types connected with ConnectImplementationsToTypesClosing 
+2132705
+What is "STRONG NAME" in .NET ?
+2982780
+C#, hexadecimal notation and signed integers
+319993
+Concatenating Two Different List in C#
+18711533
+C# .Net Service: Why call base.OnStop() when service is stopped?
+3620170
+Exception Handling in lamda Expression
+27850736
+C# and regular expressions
+7926514
+c#, error in XML document (2,2)
+10737892
+How to create the conform box in mvc controller?
+15548073
+How to leverage Orchard with Lucene to search custom data source
+18190210
+asp net core edit xml using filestream
+41882854
+Implementing IEnumeralbe on Non-Listed Items
+2789389
+Unity3d - pass data between scenes
+32306704
+I have 3 TestMethods in my unit test class, but VS only run the second testMethod, ingoring the others
+13110496
+How do I make a post request with c#?
+9611316
+'where' type constraints for operator+
+5997107
+Visual Studio 2015 genrate UML from code
+41243355
+How to notify a net.tcp WCF client that the service has been started?
+881754
+Adding Headers to Publish Pipeline
+37008671
+.NET 4.5 async and await
+14455293
+What is, really, a "Special Class"?
+29961823
+Discover new MEF parts dinamically
+6944380
+Does C# have a way to temporarily change the value of a variable in a specific scope and revert it back automatically at the end of the scope/block?
+2275483
+.NET why is casting faster then reflection?
+1075585
+Problems with building summary listing
+8476737
+Need to update an existing element of an ObservableCollection
+800091
+C# Task.Factory.StartNew not executing the task when deployed
+12010131
+ASP.NET mvc decect clientside changes
+8133684
+Can't read CSV file with Field Hedaer that contain two\three words separated with spaces using CsvHelper library
+26817378
+Asp.Net Core IMemoryCache Dependency Injection outside Controller
+40946583
+C# Reflection: Get *all* active assemblyies in solution?
+851248
+Filter data between two dates using Linq?
+6199461
+.NET Core 2.1 - Regex is slower 200x
+50678580
+Difference betwwen == and Equal() method in C#?
+9529422
+How to Change Pixcel Color of an Image in C#.NET
+17208254
+Function define in c#
+7056041
+string.Replace not working
+1948978
+Restore c# winform backcolor
+8218144
+Question about SolrNet Connection
+6830623
+C# equivalent to QTimer::singleShot
+53318825
+Pluralize - Singularize
+475705
+Any reason to write "private"?
+8479214
+C#: Is there any difference between bool? and Nullable<bool> ?
+56518
+C# fill listbox with linq query output
+2737009
+Getting path of a to the parent folder of the Solution file C#
+19001423
+C# place resource files to separate folder
+4860996
+Dynemically Add Text box on button every click event
+13488006
+A question on how to declare an array of objects in C#
+3301678
+C# User Control that can contain other Controls
+969835
+Parameters to Azure functions
+51653803
+C# Cannot create an instance because Type.ContainsGenericParameters is true.
+5343723
+Obj-C to Monotouch translation
+11655354
+Practical usings of "internal" keyword in C#
+165719
+convert utf-8 to string in C#
+10828807
+Canceling ListBox SelectedIndexChange Event
+2556220
+How do you make an bouncing smiley face? (WPF/XAML)
+31867778
+ASP.Net FindControl question...
+799655
+VS debugging "quick watch" tool and lambda expressions
+725499
+Entity Framework 4 - Any() vs. Where() vs. Exists() 
+3703256
+csharp: How to get the full path of running process?
+5497064
+Invisible button in Unity?
+36888780
+How to get Printer Info in C#.NET?
+296182
+Date Difference in Years C#
+4127363
+Coding guides: How do you spilt up your large source files?
+608530
+List Manipulation in C# using Linq to sql
+361921
+Where i can found System.Web.MVC dll in a system where MVC 3 goes installed ?
+5485166
+Crazy Deep Path Lenght in .Net Core 1.1
+42594006
+MVC 5 Indentity 2.0 Invalid Login Attempt
+23614121
+C#: How to determine whether two references refer to the same variable, even if null?
+50831091
+In .Net/C# is the an OnSerializing event fired for XmlSerializer.Serialize
+200386
+Don't we require Interfaces in dynamic languages
+3062701
+How to make picturebox transparent in C#.net
+19910172
+C# Password generator
+5243237
+Marlett font for button
+16191751
+How to get connection string out of Azure KeyStore?
+43722030
+C#: Detecting sequence of at least 3 sequential numbers from a given list
+3844611
+What does "o" means?
+5096453
+reinterpret_cast in in C#
+479705
+C# - Set Custom Path to Referenced DLL's?
+1892492
+What does one question mark following a variable (DateTime) mean?
+4262240
+WPF: Is it possible to use a converter within a style?
+378979
+C# query problem, saving data from a query as a csv file
+5494651
+What is the solution for this error?
+20393080
+Using WIA to scan a picture in my C# application.
+4219605
+what is the use of static variable in c#?When to use it?why cant i declare the static variable inside Method?
+10795502
+work around passing parameter to static class
+34219191
+Boxing and unboxing: when's it come up?
+1949122
+C# RichEditBox has extremely slow performance (4 minutes loading !!) (Solved)
+18668920
+windows forms focus textboxes inside a panel
+24966212
+C# String.Format Parameter Order Annoyance
+1426615
+How do I ZIP a file programatically?
+940582
+C# - Class associations and lists
+3178227
+Recomendations for C# Database access in year 2011
+5284120
+MSTEST (in fact any test), Can we have async method call in Testinitialize
+20375130
+C# using LINQ to remove objects within a List<T>
+853526
+How does HashSet differ from Set?
+1023697
+Calculate the difference between two dates and get the value in years ?
+3152977
+C# How do I pass 2 lists into Parallel.ForEach?
+5668285
+C#: Alias a class name?
+244246
+Prefix vs Postfix operations
+7812178
+How to get the client ip address in ASP.Net MVC?
+2577496
+In C# OOP, how do I prevent "setters" from manipulating public properties that are inside an object that is a private property?
+9213287
+Interface or abstact class?
+1165332
+C# Change the location of an object programatically
+8369999
+What fluent API's have you made or seen in C# that were very valuable? What was so great about them?
+688418
+Entity Framework - Query Context with Class Name only know at runtime
+19973993
+possible to change console font size in c# .net?
+6554536
+Determine Number of Pages in a PDF File using C# (.NET 2.0)
+320281
+What is the opposite of bitwise AND in C#?
+783237
+WPF: Application.Current null
+7392033
+How to draw rectangle c#
+33853434
+what is difference b/w RegAsm.exe and regsvr32 ?? How to generate a tlb file using regsvr32??
+1163503
+Definition of interface in C#
+30511571
+Why does polymorphism in c# avoids static to be used as an overloading factor
+25758717
+C# How to get variable data type?
+11634079
+Command Line parameters in VS 2010 C#
+6475887
+ASP.NET 5 dependency injection, inject with parameters
+34834295
+When creating a new IIS web site, how can I add it to an existing application pool?
+2434438
+C# : don't understand delegate and event
+10706562
+edmx files and EF 6.x DbContext Generator
+22791170
+Regular expression
+3193403
+how to extract ZipFile? by c# code
+4296918
+Windows form number of panels
+12813752
+Differences with visual studio 2010 and 2012 c#
+14043093
+Partly crashing application? How is this possible?
+3341534
+Omitting namespace when serializing an object?
+625927
+haw can i select all the row in ObjectListView C#
+20003520
+Where to convert model to view model?
+11470164
+C# - Fastest way to generate a random boolean
+19191058
+C# oops concept query
+3723647
+How to communicate between two forms in C#?
+1665533
+How to add items to below other items in a word document using word interop
+12718044
+Why does a call to a ASP.NET MVC Controller not execute an DelegatingHandler?
+23507283
+How to get current index from foreach loop
+36882051
+ASP.Net Core, detecting debugging vs. not debugging in a controler
+42776109
+asp.net programmatically add a span tag? Not Label control
+1799158
+Lock user account on 5 unsuccessful attempts
+4542400
+C# show a winform over the systemtray
+3644315
+In .Net, is there a way to reconstruct a tuple to a compatible class?
+45101152
+Mouse Event Binding
+25435134
+ORM that works with stored procedures in ASP.NET 4 & Sql Server
+6635223
+How to clean user input using ASP.NET MVC
+249066
+Improve fairness when combining temporally close events
+14983713
+WebApi validation does not work if nothing is sent?
+20801692
+How can I stop Device.StartTimer?
+32304766
+Static Constructor and Exception -C#
+4579016
+how is File.Open so much better than File.Create for overwritting an existing file?
+793753
+asp .net core model validation error message localization
+40828570
+Determining available Internet connection
+194742
+String immutability
+3591089
+How to figure out, if a c# app has been startet over the desktop or the cmd shell
+1392093
+difference in months date c# .net
+4638993
+ASP.NET Core building dynamic forms
+43652400
+web service upgrade from asmx to webAPI
+17474851
+C# async - Will every 'await' operator result in a state machine?
+28944276
+How to display dyanamicaly the prevoius month name.
+4014656
+MVC Web Api + Long running operation cancellation
+9762445
+Should I use a struct or a class to represent a Lat/Lng coordinate in C# ?
+6151625
+Deserializing `object[]` that contains primitive types and one class type
+16746428
+Setting Custom GroupBox BackColor to Transparent C#
+34562088
+What are the correct use of IDatabaseInitializer in EF?
+15998931
+C# Accessing Property of Class in List< Class >
+30448643
+download file via jquery ajax web method
+12601180
+Wrapping synchronous code into asynchronous call in ASP.NET
+21406973
+Return the Unicode of characters c#
+13894021
+Maxium file size allowed by ASP.NET file upload Control
+15248934
+String.Format an integer to use a thousands separator with decimal value and in danish culture
+20396560
+Can't get RhinoMocks to emit a mock that follows the rules...
+4382624
+How to run a .bat file form c# without a console windows popup
+18023575
+Click-Once deployment is leaving multiple versions (yes, more than 2)
+2873522
+C# release build started without debugging behaves differently to when started with debugging
+31137448
+What kind of machine we need for c# developper
+3873345
+WinForms Application - How to Set Focus to a Control?
+4059512
+C#: implicit operator and extention methods
+685156
+Asp.net web api frombody value get null
+16837844
+Custome XmlSerialization for nested objects.
+2209218
+Compared to C#, Java's final is similiar to const or readonly
+5846008
+What is the use of #if in C# .NET ?
+2989283
+Regarding c# new syntax?
+4487454
+Does EntityFramework's DbContext save changes if no edition was made?
+27061960
+How I can filter my DataTable to Column Value?
+13701160
+how to save changed assembly using mono cecil
+13682491
+Create SQLCE database programatically
+6196274
+VSTO: Excel Document Context Menu Configuration
+17292899
+How EntityFramework creates 36 digit primary key?
+41264313
+C#, what is a binary null character?
+1488060
+Is it require to install MS Excel or Office on server to read an excel file in web application?
+23116283
+How to use linq to finde the minimum
+2736236
+Why Is My Asynchronous Code Running Synchronously When Debugging?
+17507374
+Make Https call usign C# HttpClient
+22251689
+c# How to upcast an object
+1205025
+How do i get the Server Name from Connection string Defined in App.config File?
+15319213
+Exception thrown in EntityFramework.MappingAPI
+25853967
+Wring Json using Newtonsoft.json.JsonTextWriter
+5980403
+Retreiving Dictionary Value Best Practices
+378465
+Asynchronous delegates vs Threads in C#
+11469370
+In .Net, how do you convert an ArrayList to a strongly typed generic list without using a foreach?  
+786268
+C#: How to Query for an event  log details with a given event id?
+2462426
+InvokeRequired and ToolStripStatusLable
+12419217
+Safe to do if (object == null || object.property == value) { ... }?
+3463468
+How do you convert Html to straight text?
+286813
+Empty Interface vs Attrtibute, what about generic constraints?
+20188821
+WPF Application with c#
+10276074
+How to remove all the alphabets from the string?
+3624332
+How to use Nullable Value Types
+43615583
+How to catch key press on a form c# .net
+3001237
+Run ASP.NET MVC 5 project on vNext
+26799941
+Sliding & Fading controls on a C# form
+2917918
+Is there a naming conventiong for the type paramater in generic typed code (bracy flavoured)
+22776556
+Ninject: Is it possible to bind different interfaces to the same instance of a class implementing all of them?
+10206049
+How can static constructors not be private?
+11292408
+regex check decimal and total length of digit
+30452390
+DrawString weirdness in C# Winforms
+837565
+Quicksort in C# with Linq: .ToArray() Performance Advantage? Passing int[] vs. List<int>
+42845127
+Conditional WHERE using linq
+12337670
+add everyone right to folder using c#.net
+5298905
+Linq expression trees
+647517
+C# syntax conversion
+15559878
+C# - LINQ to SQL - The database generated a key that is already in use...
+1164699
+C#, hexadecimal notation and signed integers
+319993
+Upcast Usage/Why?
+4655865
+C# Visual Studio - Can't run program because it asks me to attach on process
+30443640
+Decimal vs Double?
+4
+VB.Net equivalent of C#'s ìs` Keyword
+4015761
+C# generics can't infer second paramater ?
+6796896
+Shortest way to write a thread-safe access method to a windows forms controls
+571706
+How to sort a simple IEnumerable<string> in c#/.net?
+3630687
+short and sbyte GetHashCode implementation
+12501979
+SessionID to user name
+19487541
+Tips on reducing MonoTouch compilation time
+13962562
+Process.Start() don't work properly
+18006016
+In .Net/C# test if user is an administrative user
+1089046
+C# textbox auto complete
+12972761
+c# Access Violation: Attempted to read or write protected memory UnsafeNativeMethods ToolTipNativeWindow
+7458915
+Why is "Set as Startup" option stored in the sou file and not the sln file?
+694730
+c# - How does application layer unit tests look like in DDD?
+34490460
+List all Embedet Resources in a Folder
+8208289
+How to get this cursor shape on mouse hoover over an Image?
+38377743
+Convert json into class object in c#
+11260631
+why use Ilist iver Ienumerable?
+8023905
+HOWTO: Create a real-time Excel automation add-in in C# using RtdServer
+5397607
+C# - How to make compilation different between Debug against Release?
+5785794
+How do i generate a 4 - 8 digit random number in c#
+17160122
+C# dynamic keyword: run-time penalty?
+3784317
+Entity Framework 6 - Get entity navigation properties after insert
+26610337
+Castle Windsor: Instantiate component as Singleton at registration
+7108062
+How to detect Windows 64 bit platform with .net?
+336633
+Send info with TypeInitializationException (innerException is also empty)
+34994470
+How do I default a parameter to Guid.Empty?
+5117970
+LINQPad - Dump extension method - I want one!
+2699466
+How to pause a Threading.timer to complate a function
+13266916
+In Entity Frameowk 6.1, how can I define a clustered index?
+22813137
+Print in NET - Conversation from millimeter to pixel
+7722809
+C# - Reading data from XML
+7119806
+Using C Sharp to authenticate user against LDAP
+11561689
+C# substring mulfunctioning if length greater than length of String
+11032394
+Understanding await in finally block
+24867683
+Can you write a permutation function just as elegenty is Csharp
+756223
+C# - Looping trough lines of txt file uploaded via FileUpload control
+7149987
+How to open a new window in Winform in .NET?
+7099217
+Convert generic parameter with where type constraint
+16387626
+Which Dependency Injection framework is best suited for WPF/MVVM
+25366291
+update silently a windows service
+4594003
+Visual Studio freezes offten when solution is opened from network
+16718114
+TcpClient send data and recieve data over network
+3609280
+log4net Config - different appender per method
+6378780
+I have a problem in Session in asp.net
+6969563
+C# mySQL There is already an open DataReader associated with this Connection which must be closed first.
+5440168
+Equivelant of += for prefixing
+1681065
+VTSO - Is it possible to have both designer and XML ribbons?
+17216199
+c# (.net): If I override toString, do i need to override Equals and GetHasCOde as well?
+8017726
+Sitecore 7 + Glass Mapper 3, can I use relative fast queries in the SitecoreQuery attribute?
+21331200
+Convert String to Date in C#
+2188585
+Namespaces then Classes then Methods...is there a metaphor 
+819793
+Humanize number in C# / .NET
+16083666
+Paralell execution of async methods
+22117385
+C# cast listView.SelectedIndices to List<int>
+14046120
+C#: Public Fields versus Automatic Properties
+1180860
+Abstract Method in Non Abstract Class - C#
+12581070
+Add X button to a wpf in c#
+17391134
+How to make picturebox transparent in C#.net
+19910172
+Read, replace and write very large files in C#
+10146573
+DotZipNet is adding padding '\0' to unzipped data
+13956170
+ASP.net send multiple WebRequest in Parallel.For
+7477261
+Which suffix of "ToString()" displays the float as is?
+35672953
+How to automatically pull in Win32 API declaraions in C#?
+7942583
+C#: Get name of specific Exception
+41293532
+Where to use parallelism when calling an API from C#
+31378197
+Code contracts and constructor chaining
+17067484
+Incorrect syntax near 'OFFSET'. Invalid usage of the option NEXT in the FETCH statement "in Enitity Framework core"
+53349099
+WCF replacement for cross process/machine communcation
+10608355
+Entity Framework - The operation cannot be completed because the DbContext has been disposed
+13617698
+Async method isn't allowing calling method to continue
+20830998
+How to convert from Virtual Vey codes to System.Windows.Forms.Keys
+554015
+Dependency injection in ASP.NET Core 2 thows exception
+44180773
+Set display to vr-enabled stereoscopic programmatically
+36702228
+WPF merge grid columns
+23789647
+Is it possible translate a user-entered mathematical equation into C# code at runtime?
+234217
+Injecting SimpleInjector components into IHostedService with ASP.NET Core 2.0
+50394666
+How can My Asp.Net C# class return a json format.
+5300855
+C# - How to handle null values in linq
+15948369
+If the collection is empty the parallel foreach starts and use threads or not?
+48746188
+@Html.Action in Asp.Net 5 MVC6
+26916664
+Calling null on a class vs Dispose()
+574019
+Code Generation based on method Attributes
+1517206
+WPF - DataGrid itemsourc ebinding not updating
+40054539
+Hidden field value changed event doesn't trigger when changed from code behind
+24248955
+How can I restart a windows serice programatically in .NET
+1454502
+Multiple Consoles in a Single C# Console Application
+30724901
+Cast object to float
+24447387
+Fastest way to comare to Lists
+411296
+Is extending String class with IsNullOrEmpty cofusing?
+790810
+Concatenates Regex.Matches to a string c#
+21510155
+Regex.Split double and more lines does not work
+13312677
+Entity framework, POCO, DTO
+3779508
+How virtual methods work in C#
+3311012
+Purpose Of Monitor.pulse(thread)
+3100166
+Add a Median Methode to a List object in C sharp
+5275115
+I'm having trouble sending a string containing special characters through a TcpClient (byte[]) (C#)
+15082285
+Microsoft.Graph how to refresh a token
+51153055
+C#/Lambda: Where does param in the following refer to?
+3869909
+How to add Microsoft.Office.Interop.Excel reference into Visual Studio 2012?
+15285880
+Diferent orientation ina Multiple page PrintDocument (How to)
+621095
+a curious c# syntax
+2069863
+Font Awesome with metro ui
+23648905
+Regualar Expression that Matches Any Number or Letter or Dash
+3416341
+EF Code First Exception: Invalid object name 'dbo.Dinners'
+11581147
+Can't find code-behind for sharepoint aspx page
+10206756
+Remove Last n Items In List C#
+16931690
+C# MemoryStream Disables reading when returned
+11528697
+Global rename on MVC project resulting in multiple types for controller error
+6374290
+Writing arbitray type instances into a MemoryStream in C#
+9663360
+WPF Application stalls after first interaction, like button click
+12885803
+Correct implementation of a custom config section ?
+5661544
+XML serializing with XmlWriter via StringBuilderis utf-8 while via stream is utf-16?
+5975020
+Usinf WebBrowser in a console application
+6324810
+how to add calculator to start menu search?
+7861115
+What is the differenc between Static class vs protected constructor
+48114547
+C# - ASP.NET - Import and Export Excel - What is the best library?
+444522
+Convertion in .net: Native Utf-8 <-> Managed String
+10773440
+HOW TO: Get nested type in a Generic List through reflection?
+538111
+Parsing a Source C file and getting a list of function in C#
+7010972
+Is it possible to find a computer in AD without knowing its OU?
+8314496
+How to disable inline editing in Grid view ASP.NET C#
+14001423
+Context menu item click event handler problem
+2032832
+How to write System.Xml.Linq.XElement using XmlWriter to a stream.
+1865529
+Using SevenZipSharp to compress in multi volumens and to set password?
+16016540
+Clipboard in C# Console Application: Strange Behaviour
+20407114
+OData.Net Core JSON Result Returning IQueryable Results as PascalCase Instead of camelCase
+52010816
+I Broke C# With a UserControl
+11161160
+Get the location of the tnsnames.ora file using C#
+2006225
+LINQ orderby on date field
+5813464
+C# | Column tpye (Programmatically)
+7781007
+Is there an easy way to blend to System.Drawing.Color objects?
+3722307
+Error when trying change string C#
+17282058
+Dispose issue under stress
+26592596
+Convert FSharpList back to List in c#
+18562007
+WCF - High availability
+4335
+Cannot Return Error Details Remotely
+8346836
+asp.net how to do not render a DIV using a Panel Control
+7472406
+C# How to retrieve values from the last row in a DataTable
+18528736
+C#: Is getting and setting a simple static properties thread safe?
+3523761
+How to find out next charector
+1026220
+Why the main thread comes first in C#?
+30567847
+How to implement SOLID prinicpals into an existing project
+783974
+Nlog Callsite information
+5132759
+Bubble sort a string array c#
+36764347
+how to save changed assembly using mono cecil
+13682491
+Count for IEnumerable
+5604168
+System.Array GetLength and Length
+2044591
+Is it bad practice to have a ViewModel with a propety typed as another ViewModel in ASP.NET MVC
+5677599
+C# - Using the same lock for muliple methods
+4522128
+How can I Compress a directory in C#?
+2236025
+How to recursively print the value of an object's properties using reflection
+6196413
+How to check the state of a semaphore in c#?
+7330834
+Convert leet-speak to plaintext.
+3215228
+C# call one constructor from the body of another
+7575739
+Datetime .tofiletime and .tofiletimeUtc are the same output
+29284543
+linq: T-sql MERGE-like function (Entity framework)
+5842125
+LINQ | How do I perform Date Comparison in a Linq Query?
+1088212
+drag and drop file into textbox c#
+9464001
+How to play a sound file? WPF
+22745278
+label printing using Zebra TLP2844 printer
+6911258
+C# Calling Sql Server Stored Procedure
+6210027
+Visual Studio dugger "Thread:" title, naming possible?
+7491383
+SimpleInjector - setting struct for construction injection (multiple parameters and multiple constructors)
+20892191
+C# switch limitations
+52313
+MVVM multibinding generates "Cannot set MultiBinding because MultiValueConverter must be specified"
+19510196
+String.Empty vs "" vs Null
+1028170
+How do you wait on a Task Manager task to finish in a batch file or C#?
+20261639
+C#: Is StreamReader.Readline() really the fastest method to count lines in a file?
+14243249
+How to trim illegal characters from path and filenames?
+146134
+C# ExtractToFile throwing Access Denied Error?
+14795341
+In Which Case A IDataReader Loose The Value
+8396656
+visual studio suggesting to convert Expression-body in c# to block body for method : IDE0022
+43450696
+How can I pass a property of a class as a parameter of a method in c#
+1178574
+How To Fix Missing Assembly Reference 'Microsoft.Xaml.Interactivity.dll' in Windows Store App Solution
+27266459
+How to Get DateTime Month in Capital letters C#
+8200383
+The java inheritance vs C# inheritance
+13323099
+Struct initialization in C# and 'new' operator
+20226477
+Cannot convert from 'double[][]' to 'double[*,*]
+4955596
+c# Notification Icon
+13373060
+Randomize a List<T> in C#
+273313
+Translate C++.Net to C#
+73879
+C# .NET naming convention
+8006494
+Asp.Net Core Post FromBody Always Null
+42277639
+In viual studio when debugging C# code, can I export a Dictionary<string,string> in xml,csv or text format easily?
+41132735
+How to Convert JSON object to Custom C# object ?
+2246694
+Initiliazing a string array in a method call as a parameter in C#
+1416500
+c#: DateTime.Parse problem when changing culture
+3866398
+String contains some part of another string C#
+36526414
+return boolean value from select query
+5088577
+C# - Easily write a whole class instance to XML File and read back in
+13266496
+When to use ref vs out
+1516876
+C# Strange Effect with Overridden Properties and Reflection
+8140298
+C# What does object @object mean
+8068732
+When does Task.Run Method (Action, CancellationToken) throw TaskCanceledException?
+27196451
+Why isn't values implicitly convertible to string in C#?
+5516533
+Overriding Object.Equals() instance method in C#; now Code Analysis / FxCop warning CA2218: "should also redefine GetHashCode".  Should I suppress this in my case?
+2516428
+visual studio 2010 resx label size changes
+13627591
+How to add pdfsharp lib in C#
+1831794
+C# using Properties.Settings for application settings
+8614360
+Create an Instance of a Class with Expression Trees
+4758817
+Which web server should be used in production for asp.net 5 on Linux and/or Mac?
+34619693
+Disabled Not Authorized Redirect to Account/Login in ASP.NET Core
+43455395
+Make UserControl editable via Designer
+36787383
+LINQ c# reading Xelement by attribute name
+10982167
+Apostrophe(single quote) in connectionstring
+36454733
+How do I open a SQLite database?
+13964462
+How to include another project's exe in an Asp.Net application?
+5488160
+Which is the best way to add a retry/rollback mechanism for sync/async tasks to existing legacy code in C#?
+37393828
+Convert Number Stored As Text To Text
+42240449
+Upload image directly to twitter in wp7
+10430165
+C# How do I *OVERRIDE*, not hide, a variable
+8844649
+Using handles to manipulate my app
+40241044
+Swapping columns with unique constraint in Entity Framework
+10226565
+How to change an icon for one .doc file?
+9046903
+C# .NET 3.0/3.5 features in 2.0 using '08
+173080
+Web service refuses to receive parameters and reply in json.
+3864052
+Unable to Parse Json retruend from Rest Serivice in C#
+21938920
+How to determine if .netcore is installed
+38567353
+How do I mark a method as Obsolete/Depricated? - C#
+1759352
+Injecting ILogger<T> creates each time a new loger?
+47901666
+Is Session thread-safe?
+7013055
+Understanding async/await vs Wait in C#
+43542654
+ASP.NET - Capitalizing the first letter of a string only
+35549797
+How To Add NewLine To Lable's Text Design Time
+13295116
+C# List Definition, brackets vs curly braces
+39548446
+Running a javascript function in an instance of InternetExplorer
+3514945
+Closure captured variable modifies the original as well. How and why?
+15275637
+sort Ienumerable list
+3062408
+what can i do about this Visual Studio 2017rc error exception?
+42312165
+how to make a distict list of int from list of objects?
+40481549
+How to host the .NET CLR4 in Excel VBA
+37074533
+Callng ToString("YYYY-mm-dd") results in wrong date format
+16106394
+EntintyFramework Core auto generate key id property
+43899190
+Does Domain Entities should by exposed as Interfaces or as Plain Objects ?
+2352654
+C# design reason behind statement of the form (j++); giving compile error?
+34422168
+How to get server name through code if MS-SQL-SEVERVER (Standard Edition) is installed.
+1613186
+Is the IEnumerable<T>.ForEach() extension method gone?
+10299458
+Check if world in english dictionary programmatically in c#
+6003942
+WPF Grid Auto Resize in code behind
+5459595
+ajax succes function
+7892793
+How common is it to use MulticastDelegate.GetInvocationList instead of simple delegates?
+434873
+How to store additional data in cookie?
+14758708
+C#: Unittesting multithreaded "units"
+7852960
+NHibernate.MappingException: No persister for: 
+57804
+What is the preferred way to bubble events 
+4349195
+C# - Round to decimals always up
+11794579
+problem converting 4 bytes array to float.C#
+4301623
+how many classes can you inherit from in asp.net?
+3600881
+How To Detect New UI Object On Touch Android in Unity ? C#
+41391708
+how to find out double quote in string in c#
+3446096
+ASP.NET MVC Action Parameter Naming
+2030614
+How to Model Bind From Sql Object
+37205129
+Split by múltiple characters
+11718653
+What use have attributes on generic constraints?
+4854686
+HOW TO: Get nested type in a Generic List through reflection?
+538111
+c# Basic Live Charts DateTime example not working
+43985282
+Role of Any() in LINQ query
+10773048
+entity framework save IP as binary to MSSQL Server
+41321823
+C#: Dynamically assign method / Method as variable
+7367152
+C# F# .NET: how to create array with sequence of integers in C#?
+4588787
+WinForms - what setup code should go in MainForm() versus MainForm_Load(object sender, EventArgs e) ?
+2521322
+How to cancel an asynchronous calls?
+1729346
+Asp.NEt mvc cookies not saving?!
+4285810
+Binding List ItemChanging Event
+23339233
+Use Linq to find repeating elements
+1012324
+C# Web Browser Control
+1125739
+WPF - ListView Resizing Columns Performance Issues
+16245194
+How to code without memory leaks?
+794466
+c# - How do i mock a class without an interface?
+20400734
+C# - Enter "&" symbol into a text Label?
+4325094
+Break Lines in Auto Formating of Visual Studio
+14043776
+Get property from a parameter of base type without reflection
+344503
+Take() Method in LINQ
+30990816
+Headless HTML rendering, preferrably open source
+87386
+How to detect where a Memory Leak is
+1463711
+C# asynchronous programming APM vs EAP
+11276314
+IEnumerable vs IQueryable for Business Logic return Type
+6677722
+quickest way to remove one array of items from another
+1884709
+Will finally blocks be executed if returning from try or catch blocks in C-Sharp?  If it will,Before returning or after?
+3715198
+ASP.NET Encrypt Query String including keys
+9110561
+How to get XElement's value an dnot value of all child-nodes?
+4251215
+The maximum number of characters a TextBox can hold
+25709069
+is there an easy way to split a string with a string in c#
+2234324
+C#: How to invoke a method on the UI thread from within a worker thread?
+8577872
+Why does a call to a ASP.NET MVC Controller not execute an DelegatingHandler?
+23507283
+Is there any vb.net "With" statement in C#
+9482764
+C#: Shortcut for "null if object is null, or object.member if object is not null"
+3817930
+How not to abrut http response c#
+10778426
+C# 30 Days From Todays Date (for the C# datetime gurus)
+1665941
+Where to store data for simple .NET application?
+2172227
+Encoding with HTTP Client in .net 4.5
+11018813
+Draw a rectangle using c#
+2529567
+Debug VS Release
+90871
+remove dead routes in asp.net mvc 2
+2627699
+Getting a count of rows in a datatable that meet certain criteria using C#
+5252934
+Format Currency string to integer....
+4094334
+Is there an alternate to string.Replace that is Case insensitive?
+244531
+Increment Nullable<int> a = null without exception
+29172558
+How to grab the link that was clicked on (C#, WebBrowser Control)
+1286746
+How can I add an XAML Path, which has been defined in the ResourceDictionary, multiple times to a WPF form at runtime?
+1377658
+Best Way to Get Int part of a Decimal Number
+479706
+Invalid length for a Base-64 char array.
+2925729
+how to use poco entity generator
+3906701
+Does EntityFramework's DbContext save changes if no edition was made?
+27061960
+C# System.IO.Directory.GetFiles Empty
+39287425
+Xamarin comparisson to native SDK and JS-based frameworks
+23419741
+Compile error loading certificate in Azure Functions
+40240195
+Compare two complex objects using serialization c#
+38411221
+Conditional formating - percentage to color conversion
+25007
+ï»¿ characters appended to the begining of each file
+466653
+C# Forcing GC.Collect() to reduce chances of running during time sensitive code?
+15711627
+Are the practical limitations with assemblies not marked as CLS compliant?
+9800723
+Question about LINQ query
+1191919
+Is using out bad practise
+4255188
+C# call one constructor form another
+4009013
+How do I set Settings.NewLineOnAttributes in XmlTextWriter?
+8237165
+C# Explicit Local Scopes - Any True Benefit?
+16871395
+Clickonce update cancelled by user and it never asks for update again
+5106000
+Split CamelCase string except for acronyms
+8495457
+Migrating Visual Basic to C# (For loop condition declared differently)
+52607611
+how to change the grid grow of the control programmatically in wpf
+8936397
+Using same datatable for pagemethod and webmethod in asp.net?
+32820506
+How can I execute a Minitab command via C#.NET?
+3160767
+Action Delegate C#
+2474439
+Get print page count without printing
+24627782
+Protobuf-net serialization/deserialization to/from byte[] without stream
+10152539
+How do I handle optional C++ dll struct arguments in C#
+47997942
+LINQ: Sequence contains no matching element
+14433147
+MxNx3 RGB matrix into MWarray
+15881862
+C# Compare two System.Enum of type T where T : X, Y, Z
+29929488
+Why can't use null propagating operator in lambda?
+28880025
+GridView with nested busines objects.
+1130351
+Check if row modified in gridview c#
+29790232
+How to check where a program is installed using .NET?
+1458483
+ConcurrenctBag(Of MyType) Vs List(Of MyType)
+2950955
+Adding separator in a string in c#
+9932096
+How propagate change and notify object about it properly
+20846161
+If I rebuild a dll that my project references, do I have rebuilt the project?
+13751807
+how to generate the database from .edmx file in Entity Framework 4.1
+7555388
+Asp.NET - Strip HTML Tags
+785715
+Is there any way to concatenate two Func<T, bool>?
+17088268
+Are there alternatives to UltraWinGrid (for C#)?
+2516040
+LINQ - compare two lists
+9524681
+NUNIT 3 - Create Continuation Token
+48863087
+How do i write a backslash (\) in a string
+18532691
+Local event listener called even thought object failed to be constructed
+6913222
+Refactoring in VS Studio 2017 ASP.NET MVC 5.2.3 causes compiling errors
+44383162
+SQL Server log file grew excessive with Hangfire
+34872529
+How to handle a StackOverflowException in my application
+18721841
+c# Why do I get "Name dose not exist in current context" error on an MSDN class
+28247078
+how to export excel from dataset or datatable in c#
+9478351
+Retrieving Data from databse withing the last 7 days using linq
+13248360
+Entity framework sets nvarchar (max) when MaxLength is specified
+32250220
+How to perform an efficient write operations directly into the page cloud blob?
+36714362
+How to programatically limit bandwidth usage of my c# windows forms application
+847422
+Why Creating Custom Exceptions ?
+417428
+Add DataBinding for attachted Property per Code Behind
+600441
+C# switch case fall-through
+8071655
+.net cache size
+344210
+Binding a Dictionary's key and value in a listbox
+3334128
+c# Compare two List<int>
+14217261
+How to swap two decimal variables.
+804706
+why is this loop working Infinite
+8298808
+MVC - OutputCache Location=Client does not appear to work
+9592284
+cal a C++ dll exported function from c#
+5367515
+Editing DataGridView programatically
+2359124
+C#: Weird outcome when subtracting Decimals
+2211378
+Why do I have to speicfy [FromUri] to get this to work?
+16927862
+Is it possible to define implicit cast operator from interface to class?
+12533748
+C# Passing data with events
+13455047
+Double multiplication broken in .net?
+1420752
+how to get the Directory from Full path in C#?
+912443
+C# create SQL table programmatically
+19589020
+Unity - www.getbytes Overflow Exception 2Gb
+50689859
+is it valid to create a static Regex object to be used by all threads in the asp.net app?
+1664271
+Get offset minutes from timezone (string)
+40006629
+There is any way I can integrate the MS Office Smooth Typing in a C# application?
+15327435
+Object initializer throws null reference exception
+30620808
+C# - How do I split a string on an empty line using .Split()?
+32429967
+How to store Multiple records in SQL using DataGridView
+30277792
+Convert table from sql to mongoDB 
+4372630
+C#: How do I use an XmlSerializer to deserialize an object that might be of a base or derived class without knowing the type beforehand?
+4801215
+WPF - TextBlock.GetBindingExpression returning NULL
+12033021
+Showing image in a DataGridViewImageColumn binding text field
+9789466
+Can a class inherit from another class and an inteface?
+2059425
+Marshal.ReleaseComObject ?
+776244
+C# equivalent of Jave Class<? extends Base>?
+26685406
+Prevent a user from Deleting, Moving, or Renaming a file in C#
+11318663
+will this be a big hit in perf
+3388536
+how can i navigate forms within the window c#
+6463142
+How can I detect when the .NET framework is "turned off"?
+2669889
+How to "bubble" a Controls features when place in a custom UserControl
+2785376
+How to read web api response with HttpClient c#
+39162408
+How to convert an integer to fixed length hex string in c#
+5000966
+Inhert from Form, which has parameters
+5729015
+Getting Serial Port Information and Sorting the Results in C#
+2837985
+Override ContextMenu behavior
+16923904
+Add item into List and pass to Controller in MVC5
+39129555
+Regular for URL
+9289007
+How to build .csproj with C# 7 code from comand line (msbuild)
+43258130
+What is the difference between a lambda expressions and a predicate in .NET?
+11286775
+Displaying Arabic charachters in C# console application
+21751827
+Using OpenID (via DotNetOpenAuth) along with user roles and other Membership Provider features in ASP.NET MVC
+3218225
+Inverting a colour (or color for our trans-atlantic cousins)? (c#)
+1165107
+Switch Case with integer expresion
+13927815
+CSharp : Monitor - Wait,Pulse,PulseAll 
+1559293
+why does my application crashes in release mode but not in debug mode?
+12124633
+What is the worst C#/.NET gotcha?
+241134
+Access a method from a DLL from C# program <I AM A BEGINNER>
+6392372
+Covert to expression body does not seem to work?
+28340876
+Visual C# Change Font Properties
+17759744
+automatic resize listboxes
+4246820
+Slow foreach() on a LINQ query - ToList() boost performance immensely  - why is this?
+3575886
+How to flatten an ExpandoObject returned via JsonResult?
+5156664
+C# Remove element of a regular array
+457453
+C# WinForms: Open Image from file, then release lock?
+6576341
+Cofe-First Entity Framework inserting data with custom ID
+12728226
+Microsoft.web.Infrastructure.dll not found
+41726487
+Confusion over the new C# 5.0 keywords
+9898441
+C#: How do you notify a parent thread that all child threads have terminated?
+2974895
+Inverset cot in C#
+2779230
+Converting WAV files to mono WAV using Naudio
+12075062
+C#: Do I need to escape backslash in a config file?
+5685344
+C# Regex to Find Domains
+3325326
+C# ODP.NET Code for calling a function in packagek
+18788509
+C# - Stack Empty Exception
+14121799
+c# how to make a sortedlist sort reversely? do I have to customize a icomparer?
+6199029
+Why does this implicit conversion work?
+9008637
+WPF: Is it possible to bind a Canvas's Children property in XAML?
+889825
+How to get return value when BeginInvoke is called in C# 
+2214002
+C# Returning error for simple inheritance
+30696006
+Is the Garbage Collector run in separate Process in .NET c#?
+29208284
+overriding protected internal with protected! How is this Possible ?
+2375792
+Usage & versus &&
+5537607
+C# goto case good practice
+4036997
+Cross Process Event - Relase all waiters reliably
+16393238
+Is it possible to run a mdf database without sql server program? (c#)
+10366586
+What's the best way to parsing this string?
+19375354
+Do interfaces derive from System.Object? C# spec says yes, Eric says no, reality says no.
+3236305
+WPF: How to Create ImageBrush in C# code
+13535587
+Eliminate null entry in combobox C#
+14212568
+LINQ: Select parsed int, if string was parseable to int
+4961675
+How stackoverflow.com is re-writing URL's ??
+521310
+Deserialize responce from firebase
+24940591
+Form authentication without OWIN + Identity
+31511386
+How adjust text using iTextSharp?
+10145557
+Will csharp compiler remove unused local if it is assigned a property?
+16355880
+How to add ASP.NET Membership Provider in a Empty MCV 4 Project Template?
+13324544
+C# WinForms Bindinglist<T> DataGridView with Button control
+33543430
+C# - "How to use Open File Dialog to Select a Folder" or "How to reuse .rc file from MFC in .NET project"?
+11624298
+In C# OOP, how do I prevent "setters" from manipulating public properties that are inside an object that is a private property?
+9213287
+LINQ - how to convert query syntax to method syntax
+899799
+SQL Server - same query with the same query plan takes ~10x longer when executed from ADO.NET vs. SMSS
+27351113
+Why should we call SuppressFinalize when we dont have a destructor 
+2605412
+C#: Neat code to convert bool[] -> "false, true, true, false"
+2272970
+M$ SQL - C# - Why disconnect from a database ?
+6549428
+INotifyCollectionChanged Help!
+5883870
+C# Get http:/.../File Size 
+122853
+How to loop through a list, getting both the key and the value
+14013261
+Entity to json error - C# mvc4 - A circular reference was detected
+26206288
+How do I prevent tearing with WriteableBitmap?
+1049446
+How can I capture the WINDOW USERNAME included to my below code?  
+2193512
+C# Context Menu
+4595116
+How to "sleep" until timeout or cancellation is requested in C#4.0
+18715099
+is there ?? (c#) equivalent in perl?
+1891934
+regular expression for empty string c#
+3085539
+Best way to copy between two Stream instances - C#
+230128
+what is enumeration in c# and how it store in memory and where we will use
+3577329
+How can I cast a List of an object into an object which inherits from that list?
+52308892
+Draw Rotated Text around it's center
+18726172
+LINQ to Entities does not recognize the method 'Int32_ Pars(System.String)' method
+14558837
+Best method for creating a "tree-view preferences dialog" type of interface in C#?
+3725
+why Simple Injector's source code all in one .cs file
+22086671
+Make an Installation program for C# applications
+6090913
+how to capture text using mouse pointer and shortcuts in C# ?
+4015143
+C# + Serialize an Object to XML
+4123590
+C# inherited form problem
+1216940
+How to do rotation arount control's center in XAML
+4132194
+How do I get a screenshot of a given website using C#
+1981670
+C# ASP.NET - Error occurred during a cryptographic operation
+25857577
+Get external IP address in C#
+66363
+How to get date from day of year in csharp?
+21960499
+VB.Net equivalent of C#'s ìs` Keyword
+4015761
+Enum with custom values for only few of the types
+35203298
+C#: are ranges possible with enums?
+2778487
+C# property, is it possible to define get without defining set (no backing variable)?
+1829582
+Unit Testing Dapper Inline Queries
+30453890
+Does C# have a nice way of itereating through every integer in a range, minus 1 of them?
+34892771
+Physical, Relative, Absolute and other pathes
+13177551
+Can I populate a list of my own class dicretly in LINQ?
+17676227
+Inseting into DB with parameters safe form SQL injection?
+5315945
+C# Data Anotations in Interface
+17006496
+Select a random N elements from List<T> in C#
+48087
+How to add global filters in ASP.NET Core 1?
+41972518
+how would I peform a SHA1 has on a directory?
+1969977
+C# Captured Varaible In Loop
+271440
+How do I ignore/remove nulls from linq query results C#
+53258996
+ConcurrentDictionary Pitfall - Are delegates factories from GetOrAdd and AddOrUpdate sinchronized?
+10486579
+C# Throttle an Event Handler
+28017498
+is there an easy way to split a string with a string in c#
+2234324
+Queue of async tasks with throttling
+34315589

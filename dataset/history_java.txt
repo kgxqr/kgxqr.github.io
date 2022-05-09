@@ -1,0 +1,4000 @@
+what is the correct approach?
+12538487
+Can a sinle apache server handle both tomcat and php?
+11364136
+How to instantiate a Scala Stream in Java?
+7533978
+Time Complexity O() of isP()
+1318545
+Will the size of a java class impacts the performance of the application
+12474722
+ArrayList.size method peculiar behaviour
+34526362
+Most air-tight, professional grade way to close nested streams in Java?
+884007
+Why isn't the allocated heap memory shrinking when usage is below MaxHeapFreeRation?
+12150668
+Android studios 3.1 does not render xml file due to java class missing
+51238779
+lower case of turkish character dotted I in java 7
+23524231
+Java constuctors pattern
+16808190
+replace parentheses included string using regex
+1138552
+Nosql and statically typed language
+8005309
+Is skip() method Short circuiting operation
+51571912
+Java IO vs. Java NIO with Linux NPTL
+4057853
+tomcat  + spring question
+158336
+DateTimeFormatter pattern for timezone offset
+30710829
+Correct way to add lib/*.jar to an IntelliJ IDEA project?
+1051640
+[Java] Access restirction on sun.security.pkcs11.SunPKCS11
+5172069
+A very strange exception of java8 forEach
+33955542
+how to sort a Collection<T> ???
+2477261
+How do I throw a WebApplicationException(Response) or equivalent from a filter and have it use the Response?
+14782184
+How to programmatically click a webpage button in java?
+16589417
+Why does this code print "Hello World"
+43943699
+Java: When is it appropriate to multi-thread?
+11266484
+IDEA, TestNG and static imports
+13148901
+Check for implemented interface vs abstract method
+41883712
+Change Text field data color(Fore Color) based on condition in Jasper Rpeort
+8754448
+Can C# style object initialization be used in java
+6668156
+Android MVVM Design Pattern
+4972927
+java Double.MIN_VALUE is greater than zero?
+5709073
+Spring Boot global controller advicer does not work
+51739509
+com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: '' for column 'date' at row 1
+20088808
+How to use curl in Java
+2586975
+Xamarin Binding Jar gives error: does not implement inherited abstract member 'AsyncTask.DoInBackground(params Object[])
+43838615
+Why does eclipse create a .settings directory
+1551008
+Does Java have a "IN" operator or function like SQL ?
+3565954
+How to check a String is a numeric type in java
+1102891
+Java How to Clear a .txt file
+29878237
+Android: How to set background color of Activity to white in Java
+4761686
+Join SoapHandler with Servlet Filter
+30129827
+How to add line breaks in java swings
+35189906
+Performance comparison of string concatenation between Java and Python
+3901124
+Is encapsulating Strings as byte[] in order to same memory overkill ? (Java)
+3367384
+Merge two `Stream`s
+22974468
+Java - How do I get the commandline that started the process
+2541627
+org.springframework.web.servlet.DispatcherServlet] Context initialization failed
+8611777
+what does assert does?
+3018683
+what is the qurtz default thread count
+35723948
+Java: How to use Timer class to call a method, do something, reset timer, repeat?
+9413656
+How to convert Void to string in Java
+31415147
+JSON Class Definitions in Java
+16574482
+Determine if color is closer to white or black
+9780632
+What Spring exactly is for?
+1061717
+How to change MenuItem icon in ActionBar programatically
+19882443
+What java swing layout allows me to place components at arbitrary (x,y) coordinates?
+8758229
+Regarding File Processing readLine function
+2292917
+How to read parameters from Serverlet with RequestDispatcher
+1407076
+Java vs C floating point arithmetic
+10200691
+how to retrive specific list of data from firebase
+38652007
+Java: how to create and write to a file
+2885173
+How do I make a Jfreechart smaller
+10274357
+How to find out if a violation is from JSON or GET
+50232456
+Date Conversion from String to sql Date in Java giving different output WHY?
+10413350
+Issue when upgrading from jetty 9.2 to 9.3
+32300109
+What different breakpoint annotations mean in Eclipse?
+4079000
+How to randomize arraylist
+4228975
+Why are are Joda objects immutable?
+12518654
+Understanding Tree's in ANTLR
+1790528
+What is the different in converting string buffer to string using .toString() and + " "
+25175001
+WebDriver - getCssValue method
+17255611
+Is Collection list = new LinkedList(); better then LinkedList list = new LinkedList();?
+15510113
+?attr/selectableItemBackground programatically
+38527508
+How to connect to FTP over SSL (FTPS) server in android
+36302985
+Java - easily convert array to set
+3064423
+question on java reflection
+1771744
+JRadioButton: how to replace text by IconImage
+6774987
+regarding daemon thread
+7067578
+Java ,can use String for index array? (ex: array["a"]=1;)
+6943588
+What is the difference between SOAP 1.1,SOAP 1.2,HTTP GET & HTTP POST methods for android?
+8588309
+Convert UTC date into milliseconds JAVA
+12081417
+what does "Can be package local" mean (IDEA Inspection)
+30678457
+How can Object class be a super class of subclasses?
+52112639
+How to disable pretty-printing in XStream?
+894625
+Java - No suitable method found for ArrayList<String> .toArray(String[]::new) in return statement
+52720685
+Remove or Deleting existing Websphere Application Server
+30457113
+Convert Json many levels to Json simple one leve using jackson
+16654208
+java code execution yields different results in debug and in runtime
+38354595
+Java wildcard generinc as return warning in Eclipse and Sonnar
+30543400
+Java: What exactly gets caught in an extended try-with-resources statement?
+34813304
+Exclude classes from .jar from jacoco coverage report
+30727952
+how to catch a specific exceptions in jdbc?
+1988570
+switch instanceof ?
+5579309
+Already managing a GoogleApiClient with id 0 In FRAGMENT
+36105118
+hibernate update JPA foregin key
+2468106
+Java - Declaring an object as volatile
+15487544
+Java's Virtual Machine and .NET Framework
+453610
+spring boot externalize config properties/messages in annotations
+39107413
+Java : Checking letter case (Upper/Lower) within a string (Homework looking for advise)
+16127923
+Eclipse comment/uncomment shortcut ?
+5534748
+programatically create layer-list
+38143181
+What's the advantage of using lambdas with method references in this case?
+28604431
+Conquering Complexity, Eckel on Java and Python
+3113409
+Can we instantiate abstract class?
+4579305
+Java 8: Group and Reduce list of objects
+32700449
+Why does this excede the 65,535 byte limit in Java constructors and static Initializers?
+788787
+Java - synchronized keyword
+15684530
+Google App Enginge "repackaged" package
+1225680
+Jackson TypeFactory Deprecetad What to Use?
+8133725
+How can a class have a member of its own type, isnt this infinite recursion?
+9780742
+Keep getting No X509TrustManager implementation available error
+38353944
+how to dynamically add elements to Atring array ? -android
+15039519
+Java's BigDecimal.power(BigDecimal exponent): Is there Java library that does it?
+16441769
+How to do Gesture Recognition using Accerometers
+198982
+Automatically add "www" on tomcat
+2488816
+ Can a transient field in a class be obtanied using reflection
+2256734
+Most air-tight, professional grade way to close nested streams in Java?
+884007
+how does java hashmap works?
+6493605
+java serialization singleton
+2958863
+Sudden compile error in Android Studio; 'error: cannot find symbol class ComputableLiveData
+50801323
+what is the advantgaes of specifiying memory limit of java virtual machine in a java application?
+7412619
+java.concurrent.ReentrantLock - why we want to acquire the lock multiple times
+18596080
+How to know the original dimensions of a swf file with java ?
+5030971
+Why does Java int switch-statement appear to run faster with added cases?
+15621083
+EnumSet overloaded of method
+31924249
+What is the difference between an int and an Integer in C?
+564
+Delete all the index files in disk + Apache Lucene
+24733281
+Retreiving values from nested JSON array
+20899839
+Try-catch-final order of Execution
+33189792
+hashcode() and equals() methode
+17919464
+Android NotificationCompat - how to add action without icon?
+49871177
+Prioriti Queue using MultiMap - Java
+3949942
+Definition of Functional Interface in java8
+36844387
+Not able to import @Valid annotation in spring 3
+5123373
+A very strange exception of java8 forEach
+33955542
+How to use a method reference on a static import
+45706608
+java Long primitive type maxumum limit
+15505515
+Compiling java files in all subfolders ?
+5194926
+Spring boot actuator to get build time
+46362903
+Configure Dagger 2 to generate components on Eclipse
+31653798
+java getFields return 0 length
+5936768
+How exactly static fields work? ( Memorywise )
+14781993
+JavaFx Slider integer only
+38681664
+how to store picture in mysql?
+1939162
+Factory in Java
+13885836
+Android Camera2 API onImageAvailable ImageReader wrong size
+40090681
+Why can't string be not-immutable in java and .net
+93091
+Android: New Thread Runnable Exicutes in Main Thread
+7044830
+How to taking a screenshot in java
+4490454
+Is it possible to use multiple view revolvers in Spring?
+25091791
+Why often use: List a = new ArrayList<object> instead ArrayList a = new ArrayList<object>
+9852831
+I can't get JAXB episode working
+25728801
+how to test in Java that an object is Serializable
+3840356
+Best free JavaScript obfuscator
+4050099
+Hwo do I change the hierarchy parent of an activity?
+15784246
+HTTPURLConnection in Java?
+3920419
+An Exception while migrating from jersey 1.x to jersey 2.x ( 2.8 )
+23588678
+Async Appender in logback framework
+46411704
+Java: Finding objects in collections.
+587404
+Resize an image in Java - Any Open Source Library ?
+244164
+Is there a way to compare closures?
+24095875
+design editor is unavailable until after a successful project sync [andriod studio]
+53195701
+tough interview question : implement a final class without the "final" keyword
+5403086
+Maven wont deploy dependencies
+3400182
+Returning the pointer of a ByteBuffer
+8000548
+cascade type save update in jpa
+34576803
+Java: Explain why instance variables are Non Thread Safe
+10261579
+How double dispatch works in Visitor pattern
+6762256
+How to get all digits first and char last in a string using java
+33783151
+Defining one global UncaughtExceptionHandler for all thread of my application
+8362345
+Check if a object is a instance of a class (but not a instance of a subclass)
+16688655
+Extracting some data from Java String
+23079197
+How can I understand is bean exist in runtime?
+14723984
+Use of serializable and transient in Java
+5177013
+Get the PID for a process stated by Eclipse
+37614387
+Muli-IDE Support in Java for One Team
+207237
+Memory leak, in tomcat 7 WebappClassLoader
+33789781
+Netty channel write not succeeded
+25760764
+What is the function of the "out" and ".idea" folder in Intellij
+44362009
+BASIC CALCULATOR
+14675815
+Can't run jar with dependencies, getting ClassNotFoundException
+11758594
+JPA many-to-many oder by join table column without join entity
+15166629
+Issue with JDK jar
+24482259
+Spring MVC, forward and redirect
+2997866
+Why we no need to create object for static method?
+16229183
+Message passing
+3222375
+Is there any library or algorithm for Convert Shamsi(Jalali) to Miladi date in java?
+24968568
+get Error Message
+2925176
+JavaDoc Interface comments?
+9234571
+How to prevent 'systemId' in EntityResolver#resolveEntity(String publicId, String systemId) from being absolutized to current working directory
+1648291
+What is the time complexity of collections.Counter() in Python vs TreeMap in Java?
+42461840
+Using Java5/6 features in Java 4
+1011706
+ClassNotFoundException. Not sure what I'm doing wrong
+11462421
+What is a Java view?
+19718696
+Installing Oracla JDK on WIndows subsystem for linux
+36478741
+log start and complete db transaction in hibernate
+30576385
+Can not construct instance of - Jackson
+12750681
+Set Java 1.6 default oven 1.7 in Ubuntu Linux
+18474050
+Is Ordinary Object Pointer pointer or object structure in HotSpot?
+41402624
+why ObjectOutputStream.writeObject does not take Serializable?
+5621690
+JPA Hibernate onetoone mapping
+25376101
+How to set java.net.preferIPv4Stack=true in the java code?
+9882357
+ArrayList only contains the last item added to the list
+19843506
+Arrays.ArrayList remove() throws UnsupportedException
+7885573
+How to disable F10 default action in window (show window menu)
+25501976
+What's the proper way to handle JDBC connections with Spring?
+3525529
+how to use invokeAll() to let all thread pool do their task
+18202388
+play2 framework my template is not seen. : package views.html doesn not exist
+10910215
+how to capture text using mouse pointer and shortcuts in C# ?
+4015143
+Java 8 streams: count map values
+36990211
+Is there anyway we can implement Selenium scripts with Jmeter
+7817498
+Android: DOM vs SAX parsing?
+8893392
+Declairing a useless local variable
+13956191
+Why inner classes require "final" outer instance variables [Java] ?
+3910324
+ReguestMethod POST and GET in the same Controller?
+16602929
+Converting an int (0-255) to a String in Java
+7693994
+Are EJB still alive ?
+108782
+What it takes to become a Java expert?
+1054171
+if i call an interface method will it get the method body from implementation class and execute ?
+4555009
+Combining ActionBarActivity and PreferenceActivity
+7928874
+Static ThreadLocal variable in a WebApp
+6217173
+Executing DOS commands from Java
+4031390
+Breaking out of nested loops in Java
+886955
+JDBC returns empty resultset (rs.isBeforeFirst() == true) although the table isn't empty
+26324603
+Redisigning method to use Java 8: compute if absent with thrown exception
+37277814
+Why do binarySearch on list in Java
+8874091
+JAVA: Convert 8bytes of binary to double precision float.
+6471177
+What is the use of crreating constructor for abstract class in java?
+2105783
+Integrate Android app with spring social website
+15395634
+Java - getting rid of accents and converting them to regular letters
+3322152
+Can I add maven repositories in teh command line?
+71030
+InputStream.getResourceasStream() null pointer exception
+26347415
+Java: int array initializes with nonzero elements.
+12317668
+Deploying a Java 7 application using Hibernate to IBM WebSphere gives NullPointerException
+29476026
+How can I prevent Spring MVC from doign a redirect?
+24086207
+How to modify private static variable through setter method.
+6832767
+visibility of class containing main
+11795662
+Need urgent help: Adding User/Password to SOAPHeader for WebService client call
+7910776
+Convert string to DateTime in java
+9945072
+Java: how to clone ArrayList but also clone its items
+715650
+Java code convencion for package names
+8243316
+Why has Haskell so big numbers ?
+1184296
+Getting error while running demo JSF progrm
+3566146
+Java: intialized inline private final field is null
+33784097
+How to generate sounds by frequency in java.
+5193706
+compareTo method java
+10017381
+is there StringArray in Kotlin?
+44239869
+What is http-remoting Protocoll
+42970921
+Java classLoader dilemma
+11273303
+Is there a good option parser for Java?
+367706
+How to change the format of a JFormattedTextField?
+5204705
+JPA: is @PrimaryKeyJoinColumn(...) the same as @JoinColumn(..., insertable = false, updatable = false)?
+4205628
+RFC: A Better Hibernate Query By Example (QBE) Framework!
+3680018
+Is it possible to use jsp variable value in javascript?
+2431084
+Expanding and Array?
+8438879
+InputStream reading in Java
+4659659
+concurrenthashmap and readwritelock read and write lock
+16105554
+"method xxx() in XXX is defined in inaccessible class or interface" compilation error
+15722184
+Java Spring Transactional method not rolling back as expected
+17224887
+Simple for loop question. 
+656747
+Covariance and Contravariance type inference in C# 4.0
+2733388
+Error using Java Collections in JDK 1.7
+28069582
+Choosing between CharSequence and String
+8445311
+Spark strucutred streaming automaticly converts timestamp to localtime
+48767008
+Java: Is it possible to override a toString for Objects array?
+10295600
+JVM Bug: NullPointerException instead of null
+31970213
+JAVA: Writing html in a string
+10402900
+Java - Type declaration based on type parameters
+31052476
+Call protected method from a subclass of another instance
+14404260
+Java Comparator - comparing Objects by it's variables
+20163122
+Java 8 default method inheritence
+37197301
+Java: What is java.awt.Component.getName() and setName() used for?
+227143
+Box2d Check Collision/Overlaping at any moment
+17316722
+How is adding 0.1 remains lossless?
+26120311
+Concatenation of Strings and characters in Java
+20515911
+How can I implement the Java equivalent of INotifyPropertyChanged, using RxJava?
+25344813
+Java - Passing class name as parameter
+17849385
+Android memory leak due to static drawable
+20138254
+Java 8 version 151 or 152?
+46928088
+How move first item of arraylist to last arraylist?
+21254985
+how to generate QrCode for Android application
+8800919
+Get all items from a nested collection
+20144826
+Setting a seed to shuffle ArrayList in Java
+6284589
+Subclipse and JavaHL version errors
+9303293
+What is the difference Hashmap and Treemap?
+2444359
+Correct way to synchronize ArrayList in java.
+1431681
+JPA: default column name mapping for @ManyToOne relation
+3964059
+UnsupportedClassVersionError when running any from eclipse
+14581229
+Split a spring with a delimiter
+10695143
+What's the best way of unit testing private methods?
+34571
+How to make auth token invalidate in spring security?
+21992201
+How to schedule a Spring Batch Job directly without scheduling the jobLauncher?
+46969575
+Debuging custom annotation processor with maven remote debugger
+31345893
+Java: pre-,postfix operator presedences
+18991306
+How do I resolve this Java Class not found exception?
+17408769
+Intializing a class with Class.forName() and which have a constructor which takes arguments
+5658182
+Java Collections : which collection is to use and when??
+4290132
+Anyway to Boost java JVM Startup Speed?
+4056280
+Speed up JDBC writes to Postgres
+368736
+when System.getProperty("java.io.tmpdir") return "c:\temp"
+16352326
+What is faster in Java for reading console input, Scanner or BufferedReader and then parsing the string to convert it to a data type
+7538577
+cast to combined generic
+318208
+intellij Idea Tomcat and SpringMVC temptale
+26999175
+Why is `componentShown()` not called?
+11962804
+What is Android MIPS system image?
+13417534
+rollback transaction when testing service with spring + hibernate + junit
+4166983
+In java 8 , how to convert list of object to another list object?
+47796074
+Where to store what in an MVC model and how to the components communicate?
+10447530
+Problems in displaying data from database into JSP
+6395621
+Java 8 - a list contains at least one value from another list
+41920852
+Start-menu app icon in JavaFX, how do I set it?
+47743538
+get month from a date - java
+19036033
+Programatically set layout_gravity for a FrameLayout's Child?
+31571524
+JAVA, Android: Coverting a Boolean object array to boolean primitive array?
+5615664
+Tokenize vs split JAVA
+5965767
+Tricky ternary operator in Java
+8098953
+How to create a Singleton
+18855375
+How to call a normal Servlet after the final Filter?
+4449096
+how to read text file in android
+12421814
+Java reflection
+735230
+Filter mapping for everthing to Struts2 besides one servlet?
+3843548
+Is Initialization On Demand Holder idiom is not thread safe without a final modifier
+20995036
+SonarQube - Do they provide APIs to grab a part of analysis for all projects you have?
+36091852
+schedule periodic task in java
+7814089
+Application is using Java 6 instead of 7 in mac osx?
+14806709
+What's the difference between anonymous class and closure in JAVA?
+6412544
+Java doesn't respect my GridLayout Rows x Columns definition. How to fix?
+29710164
+Is there a performance diff between javac debug on and off?
+218033
+Byte code to java
+1832000
+What is Handler class do in android?
+16596264
+Cannot parallel hash set elements
+28985704
+Run single test from a bunch of Tests in junit
+19920830
+Why main method in JAVA always needs arguments?
+10783190
+Why was not Java "throws" clause (in method declaration) included in C#?
+385913
+Why String is final in Java
+2068804
+Add Business days to the current date in Java
+1534804
+Question about cloning in Java
+2890340
+How to suitably compose Predicate and Function in Java 8?
+43415131
+Substituting Java for Groovy Little By Little
+2253171
+Which code from which class is actually invoked to register the dispatcher servlet for springMVC
+39209924
+Difference between Model , javabean and POJO
+29366551
+Object.hash() or own hashCode()?
+45832458
+JPA Definition of a One-To-Many Relationship with Junction Table
+1378248
+Json String remove double qoutes
+16639482
+What <R extends TableRecord<R>> mean in Java?
+18892061
+java.sql.SQLException: [MySQL][ODBC 5.2(w) Driver][mysqld-5.5.31]No database selected
+16927863
+Creating classes dynamicall with Java
+2320404
+What is the scanf equivalent method in JAVA and how to use it?
+16981232
+Java. Generating a random integers
+8236125
+What is sun.reflect.CallerSensitive annotation means?
+22626808
+If applets are run in browser, why is a JRE needed on the machine?
+2971611
+how do you get current active/default Environment profile programatically in spring 3.1?
+9267799
+Write bytes into a file
+12677170
+What is the correct target for the JAVA_HOME envrionment variable for a Linux OpenJDK debian-based distribution?
+663658
+Android (Java) Simple Send and recieve with Server - Fast Setup Challenge
+983761
+Checking for Power Saver Mode Programically
+25065635
+WTH? What type of exception is (0)null? Axis 1.4
+22083362
+how to do logout system in a jsp page?
+15780534
+Java short circut evaluation
+1816776
+How to integration-test with fake S3 service
+6615988
+Howto identify override method in Java byte code?
+8343695
+How to type some text in hidden field in WebDriver
+11858366
+How can I detect a pronoun and it's noun
+9962721
+Java, do i have to close FileOutputStream
+8080649
+java.util.stream: What is the diff between declaring a Stream with try-with-resources statement or not?
+47108164
+can I read a excel sheet column wise using apace poi..?(without using row Iterator)
+11517705
+RabbitMQ "Hello World" exmple doesn't work
+15434810
+How to open html file in default browser from Java Swing application?
+2323110
+JAVA | Implements Comparable to get alphabetical sort with
+22871583
+Lambdas and multi-catch clauses don't get along
+25819082
+Java 9: private interface methods, example use-case?
+29040821
+the making of a Java Swing JFrame with a circular shape?
+5154880
+How to close a javafx application?
+12153622
+Why "null" is present in C#
+178026
+Java - Is there a way to throw an exception without adding the throws declaration?
+4519557
+why this class is not a threatsafe?
+30208524
+How do you use antialiasing efficiently when rotating a BufferedImage in Java?
+6723929
+Error:Minimum supported Gradle version is 2.10, Gradle 3.x is not supported yet.
+38557177
+Help with float numbers in Java
+2936219
+elligible variables for garbage collection in java
+13634766
+unchecked call to ... as member of the raw type
+30816147
+Alternatives for deprecated methods of java.util.Date
+18958549
+How to dinamically define the "type" when using List<type> mylist = new ArrayList<type>()
+33976700
+Unique HasCode with two fields without order
+17018192
+The Serializable Interface
+28788992
+ERROR:possible loss of precision !!
+5603223
+Spring-data-jpa - Detected multiple association links with same relation type
+24426644
+JUNG (Java Graph): How to prevent Vertex- and Edge-Lables from overlapping?
+1422665
+Is there anything RAD comparible to VCL?
+2527885
+which algorythim is faster for checking if a bit is set
+7374447
+Automated way to Convert a Java Class to an Interface
+4622633
+JSF default id is incompatible with Web Standards
+10726653
+Parcable works without correct implementation
+45832240
+See dependency tree for single configuration in gradle
+24521235
+ThreeTen-Backport error on Adnroid - ZoneRulesException: No time-zone data files registered
+38281808
+Weird behaviour of getMethod() in Java reflection API, can someone explain this?
+5586862
+Java wrong overloaded method call
+32471499
+Java Observer and Observable not working properlly
+8874545
+how to calculate logarithm in j2me ???
+3132164
+Mockito, am I doing this right?
+54296436
+Mapping an xml sub child with jaxb annotations
+10489388
+Parallel processing via multithreading in Java
+2879955
+Maven PMD plugin message "Avoid using java.lang.ThreadGroup; it is not thread safe"
+9771674
+How to escape apostrophe or quotes in a form input field
+1470768
+Java wickets & CSS (eclipse)
+10182231
+How to remove single character in a String in Java
+13386107
+Useless test instruction
+54054782
+IOException vs RuntimException Java
+18416511
+question on web app deployment in tomcat
+5764429
+Implemeting 2 interfsaces in a class with same method.Which interface method is overridden?
+2801878
+Prevent network sync trigger when syncing from network in Android ContentProvider
+6588770
+BigDecimal Instantiation
+26364667
+How do I install JDK for Java 1.6 SE on OS X 1.9.1 Lion
+21853336
+How to determine if a class is a subclass of other class ?
+156527
+Set as a property whether a spring bean should be injected
+29844271
+How can I make Java print "Hello"
+3844595
+Methods in jsp scriptlet?
+3769080
+How to split hieroglyphs into kana and kanji with Java?
+3826918
+@Select Form Helper
+23043069
+Is there a performance implication of calling multiple objects in row?
+13954503
+Immutability of big objects
+2848938
+MongoRepository delete Query
+17484153
+Java: Why don't Collection classes override equals() and hashCode()?
+18203855
+How to copy a folder and all its subfolder and files into another folder using Java
+5368724
+Servlet Redirection to same page with error message
+14632252
+ProcessBuilder and slash and quote problems
+12124935
+Java / JPA : How to make an Entity read-only ?
+5115527
+How to bridge stream a streaming HTTP request in spring web REST?
+32366931
+Java > SimpleDateFormat > Month + 1 Why ?
+2992381
+Why does main method call fails when when it returns an int?
+31130229
+Java - Access specifier and modifier
+2238730
+Why does java arrayList cannot be accesed by unique key?
+25472891
+Primefaces 3.4 dataexporter does not export values of in-editable cells
+12705319
+Why does String.split need pipe delimier to be escaped?
+9808689
+Mapping Hibernate projection query to data transfer object
+23719237
+Execute bat file in java with parameters in quotes
+2144165
+Get Current Time and Date in Milliseconds
+6476065
+Mian() method as final in java
+26710891
+Why does LongSummaryStatistics implements IntConsumer?
+54003796
+Advantage of JAVA over Ruby/JRuby
+1305018
+Java servletts - cant find the object
+4076601
+Implementing Singleton as Enum in Java
+26285520
+Does Selenium Webdriver supports Safari?
+9884840
+How to check the validation of edit text for pan card?
+17684317
+What is the difference between Oracle JDK 8 and Open JDK 8?
+25936712
+How to read parameters from Serverlet with RequestDispatcher
+1407076
+Collections.newSetFromMap(»HashMap«) vs. Collections.synchronizedSet(»HashSet«)
+11350723
+How to enable debug od my JUnit through Gradle test task
+22760752
+Google App Engine - Can not find out my logs
+4060355
+How to set imageview width and height programatically
+3144940
+difference between compare() and compareTo()
+420223
+twitter ClassNotFoundException: twitter4j.conf.PropertyConfigurationFactory
+15879259
+is there a preformance hit when using enum.values() vs. String arrays?
+2446135
+Overlay a canvas on a VideoView?
+20623116
+Bug in Java ternary operation?
+12763983
+Showing up Android activity after completely rendering the layout
+49594338
+Polymorph JPA query with CriteriaQuery API
+17212905
+Hibernate save before
+16303691
+return value from Async task in android
+9458258
+reading multiple files in a folder in java
+1844688
+difference between clean and clean working directory in tomcat
+17006461
+check a column is hidden in excel file using apache poi
+17676049
+Java ImageIO won't read BMP file
+8220567
+Apache Camel Aggregate xml from two web service calls
+21167348
+How send html email via Java using gmail server
+5068827
+UTF-8 encoding and YahooUI Connect Ajax call
+3665682
+Who Killed My Java Infinite loop thread
+33936637
+generate multiple lines in pdf using pdfbox
+19635275
+What is xmlns in my xml file?
+1552945
+Andriod encryption
+3150830
+Can Checkstyle fix the errors it finds?
+8409074
+hamcrest array is subset of another
+27099405
+Java swing - How to create a Jlabel inside JTextArea like in Facebook ?
+5468666
+Error using Retrofit SSL handshake aborted and Unable to fin acceptable protocols
+35795589
+.classpath file in the eclipse
+5127573
+Replacements for deprecated Java EE modules
+48204141
+What is core difference between Java for Google App Engine and J2EE?
+3080307
+is there r implementation on java or .net?
+2296694
+Intellij Idea - add automatically final keyword to the generated variables
+9579403
+Precision nightmare in Java and MSSQL
+1750139
+Java memory manpulation with JNA on Windows
+18849609
+Java: Is there a way to take a screenshot using java and save it to some sort of image?
+58305
+Java regular expressions escape characters
+25104486
+why iterator throws ConcurrentModificationException on add
+10999388
+Try catch finally in java
+19498561
+How to find difference between two joda datetime in minutes
+12851934
+How to return a list of keys from a Hash Table?
+6589744
+java: how can i set a class's field by a field name that stored in a variable
+2127197
+Java 8 Stream - Applying reduction only if certain condition is met
+53619435
+problem with jlist add/remove item
+5212983
+Java - Make JLabel backround transparent AGAIN
+7634111
+HashMap index  issue
+3527216
+Resonable number of threads for thread pool in Java
+1028707
+Shutting down a computer using Java
+25637
+keytool -genkey error: Keystore file does not exis
+4920072
+Java Generics Question
+5495383
+Set background image the same size as the monitor
+23515172
+How to create ArrayList (ArrayList[T] from array (T[]) in Java
+157944
+copy objects between different VMs
+3575218
+Running same Junit test case multiple time with different data.
+752521
+Java 8, Lambda iterate though a Map of Maps
+25864559
+servlet ExceptionInInitializerError
+31561603
+what is difference between HandlerInterceptor and HandlerInceptorAdaptor in springMVC?
+38935873
+How can I get the current milliseconds from the current time.
+11785200
+spring 3 autowire in standalone application
+3659720
+Java NullPointerException. Why?
+2437603
+convert inputstream to byte[] in java
+1264709
+How do I autoident in Netbeans?
+1311912
+Java Processing 3 PAplet in JavaFX scene as Canvas
+52709779
+How to delete entity with JOINs using JPA
+44531326
+JUnit expected tag not working.
+1151237
+Java8 Stream Filter - considering list elements whose are added after filter stream creation
+53896175
+Java: Create MSAccess Database File (.mdb 0r .accdb) using Java
+9543722
+bitwise operator and single ampercent
+8691693
+insert Point(Geometry) value in database with postgresql/JDBC
+10644886
+Java 8 - Differences between Arrays.stream() and Stream.of()
+41571839
+Reflection
+37628
+Effective Java Notes :Item 2: Consider a builder when faced with many constructor parameters
+15461083
+How should I store this data in JAVA a java enum?
+9914959
+Does java8 Stream's filter() and map() method use iterations?
+41654583
+Java/C# method representation in memory
+8204595
+update ms access through java
+27893630
+Good practice to hold Constants in their own file?
+31473759
+spring - java - syncronisation
+1636556
+How to separate @Transactions in Spring with JPA
+28480480
+META-INF location (for Tomcat)
+26585462
+Java cannot cast to Comparable
+14133600
+Hot to use DTO in JSf + Spring + Hibernate
+5722036
+How do I detect a loop in this linked list?
+2663115
+how to compress a String?
+3649485
+Is this valid java ?
+3110014
+How can I get the list of files in a resource directory under Java 9?
+51864473
+Java - run code every second by using System.currentTimeMillis()
+13121885
+Java: design interface to force impls to override toString
+10054403
+In which language java compiler, jvm and java is written
+1220914
+Java8 Iterator to Stream
+24511052
+SoapUI: SSLPeerUnverifiedException: peer not authenticated
+23932517
+How to access a member of an inner class, that is hidden by a member of the outer class
+10783048
+Finding a picture in a picture - library?
+12598818
+Using Log4j and SLF4j is it possible to create a separate log file for each individual TestNG tests?
+36144276
+Netbean : diamond operator is not supported in -source 1.5 (use -source 7 or higher to enable diamond operator)
+22943123
+Is interface a class?
+11720288
+Password generator in Java.
+6493884
+Java String concatenation best practices/performance
+10078912
+Confusion in method Integer.valueOf(String)
+20877086
+How I train an Named Entity Reconigzer identifier in OpenNLP?
+6952512
+class not found exception when trying to load JDBC MySQL driver
+8348000
+How to change background color of JOptionPan?
+9064943
+Java disaple dpiaware not works
+30555401
+Update graphic with JFreeChart and slider
+15190048
+AspcetJ. Get value of annotated method parameter
+14800569
+browse arrayList to check existing value
+7687062
+JAVA parallel stram vs serial stream
+32799937
+JDBC Apache Tomcat Pooling JAR
+13161747
+GF3 how update obsolete cryptography?
+31346501
+TreeMap lastKet lookup time
+27364907
+A very strange exception of java8 forEach
+33955542
+Java get uuid or mac address from client
+14830336
+Run JEE app on EC2
+2084006
+Java to C# magic converter ??
+443010
+How to insert NULL in mysql especially INT dataType ASAP
+18449708
+Trying to track down a memory leak / garbage-collection problem in Java.
+1071631
+Test service using eureka and ribbon
+36148544
+IntelliJ tooltip shows JavaDocs
+6615516
+C++: would universal use of shared_ptr<> equivalent to a gc?
+7858228
+Google Calendar API example with libraries
+39798273
+How to set/unset a bit at specific position of a long in Java?
+12015598
+How to add Cc and Bcc in Amazon ses sendrawemail
+27446357
+Lambda Expressions in Java8, tricky Use
+33672302
+Is it possible to inject bean and not an interface in CDI?
+34411371
+What does it mean to "fat-jar" something into a jar file?
+19150811
+Kotlin || How to distinguish the view id from onClick() like switch statement in Andorid?
+45389420
+Java Swing : Obtain `Image` of JFrame
+5853879
+ClassNotFoundException: org.springframework.http.converter.json.MappingJacksonHttpMessageConverte ​ ​r
+20969722
+Extends static class in Java
+19047862
+Java Toolkit Getting Second screen size.
+6322627
+how can I split a string into sectors in Java?
+3777546
+What is the difference between C structures and Java object methods?
+5413001
+Download file from URL java
+20265740
+[Java] convert String to Robot.KeyEvent
+1248510
+Is garbage collector works on static variables or methods in java?
+13126833
+Is there a way to suppress the "The type (...) collides with a package" in Eclipse?
+31872456
+Are there any Java Developer specific Linux Distros ?
+48203
+android-speech recognition
+3042752
+naming conventions of variables in java
+12857340
+How is -2147483648 represented in bits by java?
+18813875
+Hamcrest iterableWithSize gives errroe "is not applicable for the arguments"
+9707531
+android Speech recognition API use default language
+25503059
+Determining the element that occured the most in O(n) time and O(1) space
+23261128
+Memory leak when redploying application in Tomcat
+7788280
+Combine request using Retrofit2 and RXJava
+41786439
+How can I get a lo4j console appender to use different colors for different threads?
+7848325
+Static initializer invocation rules
+27923010
+Invoke RESTful webservice with paraameter
+6561436
+Where Java 8 lambda expression evaluated?
+47468384
+J2EE Application with Web Server + Application Server
+15997202
+Abstract Classes
+2091893
+Best Library for programatically inspecting Java class files
+164378
+Most Elegant Way to write isPrime in java
+2385909
+Order of overwrite Maven Properties in pom.xml and settings.xml
+10381005
+Parse XML String to java object
+16753945
+Nevigation Drawer - Drawer Layout cannot be instantiated
+26530975
+Java floats and doubles, how to avoid that 0.0 + 0.1 + ... + 0.1 == 0.9000001?
+5257166
+Convert String into a Class Object in java
+5401467
+Is it possible to throw 401 unauthorisation exception in Java explicitly
+14393574
+how to read maven dependency tree
+20189350
+Substring method in java 
+4997170
+Efficient way to convert List to array without iteration
+41520654
+java: getting the class of an array
+4737598
+Problem of instanceOf
+2590640
+Dependency injection Constructor Madness
+2420193
+Java: Create static class when the class's construcot could throw an exception
+3247055
+Are there any 'tricks' to speed up a knapsack combination type prob?
+10611057
+Why does Maven warns me about encoding?
+24144073
+In Java, is there an alternative to Runtime.getRuntime().exec(
+7069425
+How to get JDK 1.5 on Mac OSX
+2846573
+gradle: how to tell gradle to use specific jdk (version) for building an application?
+18487406
+Java Config: Spring Security does not work
+20068593
+getting result set into DTO in SQL Query in Hibernate
+3937131
+java.lang.OutOfMemoryError: Java heap space using eclipse
+8600972
+DateTime.Now equivalent in Java?
+2010284
+How does the break loop actually works in Java
+17800348
+virtual functions in java
+4547453
+java substring : string index ou of range 
+953527
+Hibernate ORM - supporting java.util.Optional
+24975813
+Best approach to separate Model View and Controler
+3085640
+Holding table rows in Collection Good or Bad?
+16016485
+Difference between java's .jar and .net's .dll file
+4411028
+swing hmtl drawString
+7774960
+Strange math knoledge in java program
+327544
+Where does say that Java's parallel stream operations use fork/join?
+24629247
+Image icon in expandable list view
+1355771
+Where is JAVA_HOME on OSX Lion ?
+6588390
+the weird code ...but why dont works this simple  java code? 
+767372
+what's the point of the Akka Microkernel?
+17343287
+maven surefire with junit5 hiding stacktraces in @BeforeEach method
+45813522
+Problem with synchronizing on String objects?
+133988
+Will java appliaction be accepted on the new Mac App Store?
+4102904
+Using JSF, JPA and DAO. Without Sping?
+1861201
+java - how to tell what a json value datatype is?
+16085965
+creating InetAddress object in java...
+5719449
+Getting Active Session counts with JMX (Java Management Extensions)
+1112381
+Week hash map with Class key
+12578413
+Java 1.7 - Switch Statement -
+10836055
+Split into parts whose characters continue to vary
+14079366
+JAVA - are underscores allowed in numbers?
+23745299
+How to set JRE/JDK when starting Apache Tomcat 7?
+10458109
+How to display flat data structure in to heirchical data structure (Java)?
+3228334
+How does all annotations are working in java without main()
+31717639
+Intercepting data sent to a windows printer
+11420237
+java method compare and ignore pontuation of string
+28833797
+How to get wideo and audio streams from web cameras from JAVA?
+2525278
+Regular expresion Spring data mongodb repositories
+16708416
+Junit - Writing a single Unit Test for multiple implementations of an interface
+16237135
+main difference between SOAP and RESTful web services in java
+2131965
+Offline Java Documnetation
+449558
+How to decrypt sha1 encrypted String in Java?
+7735474
+What is mean by immutable?
+279507
+Java - How to sort some elements are leave others.
+45714171
+What's the difference between Character.toUpperCase() vs Character.toTitleCase()
+47887244
+Problems reading a text file into my program
+13405822
+Why is int to Object comparison valid in Java 7 but not in Java 8?
+32632364
+Java equivalent of .NET System.Action<T> (and System.Func<T,U> etc.)
+3244582
+What are Thread Groups in Java ?
+36157879
+Future of AOP
+959143
+Vertical Scoll down and scroll up in WebDriver with java
+11554370
+How do I convert a Java 8 stream to a List?
+23674624
+how to convert JavaPairInputDStream into sparkjava DataSet/DataFrame
+40926947
+Eclipse,automatcally creating builder for class
+29493898
+How can I avoid the Warning "firstResult/maxResults specified with collection fetch; applying in memory!"?
+11431670
+Java EE security: JSF 2.0 and EJB 3.1 - no re-direction from login page
+13420748
+EnumSet overloaded of method
+31924249
+Is there any benefit to upgrading compiled code to Java 8?
+42004363
+GlassFish problem with filter chain (has worked in Tomcat for years):  java.lang.IllegalStateException: PWC3990: getWriter() has already been called for this response
+2235559
+Hibernate: Data Object with a dinamic table name by Annotations
+8573468
+Location don't work on Android 6 device
+40142331
+KafkaConsumer does not return Avro class but returns GenericRecord
+39606026
+IInAppBillingService.aidl does not generate Java file in Android Studio
+43554399
+Pleae explain the use of java.math.MathContext
+7539
+Clone an azure table
+28303636
+Javafx handle mouse event anywhere
+18597939
+is there a way to instantiate an object by having its name in java?
+9886266
+Sending  information with Intent.putExtra
+3848148
+DB2 Sequence value usingJava
+14832314
+Full screen Window in Java wont get Keyboard input using KeyListener or KeyBoardFocusManager
+11178908
+set RGB and Alpha component value of a color HELP BEGINNER
+6734171
+Netbeans 8.2 with java_home jdk 9
+41230488
+Find real position of imageview
+22028926
+Alternatives to FastDateFormat?
+4541636
+java: weird nullpointerexception
+2358019
+could this be a bug?
+8058995
+aggregate in Mongotemplate or get Max value
+18441742
+Is there any way to stop a Stream.generate from its Lamda closure?
+22630750
+Maven is not working anymore when JavaDoc tags are incomplete
+15886209
+Different styles of flow of program ??
+3515618
+Java method calling
+16769717
+Warning:  modified in the future.
+1001662
+Converting numeric value with currency symbol back to Decimal with NumerFormat
+5485020
+a few questions about java thread dump
+7599608
+Java regular expressions: How to check whether a string contains small letter, big letter, special character and number?
+8794940
+Q: Whats the advantage of load() vs get() in Hibernate?
+5370482
+Does a class know in which Java 9 package it is in?
+37548629
+whats wrong with *snapshot*.jars 
+3402806
+retreive the user profile image from twitter
+4606790
+(Another) Weird java syntax
+18175809
+Why this statement does not result in a Stackoverflow exception
+41932668
+HttpClientError The target server failed to respond
+29104643
+Extending a TextView in Android. What do I do wrong?
+7648924
+Issue while using Spring's Method Invoking Job Detail
+23468545
+Java - trasient member variables?
+33647624
+Java splitting a comma separated string
+10631715
+How to iterate hashmap in reverse order in Java and Android
+10596132
+Why can't I call toString on a primitive?
+4242
+Getting wrong month when using SimpleDateFormat.prase
+24141942
+struts2 : How to avoid actionMessages/actionError generating ul li tags?
+24955808
+JUnit Test "Times Out" When Executing Quickly?
+17016011
+Spring REST template either leaking connections or slow
+31869193
+Google android maps api v2 Show Marker Tittle Always
+14579426
+JSF db select query with where clause
+5136366
+Is it possible to exclude a patternset from a fileset by refid in ant?
+2382651
+SMTP with CRAM_MD5 in java
+186827
+String to BigInteger java
+15717240
+Use cases for Identity HashMap
+838528
+Sorting an araylist of Contacts
+1814095
+Java Object Class
+1769489
+Obtain a simple String[] array from a map operation on a stream
+40902315
+Primitive Data Types In Java (bit value)
+32608153
+set id to gwt widget
+7380765
+java8 annotation pass method
+44291122
+Custom View drawArc draw path
+17264498
+Java Object Class
+1769489
+Problems editing a JCheckBox node in a JTree
+2058599
+How to convert Charsequence to String in JAVA?
+7707556
+Look for standard library or tecnique to get pretty-printed representation of OBJECT for Java
+9174268
+when creating new Maven project on eclipse,It shows error
+25787197
+How to inject fragment?
+29328639
+JAX-RS : 403 Status (Forbidden) when PUT and DELETE using AJAX
+24193029
+Why does intelliJ-IDEA think my Boolean method is always inverted when it is not?
+49006137
+singleton pattern
+2008912
+Is there a maximum length of a key and/or value?
+53222131
+Change test name of parameterized tests?
+650894
+Java 8 lambda with non-static methods
+25784337
+How to get current time in  YYYY-MM-DD HH:MI:Sec     format in java
+1459656
+Is there any way we can execute some java code before jvm process be killed?
+23487489
+Deploying a Custom Servlet to GAE (Java)
+8958267
+Two Semi Colon Java For Loop Question
+5676992
+The type FastVector<E> is deprecated.
+26878103
+Maven: how to copy artifact to specific directory
+7063475
+Unusual behavior of java program
+8889517
+how do i print my object name in my program ?
+3959206
+how these two cases of a final variable work differently in java....?
+33995384
+A simple design question.
+6677954
+Cases when is useful use unconditional AND & instead &&
+11411907
+Can't find a file in Jenkins slave workspace
+17727054
+Inject an external porperty into spring context
+3564732
+Sorting Vector of Vectors
+6031402
+what is Exact function like charAt in c#? 
+3581741
+Birt - OutOfMemoryError: PermGen space
+6843893
+Jackson - Serialiazation with unknow dynamic property
+17685508
+Best practice to avoid java.util.ConcurrentModificationException when using ArrayList
+8104692
+Broadcast receiver for internet connection is called two times
+15698790
+Downloading sent mails from yahoo, gmail, hotmail
+2001254
+Eclipse continue crash
+20203771
+Deprecated method in Hibernate
+40720799
+O(n) Java algorithm to find odd-number-out in array (not odd numbers)
+19370236
+How to substract X day from a Date object and get the result Date in Java?
+11882926
+Can't run perl script from java program although can run same script from terminal
+14022114
+Jersy @ManagedAsync and copying date between HTTP thread and Worker thread
+31137134
+Add css to html code
+5614352
+How to convert string to long android
+9936648
+How can I write an Exception by myself??
+1070590
+What in Java is an example of a "private constructor capture " idiom?
+11360619
+java inheritance .How can the answer is 10
+43579567
+Why does maven 2 try to download dependencies that I've already have ?
+126667
+Ways to clean up java applications. 
+2541597
+Java 8 default implementation is not available instance is passed as its superinterface
+24093631
+Does jave allow nullable types?
+7504064
+How to print upto two decimal places in java using string bulder?
+9528904
+Fail to Launch Mozilla with selenium
+38676719
+Instaniating a generic in Java
+1090458
+Bounded, auto-discarding (non-blocking), concurrent collection
+4003203
+How to generate reports dynamically using Jasper Reports?
+7370890
+Hibernate event listeners that handle JPA callbacks
+28340507
+Passing parameter to cassandra cql query through java
+17419142
+Splitting a Byte array in java
+2253912
+Using "final" modifier whenever applicable in java
+137868
+Initialize int to 0 or not
+36854054
+Tips for maintaining a internal Maven Respository?
+1039362
+Java - compile time constants and variables
+9082971
+What is the purpose of type arguments immediately following new?
+18688882
+Relative file path in Eclipse not working
+437382
+Generating a field setter and getter with ASM
+3022741
+Is Object.hashCode() portable across VMs, JDKs and OSs?
+190376
+how to getText from the disabled input field in selenium java
+34219972
+How can i apply filter to Stream in Kotlin?
+35721528
+How to connect to Mariadb with java application using Netbeans in Linux(Mageia)
+23020857
+Spring boot devtools - Static content reloading does not work
+35895730
+java-Why ObjectOutStream. defaultWriteObject should be called first in the method WriteObject?
+16239239
+How to use a filter in Java to change an incoming servlet request url ?
+2725102
+What is the reason why "final" is not allowed in Java 8 interface methods?
+23453287
+Firebase Firestore retrieve data without listeners
+46896112
+Why use reflection when MethodHandles are an option?
+30677670
+java:hw to serialize static data members of a class?
+1008023
+Why is this type inference not working with a Lambda expression scenario?
+31227149
+JSOUP Connect HTML Script tag output different from web browser page source. How to fix?
+52939611
+Whats the uses of AtomicReferenceArray
+3823957
+boolean bit size in java
+383551
+Cannot understand the behaviour of this java code
+17093850
+Difference between Future and Promise
+14541975
+Parellel Stream gives null items, How to do in Java 8
+33417291
+How to use Collections.sort() in JAVA ? (Specific situation)
+16425127
+disable pencil of rowEditor in primFaces
+15949463
+USing a Singleton class for Database Connection
+6567839
+How to configure hibernate in desktop application in eclipse?
+10582586
+multiple client to server communication program in java!
+5419328
+Why does automatic boxing work in eclipse but not in standalone compiler?
+7918134
+how to call removeView() on the child's parent in dialog box
+41347744
+Getting Latitude and Longitude 0.0 in Androd M
+36915290
+What is "override-equivalence"?
+16207386
+Change runnable to lambda expression in Java
+34048468
+Is main a valid java identifier
+52264638
+Java LinkedList safest way to delete why iterating
+29723132
+Java: Why (and since when) can String reference equality be proven with ==?
+1858569
+garbage collection
+427363
+Why can't string be not-immutable in java and .net
+93091
+How to pass the -D Sytem properties while testing on Eclipse?
+862391
+Java connect to SSL site (problem with plesk Certificate)
+3093112
+How to setting Encoding to a MultipartEntity
+5791508
+Java generics: What is the compiler's issue here?
+2431334
+Why we use public static final declaration of instance variables in an Interface?
+12518859
+NetBeans: Is there some "Word Wrap" Property of JLabel exist
+7861724
+How to display formated Calendar type in JSTL?
+2848894
+How to encode my url in jsp?
+15923062
+Replace '\n' by ',' in java string
+42572684
+How to quickly get exact width and height of TextView using Paint.getTextBounds()?
+15386025
+Java Heresy: Anyone using vi as a Java IDE?
+253170
+Spring DeferredResult causes ClientAbortException: An established connection was aborted by the software in your host machine
+32130249
+why maven use jdk 1.6 but my java -version is 1.7
+18813828
+Performance comparison of Thrift, Protocol Buffers, EJB, other?
+296650
+Java Code validation using shell script
+1137946
+Java forcing evaluation
+23222724
+Why Java compiler does not like integer as type for values in HashMap?
+2508918
+Quantum Tic Tac Toe AI
+1717378
+Input String (Java)
+7946664
+get byte[] data of a bitmap android
+14530058
+Java, getting class cast exception where both classes are exactly the same
+2371967
+What is an open source Java project I could contribute too?
+705575
+How to declare a byte array of infinite size/dynamic byte array in Java?
+13554302
+UML Diagram Tool - Eclipse plug in?
+2600097
+Can Retrofit with OKHttp can use cache data when offline
+23429046
+How do I store a object in ListArray?
+14648224
+Server test with JUnit
+6238878
+How unary minus implement in Java?
+31540421
+Weird Java Boxing
+3130311
+Apache Camel Aggregate xml from two web service calls
+21167348
+How to get Maven Artifact version at runtime?
+2712970
+How does the XOR (^) operator allow us to swap two variables without the need of the 3rd variable
+21093606
+How to increment a field member in a java class each time a new one is instatiated
+16716646
+How where the Locale constants choosen?
+5621852
+AssertContains in jUnit
+1092219
+Trying to wrap my wee brain around how thread deadlocks...
+749641
+Restrictions/disadvantages of developing a portal application in Liferay
+838786
+"Best" way to read a text file
+4716503
+jaxws configure schemalocation and soap address location in wsdl
+8004067
+Does JavaDoc recognize comments inside methods?
+15496472
+Are Threads in Java platform dependant?
+13229621
+Why Collections.sort uses Mergesort
+32334319
+Androis SDK manager throw Exception with Java 9
+47345147
+Use of FINAL Class in java
+5181578
+Trimming of Spaces in a String Using Regex
+1805760
+Java generics: Use `this` type as return type?
+17138552
+Running a standalone Hadoop on multiple CPU cores.
+3406839
+static methods and constructor in java
+7780406
+Camel pattern for multiple sources specific messages aggregation and redirect to destinaction
+25309350
+Does javadoc have an equivant to <![CDATA[ ... ]]> ?
+1782040
+Continuation to "questions every good Java/Java EE Developer should be able to answer?"
+22771471
+How does the +++ operator work?
+15378392
+can we use regex pattern in String.indexof method
+4194310
+RecognizerIntent.ACTION_GET_LANGUAGE_DETAILS Android 8.0+
+48500077
+Remove first 'n' elemets from list without itterating
+12456266
+Java/Android file system handling
+11818802
+all gms/firebase libaries must use the exact same version
+50197427
+Return statement within if() for() while()
+23058029
+java 8 streams iterate over map of List
+27448266
+What is difference between Tomcat and tomee TomEE and TomEE Plus
+30535565
+DateTime.Now equivalent in Java?
+2010284
+In Java, how do i find the caller of a method using stacktrace or reflection?
+421280
+documents4j exception when converting docx to pdf
+34725363
+BigDecimal validate precision and scale
+10899429
+Bringing JFileChooser to front of all windows
+5129294
+Do you write your own specific Exceptions?
+21652
+Character == in java behaviour unexplained
+36544223
+Where is kept information about methods of Java objects?
+21554988
+java class implements comparable
+3718383
+Spring MVC @ExceptionHandler methed in controller never being invoked
+9909806
+Set all values of ArrayList<boolean> to false on instatiation
+20615448
+Java strange syntax
+31871184
+Java 8 concurrent capabilities
+21786548
+Converting Json to Java
+1688099
+When use Weak and Phantom refernces in Java
+11397522
+Java: compare names of every resource with the content of a variable of sqlite database
+13820645
+Webapplication show ANSI instead of UTF-8 on linux by i18n
+5340183
+How to escape quotes "" characters in java
+1878027
+Don't export repository without using @RepositoryRestResource
+28330716
+Is ThreadPoolExecutor thread safe ?
+1702386
+What does object._("a string here") mean in Java?
+17656419
+Enhanced for loop
+17302130
+Junit Parameterized tests together with Powermock - how!?
+2454473
+Learning JEE - where to start
+12297807
+include SQLite database in executable Jar
+12019974
+How to make getters and setters in NetBeans(input code)
+21074402
+how to print the full stacktrace in java
+2970361
+How to create ArrayList (ArrayList[T] from array (T[]) in Java
+157944
+TabHost doesn't show content after going to another slider menu item and return to it
+30912930
+Apache Camel Aggregate xml from two web service calls
+21167348
+How to import existing java project in to android studio?
+32197775
+SVN error on conecting with eclipse
+5721456
+Unable to Intall Maven
+1184056
+Where can i find a list of all the reference implementations for EE6 ?
+2296678
+SFTP Connection Fail
+30846076
+Java: How do I get a platform independent new line character?
+207947
+How to create a daemon thread? and what are for?
+19421027
+Running in Parallel on a Shared-Memory Quad-Core Computer using 4 threads
+28179820
+Default location pf keystore/truststore in app
+4097432
+How i can use Javascript in Java
+7487908
+Rhino performance tricks
+6966607
+Red Black Tree Top-Down Deletion
+14119995
+thread safe, stateless desgin using Spring
+11189907
+Fetching Maven artifacts programatically
+10536221
+Java Swing : Obtain `Image` of JFrame
+5853879
+C# covariance - where can I find thee?
+17231577
+Java: Cannot listen to port, BindException
+2796543
+SimpleClientHttpRequestFactory vs HttpComponentsClientHttpRequestFactory for Http Request timeout using RestTemplate?
+25698072
+Why Java Vector class is considered obsolete or deprecated?
+1386275
+how to test w/ junit that warning was logged w/ log4j?
+3717402
+different using. java.util.Enumeration and Iterator
+948194
+Skipping nextLine() after use nextInt()
+13102045
+How to handle disk full errors while logging in slf4j?
+6596684
+How do i replace text that's been printed out on screen already in Java?
+11777788
+how to actually get the nearest neighbor in weka using java
+6554796
+your.package.namespace?
+8991658
+Split using regex for a json object
+13384454
+Get current week start and end date in Java
+22890644
+Hibernate : ids for this class must be manually assigned before calling save()
+16142071
+How to create empty folder in java ?
+4801971
+Is there any point in an abstract class having public corstructor
+26596512
+Sping MVC - Not getting value inside JSP view
+20822987
+how to make sure no jvm and compiler optimization occures
+5242405
+android studio - Manifest merger failed
+28095703
+HtmlUnit Page not loading on linux
+15830227
+Java: why is static final slower than a new on each iteration
+37998919
+Eclipse - generated method parapeters final
+200229
+How can I access the main class object from a function inside the class in Java (pls read details)?
+35389326
+Java 8 - best way converting an array
+32005002
+Why is parellel stream slower?
+41380318
+What is the 'best' type of java.awt.image.BufferedImage?
+271190
+Out of Memory issues point to JSP objects. 
+2507362
+Comparing two Strings using .equals() says False, but their byte arrays are equal
+33678587
+Fullscreen Swing frames - how to control visibility and focus in Linux
+6667558
+how to generate source code for selenium in java which is by default html
+7990922
+Java: How to Implement Iterable
+601658
+Groovy collectionsp erfomance considerations regarding space/time
+24009708
+Why the combiner of the Collector interface is not consistent with the overloaded collect method?
+30309127
+how to remove the close button on tabs in javafx
+31531059
+Spring annotaion @AutoWired inside methods
+25598406
+How to make loop infinitte in Java with x <= y&& x >= y && x != y?
+15970639
+Declaring @Nullable in java
+22988243
+parsing inner json
+12433673
+Sexy way to iterate over parallel arrays in Java using foreach
+5545584
+How does java.awt.getColor( String colorName ) work?
+3772098
+I can avoid dismissing my progress dialog when the user touch the screen?
+15432476
+How to properly remove padding around buttons in Android?
+43192378
+design editor is unavailable until after a successful project sync [andriod studio]
+53195701
+What are the advantages of Lamba Expressions for multicore systems?
+16981796
+Can V-model testing be used in an Agile development team?
+2163198
+Scoping Programming Practices
+32926940
+In Java is there a performance differance between referencing a field through getter versus through a variable?
+1195849
+why interface variables  are static and final by default?
+2430756
+Why Java interfaces are slow?
+6839943
+Integer as primitve type
+2099171
+Is there anything that can be implemented with Servlets and not with JSPs or vice versa.
+8122610
+A good idea? Instead of using arrays, store data as keys in hashmap and values in hashmap as empty/null
+38691454
+How to add list to another list?
+17065378
+Remove duplicates(both values) duplicate values from a ArrayList in Java
+33126414
+What is the use of encapsulation in java .i am able to change the property values with setter methods
+16418571
+why we use Autoboxing and Unboxing in java
+27647407
+How to set java -classpath for two direcotries?
+5781963
+Log4j2 configuration nto found when running standalone application
+34945438
+Can I compile a Scala project with mixed java and scala code with idependencies both ways in Maven?
+12189078
+Does intellij IDEA fits also 64bits systems?
+22514023
+Why SortedList.add() throws UnsupportedOperation?
+27804532
+Setting up IntelliJ 12 IDEA with Java 1.7 and avoid: System Java Compiler was not found in classpath
+19889145
+Besides EAR and EJB, what do I get from a J2EE app server that I don't get in a servlet container like Tomcat?
+269186
+ImageIO.write not working?-Java
+17579409
+Is there a need to use super.onActivityResult in onActivityResult()?
+11745366
+Why Java 11 base docker image is so large (openjdk:11-jre-slim)
+53375613
+My (Java/Swing) MouseListener isn't listening, help me figure out why.
+33708
+java code execution yields different results in debug and in runtime
+38354595
+how do to initialize array in java?
+1938101
+Java: I need to find index of space in string, but there are an error
+9956715
+Reducing verbosity of log4j setup output
+1095281
+JPARepository and Hibernate: save(List<>) vs save(Entity) in transaction
+32793403
+Java Perl Hash Like Data Structure?
+4769111
+why this is not compiling in  java
+1974641
+If static methods can't be overriden, how its working here (For Java)?
+32112692
+What's the best way to check to see if a String represents an integer in Java?
+237159
+message.getFrom() - Getting only want the email address to display. (JavaMail)
+5214372
+Get image property from wikidata API
+34393884
+How to get current moment in ISO 8601 format?
+3914404
+How to do an action in peroidic intervels in java?
+17397259
+Orphan removal does not work for OneToOne relations
+31470414
+how to create random UUID in andriod when button click event happens?
+28770408
+Why java doesn't have EmptyQueueException?
+53551057
+How to check if I have reached the end of a line in java ?
+11034086
+Comparing two joda datetime objects
+17172782
+How to join Multiple table using hibernate criteria where entity relationship is not direct.
+38041818
+SQL query in java keeps throwing an exception, but i don't know why
+20153725
+How Do I Get The Name of the Java War?
+9727507
+How to output exception track traces to the console of a failed test in maven
+4162873
+How to connect with Jave into Active Directory
+8551809
+Can java do sub-method ?
+5388584
+Android JNI - Call function on Android UI thread
+44808206
+Java HttpServletRequest get URL in browsers URL bar.
+1256562
+How to find out the declared type of an object in Java?
+11375096
+Arrays.asList UnsuportedOperationException
+30174623
+How to correctly stop a Callable submitted to ExecutorService
+11429509
+why static final variable is not allowed in static initialization block?
+13778650
+Declare Local Variables As Late As Possible Or At The Nearest Curly Brace It Belong ?
+10204828
+OutputStream creating a directory instead of a file
+15212845
+How to check if a TextView contains a certain string (Android in eclipse)
+9915203
+SQL Java Oracle current_date or sysdate without hours, minutes, seconds
+15722785
+android what is wrong with openFileOutput ?
+3625837
+Scroll to bottom in recyclerview with admob native ads
+43666419
+difference between javabean and servlet
+13746966
+Random boolean in Java
+17359834
+Why do we assign parent reference to child object in java?
+12159601
+Dowload file in java servlet
+5060414
+Will Sytem.currentTimeMillis always return a value >= previous calls?
+2978598
+how do you specify a byte numeric in java
+5193883
+java: calling a super method from a static method
+5059051
+Is there a good url builder for Java?
+883136
+ArrayList how can I sort it my way?
+17343763
+Two Prepared Statements in One Batch
+12977568
+Is memory leak totally absent in a `Java` applications?
+6669746
+|JAVA convert a number to 2 decimal places
+8779659
+"JComboBox is a raw type. References to generic type JComboBox<E> should be parameterized"
+20596020
+Java popout message boxes
+7080205
+Java 8 Lambda Expressions - what about nultiple methods in nested class
+21833537
+What different between JSF,Sevlet and JSP?
+2095397
+any good jsch examples?
+2405885
+Why not chian java.util.stream.Stream#forEach
+24219087
+Java Iterator and Iterable
+5836174
+Can PRIVATE attributes of a class can be inherited in a subclass..??
+8152574
+Java split by a succesive character
+15113272
+Error while creating new Activity - Android Studio
+42946819
+how to "OR" few conditions in mongodb - using java driver
+10620771
+Coffee-Bytes code folding works in Eclipse 3.6?
+8534542
+Get the file name of a String that contains the Absolute file path
+14526260
+Writing long and double is not atomic?!?!
+517532
+Pheonix doesn't display negative integer values correctly
+36131091
+How to eliminate kotlin support, i mean working just with java support, without create a new project?
+52231145
+is there any way to ask permission programaticly
+7517171
+try catch is faster or if-else in java
+3490770
+how to add javaFx runtime to eclipse on java 11?
+52144931
+Java primitive array List.contains does not work correctly
+30399183
+Where can i find a list of all the reference implementations for EE6 ?
+2296678
+Maven plugin is not run at all
+12392260
+null is of refrance type, is it String refrance or Object refrance
+28473785
+why java not allowed to multiple inheritance but allowed to implemented to interfaces which are already implemented
+52620936
+Thread.getId() uniqueness question
+591627
+schedule periodic task in java
+7814089
+What's the porpuse behind wildcards and how are they different from generics?
+2922811
+can't start RMI server after stoppping it
+6332141
+What libs do I need to embed Jetty webserver into my Java application?
+4223597
+Build fast Android app
+15259279
+Java 9 startup time regress
+35180051
+Java RSS library
+113063
+Is there any instruction reordering done by the Hotspot JIT comipler that we can reproduce?
+35883354
+Is char array an object in java? Printing the char array does not return hashcode. Can somone please answer this?
+31218498
+Passing parameters to method confusion
+28236967
+how to convert JSON timestamp into normal date and time in java?
+30994522
+storing primitive values in a java collection?
+2504959
+Why here equals is not called?
+25331926
+What exactly "Stream" and "Buffer" means?
+15984789
+Connection to the Tomcat not being established
+25403911
+String.split returning null
+11457236
+Is singleton good enough for SQLite db sharing?
+6905524
+Eclipse: Break when exception is thrown
+3066199
+Diving two integers in Java gives me 0 or 100?
+8669854
+Making PUT request with JSON data using HttpURLConnection is not working.
+15678208
+Difference b/w HandlerIntercepter and WebRequestIntercepter?
+35665692
+Why clone() is native in Object Class in java
+27224577
+open street maps show grey tiles not map
+24655064
+Why should I bother about serialVersionUID?
+285793
+Java - Get Average Date
+18193177
+Java: time since JVM started
+817801
+How do you stop proguard from obfuscating all files from a specific package?
+7593397
+Why I'm getting a NoClassDefFoundError exception rather than StackOverflow error?
+48392860
+INTERVIEW QUESTION :Function to Remove specific characters from string in Java
+4975978
+open a WAV file, play it with some effects.. Android MediaPlayer and AudioEffect Error (-22,0)
+10409122
+cannot get the instance of Socket().getInputStream/Socket().getOutputStream
+14110986
+java example to get all weekend take in a given month 
+3272454
+Java, Postgres SQL in clause and setArray()
+16661545
+Java RSA Encrypt - Decrypt .NET - need help
+2698868
+change application label dynamycally android
+7606471
+Servlet containers and class path
+305285
+How to open a file with the defaut associated program
+550329
+Jboss shared library
+2108975
+How can I refresh or reload the JFrame on java?
+7628121
+Spring Boot - how to configure port
+21083170
+Comparing field values using reflection - java
+13496026
+How to transform SoapFault to SoapMessage via Interceptor in CXF
+8066474
+Efficient way to compare strings in Java
+6701948
+how do you handle and parse JPA persistence exceptions to prove meaningfull message to user
+10493053
+Removing Meta Data from JPEG JAVA
+6666999
+@Basic(optional = false) x @Column(nullable = false)  in JPA 
+2899073
+What does suffic 'f' mean in Android programming?
+4659517
+Does maven resource project possible?
+2337322
+Static methods..
+2223386
+Maven plugin is not run at all
+12392260
+Java - byte array to Int Array
+11437203
+How to do arithmetic in xml?
+7909475
+How can I force a Constructor to be defined in all subclass of my abstract class.
+3164334
+define a pointer to a type of generic class which implements an interface
+14464226
+creating object for a custom data type in Java
+33348698
+Why compiler generates error when defining generic method with static modifier of a generic class, which takes object of inner class as argument
+23832497
+Confirmation Approval is not working, Denying even when I click Approve button
+47322633
+What is a natural identifier?
+1910220
+How to consume propeties from configmaps in java spring boot application deployed through Helm
+50297305
+How do I handle multiple key press in java?
+752999
+What's the point in annotation @NonNull for method?
+27947978
+Find the Angel between two Bearings
+16180595
+NetBeans config file
+2447867
+String Operations in Java
+187676
+returning multiuple values in Java
+10574526
+Priority queue vs collections.sort
+22593116
+how to detec a new value was added to an enum and is not treated in a switch
+3999942
+Selenium 2.0 : Element is not currently visible
+6101461
+What's exactly "var" in Java 10 and why is it not a reserved word?
+49089124
+is persistence.xml requied when working with spring hibernate
+4736301
+Reverse the arraylist simpleest way
+10766492
+How to close PST file in java...?
+27164693
+Why synchronized not working properly?
+39748960
+Hibernate : Weird messages at startup
+40573342
+Why aren't video games written in Java?
+1034458
+AmazonS3, how to check PutObjectResult?
+5922724
+Print JPA's SQL-Statements when using Play Framework 2
+22113992
+Android Studio setup SDK error
+35578036
+Are invisible references still a problem in recent JVMs?
+271613
+whats the difference between ".equals and =="
+1643067
+JAX-RS : 403 Status (Forbidden) when PUT and DELETE using AJAX
+24193029
+How to convert Joda Time to Date of java.util.Date and vice versa?
+15333320
+Will Spring hold contents in memroy or stores in th disk ?
+1952633
+Are there any good ORMs (preferably JPA implementations) that support SQLLite (on Android)?
+3045405
+How I can disable the second-level cache of some certain entities in Hibernate with changing annotations
+934133
+Distributed Transactions XA in Spring and GlassFish
+46008251
+JAVA SERVLETS
+1054543
+What "if" is faster - classic or shorthand?
+4706696
+Libgdx Android In-App simple tutorial
+19921146
+How to calculate intersection between more than two Hashsets?
+37802161
+How can i give imageview click effect like a button in Android ?
+4617898
+java compiler vs interpreter
+22733132
+java: how to master correctly about bit-wise leftshift(<<)
+19839184
+Send Email Programactically in Android
+7274949
+Encrypt in python and decrypt in Java using Crypto
+40004858
+What are constructors for in Java?
+16652966
+RecycleviewAdapter onClick inside activity
+49969278
+why b=b+1 Illegal but b+=1 Legal in java
+37904947
+Databing with java
+9907806
+Java - Indexes of all occurrences of character in a string
+5034442
+Keyspace schema import and export cassandra
+11682197
+Remove all borders on a specific excel worksheet using PIO
+29759382
+Java: recommended solution for clone/copy an instance
+2156120
+Get all items from a nested collection
+20144826
+Is Joda Time's DateTimeFormatter thread safe?
+12540282
+Apache CXF - share dara between In and Out interceptors
+12687235
+What is the point of overloaded factory methods in Collections in Java 9
+41918934
+Change case of whole column to Lowercase in Spark Dataset
+43500827
+Android application hangs and suspends all threads
+33114036
+Reading a txt file using scanner java
+13185727
+Is there any reason to throw an Exception and catch immediatly?
+39666578
+java generics question
+7032941
+java: multiple constructors
+3386136
+Restarting play application in Docker container
+28351405
+Autowiring only some arguments of a contructor
+11346205
+When to use a List over an Array in Java
+1589813
+whats wrong here?
+2367185
+IllegalStateException: Cannot perform this operation because there is no current transaction when inserting into Android SQLite DB
+16089700
+Advantages and Disadvantages of J2EE vs. Servlets
+1262877
+Why filename in java should be same as class name?
+2134784
+Writing JSONObject into a file in java
+7417401
+java: what's the difference between return "abc" and return New String("abc")?
+20451786
+"pretty print" duration in java
+3471397
+Can not find Java Runtime Enviornment Says ArgoUML
+16043250
+Can I use MyBatis to generate Dyanmic SQL without executing it?
+13195144
+Sorting an Array of int
+16088994
+Java HashMap: why resize is implemented the way it is?
+21290155
+Fairness setting in semaphore class in Java 7
+17825508
+Java - convert date to different timezone
+13197956
+How can I Use styles in strings with format arguments?
+8170308
+Test with "instanceof" vs assertEquals
+23287702
+how to convert byte array to string and vice versa
+1536054
+Why is this comparator not working?
+27806315
+Firestore - Disable Data Cache
+46894118
+Getting all records from ES using Java API
+37669046
+Java, What is a question mark "?" and colon ":" within the parentheses of a print function used for? What is its name?
+10336899
+Java: adding elements to a collection during iteration
+993025
+CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+41550583
+Why Java does not have an intializer list like in C++
+7154654
+duplicate class definition error. Help Needed
+7176829
+What template style i should use in Spring MVC?
+44320200
+Java Calendar - setting day_of_week is unpredictable
+6722542
+Why "null" is present in C#
+178026
+Method overriding and exceptions
+5875414
+Do something when the close button is clicked on a JFrame
+9093448
+nextLine, next, and nextInt methods
+32798803
+@WebFilter doesn't work with ordering in web.xml
+10856866
+split int value into seperate digits
+5196186
+What is an unified type system?
+4233112
+What do the > (greater than bracket) mean beside file names in Eclipse's Package Explorer?
+8356923
+NullPointerException
+2787338
+Firestore - Disable Data Cache
+46894118
+Java: How to wait for all threads to finish?
+1250643
+Assertion in Java?
+2758224
+Problem with System.out.printf command JAVA
+3693079
+Java Spring: Cast exception upon null value in mongodb reactive repositories?
+45365791
+Getting selected element from GridView
+13264017
+Where the hell is ISafeRunnable?
+11383183
+Java - how to remove any part of a string
+11893659
+how to use a ByteBuffer with an OutputStream
+579600
+Java Thread.stop()
+16504140
+Fastest way of finding the middle value of a tripel?
+1582356
+acesss file or folder on heroku server
+15757023
+regular expression to replace content between ()
+5636048
+In eclipse, ctrl-click goes to the declaration of the method I clicked. For interfaces with one implementation, how can I just directly to that implementation?
+2105979
+Deploying an app. in Tomcat 8 using Eclipse plugin
+47175526
+Is the check a != a thread safe?
+18460580
+Generating Parenthesis
+23413881
+Installing java on OSX 10.9 mavericks
+19533528
+generating UUID but only for 8 characters
+4267475
+How to extract a List<R> from a HashMap<E,R> using stream
+54070685
+Why the comparison of two different java.util.UUID objects gives true?
+44518355
+Why "null" is present in C#
+178026
+Can i iterate through nodeList using forEach in java?
+19589231
+Jsch: generating a 4096-bit RSA key is way slower than 2048-bit
+27714969
+java 9: JLink created invalid images
+44085367
+what is the difference between new opertor and Class.forName
+4612386
+Why Java do not support automatic heap expansion?
+18762185
+How i can create a foreign key constraint using hibernate annotations?
+15426736
+Why don't all methods displayed in VisualVM profiler?
+14025602
+How Hot deployment works in eclipse?
+34473125
+why we cannot use lanmbdas with default method of interface in java 8
+33108540
+intellij Idea Tomcat and SpringMVC temptale
+26999175
+LibGDX FreeTypeFontGenerator - Java Eclipse
+24187057
+Chaning JpegImagesToMovie to work with .png
+17928719
+in java servlet application, should i modify service(function) or add my code to dopost(function)
+6822006
+I see method getClass() in java.lang.Object. Do we need it?
+7398088
+How to access value of application.properties file in sprin boot
+30528255
+how to execute job from java
+10929369
+Remove element from JSONArray
+8820551
+Is it possible to access static methods of a class by multiple object instances simultaneously [JAVA]?
+2938806
+JSF Display / Hide div components
+4749137
+does hibernate transaction rollback delete "session.flush()"ed entities?
+9908082
+how to handle the new window in selenium webdriver?
+19112209
+What is the easiest way to get a java.util.List from a com.google.gson.JsonArray?
+18544133
+Overriding a generic method in Java
+50296958
+concurrency in practice- volatile ++
+13220664
+java.util.Date - Deleting three months from
+1311143
+Sort method in java
+25492648
+Why to use returned instance after save() on Spring Data JPA Repository?
+8625150
+How do I substract a binding using a Guice module override?
+2854494
+Is calling C from Java has performance impact?
+39209068
+Java vs C floating point arithmetic
+10200691
+Grizzly standalone jar
+9787265
+Why can lambda expression reference non-final variables?
+33052917
+JPA/Hibernate: How do I retrieve a concrete entity using only a field in its abstract superclass?
+14327706
+Spark read file from S3 using sc.textFile("s3n://...)
+30851244
+Correct (and best) list type for listener list in Java
+36571204
+Same code compiles with error in 7 and fine in 8 - why?
+33438842
+Is it possible to use logical XOR operator in multiple condition statement in java?
+42460307
+Configure multiple user home directories
+38441969
+Spring @Transactional inheritence rules
+9918594
+What is a classpath?  confused and need a human touch to understand
+2396493
+Are there any Java Developer specific Linux Distros ?
+48203
+Exclude META-INF/maven folder from the generated war file
+32887455
+ScheduledExecutorService when shutdown should be invoked?
+9926356
+How to enabled retina mode on osx for java apps to
+12017193
+Collections shuffle()
+3981420
+system.out.println() will effect the code efficient?
+16784773
+get the ipaddress using java
+5307992
+java :can we rely on String isEmpty for checking null condition on a String
+8970008
+Java: How to programatically select and expand multiple nodes in a JTree?
+10242896
+How HashSet does not allow's duplicate elements?
+22220692
+How do I find the filepath of my main class in java?
+3153337
+Java overloading vs overwriting
+837864
+working with properites files outside war with Spring
+9522504
+Ant Java Output Console And File
+10121929
+In Java what does the Array inherit from? can i do this?
+1868182
+"loop:" in Java code. What is this, why does is compile, and generally WTF?
+3821827
+replaceAll in java not working for \\$
+11913709
+Difference of stream().map() and stream.map({}) in java 8
+29696283
+Removing empty strings at start after split in JDK 8
+22718744
+Java - maximum loss of precision in one double operation
+13470757
+Quick question: Java system clock
+238920
+Gradle with Ivy repository
+2051495
+How to calculate the Cordinates of end point in an Arc if center and starting coordinates are Known along with sweeping angle in ..?
+13231797
+Java list to Scala list issue
+17459674
+How to store hash objects in a file?
+26838194
+Why can't I return a void method call?
+7795303
+Xml not parsing String as input
+11192106
+How to runs USSD command in android?
+7225100
+Java: volatile guarantees and out-of-order execution
+2441279
+What String interns do with string pool?
+30932486
+Understanding Spring @Configuration usage
+24014919
+How to cleanup thread after it run method?
+4283270
+Java: What does the colon (:) operator do?
+2399590
+Screen resolution java
+3680221
+compare two strings in Java with possible null values
+11271554
+REST URL error handling (play framework)
+6271053
+Android: convert string using SHA1 with key  
+4534370
+Doubt regarding operators in C.
+2190444
+java static class
+3584113
+Java, end of line char
+3776923
+Why does `array[i++%n] += i+" "` give different results in Java 8 and Java 10?
+50683786
+Regular Expression representing "any begining of" further expression
+42073491
+WebDriver switch to new browser opened after click on button
+9588827
+define name query in orm.xml with jpa and hibernate
+2373369
+how to calculate hashmap memory usage in java
+6157363
+To use or not to use Scala for new Java projects ?
+1734097
+Maven plugin is not run at all
+12392260
+Thread.join() equivilent in executor
+20495414
+about java 3d API
+2352364
+Access static variable from instance object in Java
+9765445
+JPA Definition of a One-To-Many Relationship with Junction Table
+1378248
+Inserting EOF into a java string
+161859
+whats the difference between float & double in java
+16627813
+Java: How to iterate
+9756399
+Sharing IntelliJ project with SVN between two computers
+6590842
+one plus plus two compiles (but not one plusplus two)
+27625293
+Solving The 8 Puzle Problem With A* Algorithm
+4251295
+Calculating distance two points, using latitude longitude, what am I doing wrong?
+3694380
+Hello world example on VFS: create a file from scratch
+10500494
+how can i parse this link with Jsoup?
+40742380
+How to make text in the text area to fill with new line
+8858584
+Java time-based map with expiring keys
+3802370
+apache commons httpcomponents httpclient timeout
+6024376
+best way to create jframe in terms of performace
+9248466
+Tomcat 7 fails to start due to absence of jmxremote.access file while JMX is disabled
+22027230
+Why are Java/C# Generics limited in comparision to C++ Generics?
+15857544
+Why is the output of this program like that?
+27394945
+[Java] How can I make the console wait for an user input to close?
+6032118
+How to read a string line per line
+1096621
+why null pointer exception is not declared as checked exception?
+2683958
+Difference between the Inheritance and Composition
+2399544
+JSF default id is incompatible with Web Standards
+10726653
+Meaning of memory addresses in Java GC logs with -XX:+PrintHeapAtGC option?
+28344451
+Padding a string with 0s
+10903579
+Gradle to execute Java class
+21358466
+Why generate long serialVersionUID?
+888335
+Spring Mobile: how to add DeviceWebArgumentResolver programatically?
+11654118
+How do I convert a Java timestamp (or Unix timestamp) long into a Date in Excel?
+15164237
+Why String is final in Java
+2068804
+JNDI without a J2EE Container (with JNP?)
+192718
+Update Maven dependencies automatically in Eclipse
+12551031
+Java Split - wrong lenght
+29040530
+Optional.ofNullable(i).orElse... vs if (i == null)
+42285448
+JUnit5 - Empty test suite
+39085905
+Where are generic types store in java class files?
+937933
+Android: vertically align text ?
+4909367
+Why only ui thread in android is able to update UI ?
+7743121
+Get the list of installed Browser Apps in an Android 7.0 Device Programmatically?
+48209151
+How to trim alt+0160 in JAVA?
+28295504
+ejb3.1 javax.annotation.Resource(lookup="") equivelant for ejb3.0?
+6376730
+How to read a string line per line
+1096621
+Why no CopyOnWriteMap?
+4241477
+when do i use super() in java
+4090834
+What makes recent versions of JVM faster ?
+16138888
+Ho to get WebElement text with selenium
+37298400
+Restict the Java Generics
+14200575
+JScp session.connect() throws End of IO Stream Read
+37280442
+how does the hasCode() method of java works ?
+1959948
+how can my java code read OS enviorment variables?
+461018
+Generate random number uniformly over a range in Java
+28742702
+How to configure logger in JBoss 7 by using Date and Size together?
+21083960
+Java exceptions keyword throws
+15744886
+Distributed Transactions XA in Spring and GlassFish
+46008251
+PostMethod setRequestBody(String) deprecedated - why?
+2092474
+java- apache http client- how to find mimetype of response when using apache http client
+9077933
+JPOS Hello World
+1675059
+Reordering in Java JVM
+12554570
+JAVA: When you make an ArrayList without specifying the object type, does it create it automatically when you add the first object?
+3936556
+How can I assign Outer class instance variable a value from an inner class method?
+12346343
+java for loop syntax
+7763131
+How do I sort a list with multiple sort parameters?
+1421322
+Any shortcut to initilize all array elements to zero ?
+2154251
+Android: Change Title/Label of Activity in Android 5
+28797667
+press Ctrl+A to select all content in a page by WebDriver
+11578768
+Play Framework appending #_=_ to redirect! Why?
+7324944
+Sping OAuth2 with JWT - Cannot convert access token to JSON When Separating Auth and Resource Sever
+48084965
+Testing an AspectJ Aspect
+1251317
+Android: convert string using SHA1 with key  
+4534370
+Name [spring.liveBeansView.mbeanDomain] is not bound in this Context
+23750619
+Skip single test with maven on command line
+35288189
+Android - Boolean True or False in xml file, reference in code
+16113608
+How to prevent an object from getting garbage collected ?
+1329926
+how to set a Single key Mnemonic in button in java
+11373101
+Is there a way to force the creation of an object through a particular class?
+914727
+Concat 2 bytebuffers in java
+23219644
+Getting Data from an ArrayList - Java
+29107398
+adding image to Jbutton in java
+12034613
+How to "Purify" HTML code to prevent XSS attacks in Java or JSP ?
+3587199
+Conerting xpath to xml using jason in java
+19977979
+JavaFX Asynchronously Lazy Loading TreeItems on TreeView
+52360195
+How to update a value, given a key in a java hashmap ?
+4157972
+why String.valueOf(null) throws NullPointerException???
+3131865
+mockito mock a constructor with parameter
+13364406
+Java Collection<Double> to DoubleStream
+32565450
+How to map dynamically created table in hibernate ?
+1507758
+Java Code Signing Certificates...same as SSL Certificate?
+78869
+What is the c# equivalent of Java DecimalFormat
+1576782
+Is JOGL faster than Java2d?
+602614
+Java enums - Singular or Plural
+15755955
+Remove all zeros from array - Java
+8777217
+Windows 8 - Running Eclipse (XXXXXBeginnerXXXXX)
+13577787
+Two strings which are equal but on comparision results unequal
+7065337
+java.net.ConnectException: Connection timed out, while trying to download a zip file from url
+12795774
+How to use scala.collection.immutable.List in a Java code.
+6578615
+[Java] Backslash problem with String.replaceAll 
+1701839
+Java: case-statment or if-statement efficiency perspective.
+3387758
+Lightweight Webservice producing in java (no application server)
+507073
+Send a Server call when user press back button
+46183325
+Is there a java class file editor?
+3308351
+Java : Get first Monday after certain date?
+24177516
+Structured Streaming append output mode with watermark --- not working
+45577958
+How read PDF using java
+4784825
+Android L - Fab Button
+24451026
+method in class cannot be applied to given types JAVA
+13169606
+SSL bad record MAC when sending new data to a Web Service through a Java socket
+8154617
+Intersection of java.util.Map in Java
+13180488
+Issues when decrypting a Private Key in Java
+35276820
+android:textColor="@android:color/white" does not update ListView text color
+18903735
+Retrieve POST parameters only Java
+1197729
+appending byte[] to the end of another byte[]
+5368704
+Binding jboss as7 to all ports
+6853409
+Alert Dialog - You must call removeView() on the child's parent first
+29660994
+Is there a fix sized queue which removes excessive elemets?
+1963806
+Java 8: is it safe for a method to return a Stream<T>?
+27968173
+Error when compiling in IntelliJ
+42660125
+How to set a breakpoint on a Class in Eclipse?
+22148420
+How to load a local file in my servlet?
+22965738
+Java - easily convert array to set
+3064423
+ehcache rmi replication (via multicast) between 2 instances on the same node
+1313410
+Erronous error message from javac, error: method in class cannot be applied to given types;
+25397551
+Effectively match a string with set of regex patterns in Java
+22252297
+how to create a static enum with a value that has a hypen symbol in java?
+2493002
+I'm getting an error informing that "a result was not expected" when executing stored procedures on PostgreSQL from Java in a batch. Why?
+7278956
+Stream : Collect elements after a condition is met
+52269422
+Design Patterns in Java API
+1673841
+Netty versions and their differences
+30457648
+Is HtmlUnit 2.8 getByXPath different from HtmlUnit 1.14 getByXPath?
+6691550
+Java Problem: Returning a string entered as reverese text
+501588
+Database theory in android with SQLite
+6987507
+Create a java File object (or equivalant) using a byte array in Memory (without a physical file)
+578305
+Named entity graph JOINS results (need distinct option)
+24314829
+BeanUtils.copyProperties vs Clone
+15542504
+Java Socket Programming: Listen to port
+6298479
+Is there any common steps to investigate jvm crash?
+8152393
+Batch insert using Native SQL in Hibernet
+25419488
+How to check if a message has a comvined character in it?
+43462277
+How to use Maven pom to download jar files only?
+7742252
+How  to make mock  to Observable Objects
+2276271
+get EntityManager in JpaRepository java 8 default method
+26543612
+Apache NetBeans 9.0 Beta Java error
+50578345
+Is it necessary to close all streams in a Java code?
+28276423
+Java - How to append files to a .tar archive using Apache Compress?
+12890508
+Java servletts - cant find the object
+4076601
+Java ResultSet hasNext()
+1870022
+In Java what is the ampersand-equals operator used for?
+10789119
+How to determine the minimum JRE version required for my Java application
+8368237
+How to escaping comma and double quote at same time for CSV file?
+10451842
+java swing key bindings
+8524874
+BASIC Authentication in Selenium 2 - set up for FirefoxDriver, ChromeDriver and IEdriver?
+5672407
+How do you calculate the variance, mean, and standard deviation in C++ or java?
+7988486
+How to use SEQUENCE in Apache Debry?
+5729063
+Scala, read from standard input line by line
+4585655
+How to obfuscat the code compiled with java 11?
+53478628
+Referencing Criteria query aliases from within an SQLProjection
+7822662
+How can I ever use/distribute the jar without dependencies?
+34698046
+Prime Number test, Java
+19514680
+Conver string to date then formatting the date
+7882025
+How check if a file is text or binary data?
+6559127
+How to acces paramaters in a RestFull POST method
+8194408
+How to create a file , inclluding folders  for a given path ?
+4040624
+java threads accessing themselves before they're created
+23078443
+How to determine if a number is positive or negative
+3994531
+Java String Replace and null characters
+2523284
+Eclipse gets UTF Enum type consts wrong
+7381718
+Is there an efficient algorithm for number partitioning?
+32907406
+New Java Date API : why can't I get a duration in minutes or hours?
+24491243
+public static void main(String[] orgs) is not created automatically
+20726033
+when static variables are initialized in Java
+8704423
+find elements inside forms and iframe java selenium webdriver
+24247490
+Why does compareTo returns an integer
+29343128
+How to use ResTemplate with multiple response types?
+35797762
+Java float division precision
+7286681
+How to check is a program installed on system 
+2439984
+How index and search text files in Lucene 3.0.2 ?
+4091441
+Where does AsyncTask takes values from if app is brought to background
+35086967
+Java, how to correctly use an array without naming it
+17940827
+Do array object does not explicitly contain the indexes?
+34368385
+Enable batch inserts in hiberante inside spring boot
+34228044
+Why use `transient` keyword in java?
+20700530
+Can you increase line thickness when using Java Graphics for an applet?
+16995308
+Sort List of Clothing Sizes(4XL,S,2XL) using Java
+48298432
+for each loop in arraylist
+9806421
+Select element inside webview android java
+49262280
+How to read window content and evoking UI using draw over other app permission in Android
+35842762
+Problem using UserSearch in XMPP with ASmack
+5910219
+SWT Use Gridlayout in Scrolled Composite
+10338056
+Safari on Windows 7 receives Java is Unavailable or Not Installed, yet Java is fully installed
+11235578
+How To Run integrational Tests
+2552506
+Java Singleton with an inner class - what guarentees thread-safety?
+46542017
+Java Rotating BufferedImages
+4918482
+drawing a line on a JFrmae
+10767265
+java enum convering string to enum
+604424
+How do i install "Wicket" framework?
+4994735
+What is the non-lambda translation of this code?
+26771090
+Using java to create a Internet Explorer software
+3064732
+hibernate.cfg.xml. Where does it put?
+18736594
+What is the point of overloaded factory methods in Collections in Java 9
+41918934
+[java]How to remove first 3 char from a string
+5131867
+JAVA: How to convert a calendar from one TimeStamp to another
+230126
+Java JDBC & ORACLE
+8286769
+What is the point of encrypting anyting in Android (or Java) if source code can be reverse engineered?
+7113775
+How to submit task which implements a subinterface of Callable<T> to an ExecutorService?
+16565097
+@PostConstruct doesn't work for @AplicationScoped?
+49278854
+antlr regex syntax
+12188827
+How to configure Hibernate statistics in SPring 3.0 application
+6708602
+Extending Inner Class of Inner Class in Java
+42094083
+Java : accessing annotations through reflection
+2286998
+Is there an embedded DBMS to support multiple writer applications on the same set of db files?
+2082625
+Java Interger: what is faster comparison or subtraction?
+2728793
+Try/Catch blocks
+4177404
+Hibernate JPA : Mapping a Map<String,Double>
+3886797
+Android BottomSheet set PeekHeight does not set the height correctly
+37555403
+Why does my GlassFish server fails to launch from eclipse?
+27684353
+Difference between session and globalSession scope in Spring bean scopes
+15407038
+How to set a Transparent Background of JPanel
+2545214
+Java: How do I get a platform independent new line character?
+207947
+How to write uescaped XML to XMLStreamWriter?
+19998460
+How to store JNI interface pointer (JNIEnv *) for aysnchrounous calls
+12900695
+newCachedThreadPool() V/s newFixedThreadPool 
+949355
+How to setup Appium on Mac OS to run automated tests from JAVA classes on Android device
+24813589
+JavaFX: ListView trims my invisible nodes that I use for layout, how should I approach and fix this?
+43016854
+Transforming some special caracters (é,è,...) into "e"
+3211974
+java.lang.OutOfMemoryError while converting file to Byte[] array
+14598857
+No Visible Constructor in InetAddress class
+8470384
+Java Sockets & the Internet
+2078018
+How to test Jackson ObjectMapper uses expected Serializers and Deserializers
+21706415
+Null for primitive type data
+11047276
+Read received messages netty nio
+47269633
+Why does Javadoc generate non-compliant code?
+267140
+Spring Boot ignores beans from Java config class
+23959995
+Convert the commands recorded in selenium IDE to selenium webdriver
+19358183
+Sending Email Content in HTML with Spring+JAVA
+8652055
+Android - Remove accents from String
+8523631
+Gradle directory stucture
+2551463
+С++, C#, Java and PHP - not equal results
+25323202
+dotnet & java Interop for RSA read PublicKey
+18091460
+ByteBuffer from OutputStream
+2716596
+why is it neccesary to return a Response object instead of String object to an http request in java?
+38640770
+What'is static!?
+913560
+Remote jmx monitoring of JVM in docker
+31257968
+How do i remove the space between printed lines in Java?
+33509567
+[Java] - Problem having my main thread sleeping
+2663419
+AtomicInteger lazySet and set
+1468007
+Exponential operator in java?
+22084373
+how can i include my icons when i import my project to jar file
+13944574
+how does arrarys "remember" the types in Java?
+21711772
+Java Genrics Type paramenter depends on itself
+41827499
+Can anyone recommend an existing framework for a notification system?
+16861026
+Removing a element from Arrays.asList() doesn't compile
+14091771
+Q: Whats the advantage of load() vs get() in Hibernate?
+5370482
+What's the intended usage of @JvmSynthetic in Kotlin?
+41022275
+Remove duplicates(both values) duplicate values from a ArrayList in Java
+33126414
+Selenium wait until element is present
+20903231
+how can i change the color of toolbar in JFrame?
+2482971
+Ask for a hard-to-get example related to Java Memory Model
+12024070
+Is JVM open source code ? If not how can I get code of JVM?
+2026093
+How to merge two PDF files into one using PDFBox in Java?
+3585329
+Calcuate ip range in java
+4256438
+How can I find the target Java version for a compiled class
+698129
+Android O casting to findViewById not needed any more?
+45092494
+Multiple interface ambiguity
+29758213
+Can't parse string to Java 8 date
+43360852
+Get innodb transaction id using jdbc/hibernate?
+29894573
+android - sending string via bluetooth from pc as client to mobile as server
+15343369
+Stateless singleton VS Static methods
+2765060
+Java hashmap and serializable
+9144472
+session cant be created before response has been committed
+10949556
+Java | while(true) loop or java.util.Timer for a standart program loop?
+37066084
+Choosing a Java IDE
+2127546
+Java Swing: Restricting JTextField input to Integers
+11093326
+I'm trying to use Collections.sort on a ArrayList of custom objects, but I'm getting a warning and I can't figure out why
+13122718
+Weird behaviour of ternary conditional in Java
+30279118
+For what purpose they are using flush() in java?
+2340106
+Launching an embedded Redis server with Spring boot - How to stop the redis server along with the application?
+39193836
+java conventions, curly braces
+4452288
+How to set the dynamically a bean reference in Spring?
+9124982
+Mockito stub getter setter
+10217793
+class level lock in java
+2462104
+How can i change top level package name in IntelliJ
+16764277
+Different char casting behavoiur for method passing and inside method
+21773919
+Convenient  way to parse incoming paramters
+3337056
+yyyy'-'MM'-'dd'T'HH':'mm':'ss - What is the meaning of 'T' here ?
+6340794
+java.time.DateTimeFormatter : Always render milliseconds like 1970-01-01T00:00:00.000Z
+38042134
+how to declare static variables in objective c
+16330889
+Where Eclipse finds javac to compile the a project?
+325498
+Test RecyclerView Child View's Text With Espresso
+51678563
+PowerMock test passes when run independently, but fails when running all tests
+32977009
+jackson JsonNode removing elements
+15603033
+Hi how to display ± symbol
+4025780
+Find if the soap Request XML is 1.1 or 1.2 in java
+20513682
+Java Class Declaration - public and default
+19401997
+Adding parameter to HttpGet on Apache's httpclient
+9362427
+Why is it not recommended to store constaints in a separate class? (Java)
+15056360
+Java Based Augmented Reality Framwork?
+11179868
+How can I ask the Selenium-WebDriver to wait for few seconds?
+12858972
+Java thread unpredictable
+7915337
+Which Continous Integration library to use?
+110712
+Java CriteriaBuilder SELECT with SUBSELECT in WHERE, combined with NOT IN
+29719321
+Error JSF WARNING: /test.xhtml @24,173  Target Unreachable, 'null' returned null!! Please Help!
+3742523
+Arrays.asList() in java?
+20538869
+MediaType not supported on the Java side when uploading file with Axios
+49845355
+why a class cannot be defined as protected?
+3869556
+How can the command pattern be replaced by lambda expressions?
+18036760
+Java: How can i add a JMenu to a JPanel or cerate a drop down button?
+728867
+How to recover a RSA publi key from a byte[] array?
+2411096
+How can I use Linux so libraries in Java?
+13443364
+Error druing starting tomcat in remote debug mode
+35296326
+faster CoPrime check
+30697402
+Android get width returns 0
+3591784
+How can I compile an Java program in Eclipse without running it?
+4058155
+Java: how to determine optimal number of threads for high latency, non-IO-bound network requests?
+19562060
+Difference between java interpreter and JVM
+3442387
+Why throw null; is not creating compilation error in JAVA ?
+6591910
+difference between hashmap and array list in java?
+2395814
+java enum convering string to enum
+604424
+Generate dynamic content at server side.
+1963158
+Remote Debugging Java application
+975271
+Error in Eclipse with appcompat_v7
+24096416
+What is the point of overloaded factory methods in Collections in Java 9
+41918934
+WARN o.h.engine.jdbc.spi.SqlExceptionHelper : SQL Warning Code: 0, SQLState: 00000
+49283069
+Is log4j isDebugEnabled checking improves perfromance ?
+963492
+Cheat single inheritance in Java
+70537
+How to find the user's 'Documents' folder wit Java in OS X
+567874
+what's with the inconsistant naming scheme? How come DD elements are <context-param> and <init-param> but in the servlet code , both use the getInitParameter() method.
+2069902
+wanna store Object in MySQL database
+2747203
+using logic inside a switch statement in JAVA
+16121082
+How to set java mainpanel NOT resizable
+9033276
+How to insert a world if the string has more than one space in Java?
+39060771
+Custom string id generator hibernate
+37747218
+Why would Java create a serialVersionUID synthetic field?
+7389329
+PhantomJs proxy Authentication
+26931565
+Base64 : Input byte array has incorrect ending byte at 40
+35292836
+This app is not authorized to use Firebase Authentication. Please verifythat the correct package name and SHA-1 are configured in the Firebase Console
+46751766
+How singleton is java.ejb.Singleton?
+29496451
+Why I obtain this excpetion when I try to perform this Hibernate example that use JPA specification?
+31410111
+JBoss Maximum Memory Limit
+5350212
+Android how to use/show MediaController with SurfaceView and MediaPlayer?
+14635013
+Why does the ternary operator incorrectly cast integers?
+8002603
+generics are not supported in -source 1.3 error
+16723533
+In Eclipse, the changes of my sourcecode show no effect
+9509214
+Covarianz in generic Lists
+8481052
+Why does parallel stream with lambda in static initializer deadlock?
+34820066
+JPA - Hibernate 3 How can i make field non-persistent at specific operation
+28363625
+How can I access methods attributes with Spring AOP?
+4030833
+Alternatives a DatatypeConverter in Android
+34342136
+Java `try()` Syntax I've never seen before - What does it do?
+10115282
+A puzzle on Java - object-oriented
+52580234
+Is there a case where a Do-While Loop or a While Loop MUST be used instead of a For loop
+19278675
+How to programatically setup sl4j logger with SLF4JBridgeHandler
+42912335
+JCheckBox how to check that it's checked ?
+3599908
+Can not get ScrollView to scroll
+11298479
+Strang exception table entry produced by Sun's javac.
+6386917
+Do I need to explicitly close SWT Shells?
+8842479
+Is there away to set the delay time of tooltips being displayed on a particular component in java swing?
+1190290
+Collection being updated while preforming stream operation java 8
+30229585
+java equals method using generics and instanceof
+16382887
+Receiving SSHHandshakeException: handshake_failure despite my client ignoring all certs
+9828414
+Correct way to focus an element using webdriver
+11337353
+Jackson JSON mapping issue with Appengine
+11784051
+elasticsearch - query malformed, no field after start_object
+20167976
+Glassfish NullPointeException the server does not start
+47458119
+Implement vs. Extends. When to use. Whats the Difference?
+10839131
+Java API for XML: Which objects can/should be cached/reused? What about thread-safety?
+3439485
+Ireport required .class files error
+42779031
+Getting SAX Parser attributes value
+10242561
+How well does java and scala Work together?
+2381360
+How to copy values, nor references, of List<Integer> into another list?
+10427109
+Apache POI: How to convert HSSFWorkbook to XSSFWorkbook
+7230819
+cast to combined generic
+318208
+HashSet allows duplicate item insertion if hashCode() is not overriden
+11114693
+Java JTextField text align
+15584463
+Does it need close InputStream in java?
+9547843
+Why "synchronized" has not role in polymorphism
+31223988
+Accessing outer class values from within an inner class extending the outer class itself
+19349391
+Using getter methods in constructor: bad practice?
+8501735
+Do you keep your project files under version control?
+116121
+maven - difference between scope "import" and "pom" type dependency
+11778276
+Java: Why do we need the static initialization block?
+9379426
+resize image with keeping aspect ratio in java 
+991349
+Java8 streams sequential and parallel execution produce different results
+28724850
+JAVA vs. C++ for building a GUI which has a C++ backend.
+3207155
+Crypt and decrypt AES with Bouncy Castle
+15925029
+Differences in Generics
+31693
+Java: Good way to encapsulate Integer.parseInt()
+1486077
+Java - trying to cast via reflection and use of Class.cast()
+8918550
+Android configuration change and persisting the ViewModel
+48146118
+(java) differnce between paint and paintcomponent?
+15103553
+When to use final
+154314
+subtype java hierarchy
+4269235
+Java, Import in Eclipse
+8280594
+What is the time complexity of adding an element at the beginning of an ArrayList? - Java
+16777853
+Jersey REST API: Pass PathParam between resources
+33275212
+Flyway clean can't drop tables
+35627723
+Android == how iterate arraylist?
+7683960
+Which tree type used in java 8 hasMap bucket?
+41328851
+sorted method, Java
+32995559
+What is the usage of array of length 0 ???
+1036666
+What equals Float.MIN_VALUE in Java
+11419797
+Source code of libraries downloaded with ivy
+1083860
+Split a spring with a delimiter
+10695143
+What are the risks I should know about regarding Project Lombock?
+4589184
+Java - write dll files from inside a jar to the harddrive?
+5496400
+SQL injection : How to prevent this peace of code from SQL injection
+49171540
+Goole Translator API and many translation for one word.
+3915566
+What is the reason for this finally clause?
+22609779
+Is there a more terse/elegant way to format the following String with or without Groovy?
+9796613
+Java collections faster than c++ containers
+18268151
+How to get IMEI number from android in android Studio java
+48556566
+Problem building executable jar with maven
+1814526
+Spring 3 MVC : managing a one-to-many relation within a dynamic <form /> using AJAX via jQuery
+9671640
+Maven compile-only scope
+12824112
+removing a value from a list<String> java
+10636187
+GZip POST request with HTTPlib in Java
+7153484
+How to get size of Stream after applying filter by lambda
+29048988
+Is it possible to make anonyomus inner classes in Java static?
+758570
+Mysql connection crashes when trying to create a JDBC connection
+11922323
+Runtime's exec() function is not running the command proerly
+16238714
+Using the ternary operator to determine a variable is not null and assigning it to another
+1815187
+static local variables. How?
+2079830
+why always isReachable return false? I can ping the ip
+9922543
+Transform a LIST<Object> to MAP<String,Integer> such that the String is not a duplicate value using Java 8 streams
+54274392
+how to write lamda expression for the abstract class
+39699081
+Spring Boot Context Root
+20405474
+Is it possible to add Log in removeIf block of java 8?
+43844427
+Simplest way to print an array in Java
+409784
+Java retain cycle(garbage collection)
+20993746
+Sending boolean as requst parameter
+29263806
+Java - How to set timezone of a java.util.Date
+2891361
+What is replacement of long double in java?
+8754410
+Formatting Thymeleaf date
+39860643
+Ternary operator with different types of result
+50839244
+Maven can't compile class witch depends on rt.jar
+13121954
+JAVA - multiple conditions in WHILE loop
+10988944
+Maven Findbugs plugin applied to src and test classes
+33234692
+Stuck with practise question
+1028095
+Java String pool - When does the pool change?
+14447637
+Java: Generics, arrays, and the ClassCastException
+372250
+CompletableFuture whenCompleteAsync with a executor service does not throw rejection exception when queue runs out
+42373037
+Upgrading to Hibernate 3.5.x: NoSuchMethodError: javax.persistence.OneToMany.orphanRemoval
+3189056
+nested lists with streams in java 8
+51630352
+How change ${USER} variable in intelij idea without change OS user name?
+33138979
+Jasper report - Blank report when using pdf printer in windows
+26663060
+Microsoft outlook winmail.dat selfish standards. 
+336517
+whats the difference between float & double in java
+16627813
+Reverse "Hello World" in Java
+2441501
+Get the top level domain in an URL (java)
+1923815
+how to resolve java.lang.NumberFormatException: For input string: "N/A"?
+18711896
+Is there a simple way to embed a browser in a Java Applications Window, which is not Platform Specific ?
+48249
+Why different type empty collections are equal
+52201814
+How to Convert to Map In Core Java
+7597485
+Auto-generating toString Method
+2653268
+In java , how to read from a file a specific line , given the line number  ?
+2312756
+java: regex for splitting a line based on punctuation marks and spaces?
+5601451
+annotations retention policy
+3107970
+How do "var" and diamond operator come together?
+51706066
+Object.hashCode in Multi Threading
+34313748
+What this mean if(false){some code} in java
+5730474
+OSGi Benefits Over JEE?
+7490166
+Why synchronized not working properly?
+39748960
+Java, why getClass returns <? extends x>
+37796705
+Why does the above line of code prints out 12, shouldn't it be printing 11 instead?
+25941286
+Very Large Numbers in Java Without using java.math.BigInteger
+5318068
+try finally block
+16030858
+JavaFX menu item show additional text on right hand side
+21209461
+Diasable JButton, while background job, to avoid multiple clicks
+8428841
+Java: Difference betwen UserTransaction and EntityTransaction
+3078245
+How does sleep() method works on a thread and gives output?
+19092556
+Java: Initializing an Interface?
+8842085
+Java - keyPressed and mousePressed Event in an unfocused Component
+14118734
+sorting points by their polar angle java
+16509100
+Odd behaviour: == Operator with Strings.
+6579442
+Sending parameters via servlets
+5932372
+Call 'grand' parent function from child class in multi-level inheritence
+15333780
+When to use "strictfp" keyword in java?
+517915
+Bluetooth InputStream available() Returns 0
+22846076
+cannot be provided without an @Provides-annotated method
+43116825
+Design Oxford english dictionary
+8453515
+Converting multi-character unicode characters
+7171377
+What's the worst resolution I can reasonably expect from `nanoTime`
+43940071
+How to enable gzip in pure JAX-WS REST service?
+8277409
+how to load a java GUI class from a main class
+25803428
+what is the difference between new opertor and Class.forName
+4612386
+Redirect stdin from a file in eclipse
+31234646
+Changing the behavior of the Eclipse auto-complete feature
+11590849
+Java - Get Average Date
+18193177
+Spring JpaRepository method execution time
+25977660
+Need of Abstract class
+322945
+eval equialiser in java programming
+2605032
+javadoc and overloaded methods
+2558695
+Equivaluent of c#'s 'as' in Java?
+1034204
+compaire a String to a char
+6257316
+Android BidiFormatter on rtl and ltr String
+20473657
+Respond body content is empty with restassured + junit4
+32010938
+How do i assert my exception message with JUNIT Test annotation ?
+2469911
+Does serialVersionUID is inherited by subclasses?
+23465613
+how to replace backword slash to forward slash using java?
+6805028
+What is the best way to model java.lang.Thread
+34606850
+Leading spaces in HTMLDocument text, meaning of position/offset
+50602095
+how to read from SmartCard in Java throug APDU
+283251
+Refactor "package structure" in Eclipse to relocate a package's child package TO it's parent package.
+5970175
+sonarQube - make field transient of serializable
+36017994
+Java - Incrementing through IP addresses in String format
+13792784
+Move a JFrame to tray on Minimize
+7461477
+How to schedule a Spring Batch Job directly without scheduling the jobLauncher?
+46969575
+Header files, purpose, advantages?
+7018355
+Declarative validation in Java/Swing
+640208
+exit/terminate a while loop
+7951690
+Is there a Java equivalent of Twiteer Ostrich library
+8673815
+JAVA: How to convert a calendar from one TimeStamp to another
+230126
+How to start a background Process in j2ee
+1046163
+Android background + text + icon
+19133544
+What does "|=" mean?
+14295469
+convert comma separated string to list of Integers
+27599847
+compare two strings in Java with possible null values
+11271554
+Why arrays are not expandable?
+2805224
+Joda-Time: How to get the next friday?
+1636038
+Deploying Maven artefact to multiple repositories with different settings
+13564180
+explicit and straight forward timeout on HttpClient
+9081342
+Should I exit using System.exit(1) when catching an application-stopping Exception?
+31992629
+Jersey (JAX-RS) how to map /url/optional1/optional2/optional3 to func(int a1, int a2, int a3)
+35036982
+Redis pub/sub with Spring: messages arrive in wrong order?
+32232446
+Obfuscation in ActionBarSherlock
+11151284
+How to log the URL that triggers a RequestRejectedException in Spring?
+51788764
+How to map a Native Query to a POJO when I do not have any Entity on my project?
+30595445
+Srping/Hibernate Entity Management Web Interface/UI
+4479828
+Spring JPA: Mapping views without a primary key
+31292050
+how to force eclipse to auto import a class when more then one option
+4870750
+how to create a java2d hw accelerated image?
+2374321
+Strings in android/java, replacing spaces
+4730547
+Something is wrong with ternary operator
+37358910
+How to prevent JavaFX application thread from dying with Swing interop
+25193198
+Play Java 2.0/2.1 and dependency injection
+13358101
+how to sort a Collection<T> ???
+2477261
+Android: Bitmap to Byte Arrray and back: SkImageDecoder::Factory returned null
+13758560
+java :how to place components on specific position
+10015160
+Mutliple threads in Java
+22151347
+Abstract class contructor in Java
+260666
+How do I run firebug within selenium 2 ?
+3421793
+Count occurences of word in ArrayList
+5211194
+Outer class is able to access inner class private members??
+1801718
+Can JSOUP simulate button press?
+7508813
+How to find identical Byte-objects in two different arrays concurrently?
+8701130
+Creating Two-Dimensional Array
+12231453
+Keep interface method names in proguard
+25654805
+How to handle file upload chunks on the server?
+13466596
+How to sort String array using Arrays.sort()
+35866240
+How to parse/encode binary message formats down to bit level?
+6862855
+Android - Keystore problems
+13535424
+Interview : When we use Observer and Observable
+13744450
+Java JDK SE / EE
+10438127
+Java, add final modifier at runtime
+27991241
+Android: Creating LinearLayout in Java - Elements are not shown
+7241145
+Ternary operator in if-statement?
+2823500
+Scala's existential types
+1031042
+Read input and stop at \n
+16040601
+jackson ignore empty values (or null)
+16089651
+Unresolved @Inject depencendies when using weld-se
+30255760
+why the arrays are sojects in java? Is there any specific reason?
+2009210
+java degrading performance when increasing number of cores
+16571381
+java : Difference between TimerTask and Executors.newScheduledThreadPool(1)
+6111645
+Eclipse - How to create a generic run configuration?
+15762751
+Using Java 8, What is the most concise way of transforming all the values of a list?
+19676750
+How can I ever use/distribute the jar without dependencies?
+34698046
+How can i download the MP3plugin.jar to Play a MP3 File in Java code?
+8392241
+Generics & Collections!
+2721546
+how to send android app inside itself using Bluetooth
+30011482
+Why Arrays.copyOf is 2 times faster than System.arraycopy for small arrays?
+44487304
+How to convert the following string to date or calendar object?
+5306803
+convert org.jdom.Document to flat String 
+4343683
+for loop to interate over enum in Java?
+1104975
+How to convert String to Hex Value and Hex value to sting for sending and receiving data to serial port programing?
+15020812
+Java AtomicInteger: what are the differences between compareAndSet and weakCompareAndSet? 
+2443239
+Spring MVC / Hibernate / Tomcat Help
+4612882
+Why program is running in infinite loop?
+18804599
+Java HashMap
+1104030
+IntelliJ shows method signature on usage - How to disable it
+40866202
+Understanding how to scale and limit results of number breakdown algorithm
+9882260
+java : ignore single click on double click ?
+548180
+Can someone explaing me what is the difference between Strong, Soft, Weak and Phathom references and the usage if it?
+2012790
+Java 8 Stream of Super Classes
+34956701
+Difference between using inline import and normal import in JAVA
+32965977
+Java : most concise way to insert array of bytes into List<Byte>?
+3532810
+Can java call parent overrided method in other objects but not subtype ? 
+1032847
+AOSP launcher missing XML LayoutParams - layout-height and layout-width attribute should be defined
+14122708
+Enum constant-specific class body
+28964926
+struts2: s:checkbox doesn't go on the same for with s:checkbox
+402302
+Best practictes for configuring Apache / Tomcat
+105754
+What do curly braces by themselves mean in java?
+241088
+Calling Oracle function using Hibernate 4 causes org.hibernate.exception.GenericJDBCException: could not execute query
+14335939
+How to 2 jvm can talk with another
+10942427
+How to break multiple foreach loop?
+551578
+autoflush of PrintWriter(OutputStream out, boolean autoFlush) not working
+1240968
+inputstream and reader in Java IO
+5764065
+ConnectionTimout vrs ScoketTimeout
+7360520
+createSQLQuery in hibernate uses Prepared Statement
+25074167
+Most efficient way to check if a file is empty in Java
+7190618
+Jasper Report export html
+27779612
+Runtime Exception in JavaFX Hello World
+29505275
+How to display values with in piechart using Jfreechart(values in sector )
+7303905
+Fileoutputstream: Flush and Close methods
+31456660
+Jsp String formating Truncate
+6418095
+Apache Commons vs. Google Collections
+1444437
+Why Collections.sort() applies only for Lists and not for Sets?
+17325954
+Register a ContainerRequestFilter with tomcat
+21556961
+Java check if element in object is null
+11470979
+Integrate Hibernate 5.2 with spring
+37651837
+How to get Class<HashTable<String, String>> instance in Java?
+7534500
+Can a java lambda have more than 1 paramater?
+27872387
+How to generate enum from properties file using ant?
+3003798
+The usage of multiple import statements in a program affects the runtime performance.
+2001217
+Couting number of words in a file Java
+4094119
+Java: How to round a Value with a key?
+7851492
+Spring @Transactional rollback on all uncaught exceptions
+33528178
+Why int i = 1024 * 1024 * 1024 * 1024; without error report in eclipse?
+24676375
+Java: how to check if 2 lines L1(p1,p2) L2(p3,p4) intersect
+16333650
+Firestore - Why check if DocumentSnapshot is not null AND call ifExists?
+49705216
+Clear Buffer with Datagrams in Java
+17549195
+Find hols in Joda Time - Java intervals
+16987685
+What's the difference between Java 8u65 and 8u66?
+33260616
+Why is it not possible to call List<Number> not with List<Integer> ? even Integer is an extended
+18513990
+Java Prepared Statement arguments!
+419021
+Unity3D Android Build Error WIN32 Exception ZipAlign
+24501944
+If I close a ServerSocket, will the Sockets accpetted by the ServerSocket be also closed?
+36380334
+AssertEquals(String, String) throwing Exception when identical
+36324452
+how can i wait 10 second without locking ui in android
+17237287
+How do You Build a Date or Calendar Object From a String in Java?
+43802
+Error while instrumenting (asm.ClassWriter.getCommonSuperClass)
+11292701
+Spring @Configurable and @Value annotations
+15106163
+Do I need Java JDK for Android Studio
+42172010
+how to quickly calculate time complexity
+9958299
+Clarifying terminology : "Hydrating" an entity : Fetching properties from the DB.
+4929243
+How to store JEE configuration parameters outside of an EAR, WAR ?
+965061
+Gradle depencies in Spring framework
+38171471
+java absolute value
+5444611
+Getting all the enum values from enum value
+2269803
+java for loop debug
+19867070
+Android: convert string using SHA1 with key  
+4534370
+apache-axis java webservices tomcat
+13301882
+Java Regex, List of all special characters that needs to be escaped in regex
+14134558
+Vector is Obsolete Collectio
+30275933
+How to get the array type given the array member type using reflection in Java
+1679421
+Java : Difference Between Object Type and Refrence Type
+16730109
+Array index out of founds on for each loop
+32775698
+How to calling one constructor from another in Java?
+285177
+How to Sort Date descending From Arraylist Date in android?
+13120316
+When Should I synchronize the methods of my utility class?
+13184825
+Why often use: List a = new ArrayList<object> instead ArrayList a = new ArrayList<object>
+9852831
+Firebase : how to get current user's Password?
+47910898
+JAVA Why Java has so many editions unlike C#?
+9218939
+[Java] new Date(2009, 12, 9) is deprecated
+1874298
+What is the different of a == null and null == a in Java
+28594183
+How do you send email from a Java app using Gmail?
+46663
+Java error: Only a type can be imported. XYZ resolves to a package.
+1858463
+Akka remote routees using azure virtual machines
+28000520
+Validate Ip address
+5667371
+Sort abstract list
+4191855
+animating a floating action button using property animator
+43261561
+JavaFX DND accept only some extensions
+37962364
+What variable can I use to hold huge numbers (thirty digits plus) in java?
+18444337
+jpython multithreading
+10568358
+return multiple value in eclipse
+13393490
+Explain this confusing line of code
+16833100
+does a class without fields have a special name of class?
+30947789
+Geotools can't find HSQL EPSQ DB, throws NoSuchAuthorityCodeException
+27429097
+public static void main(String args[]) in JAVA
+11952804
+JPA EntityGraph different views
+31216971
+Using Java5/6 features in Java 4
+1011706
